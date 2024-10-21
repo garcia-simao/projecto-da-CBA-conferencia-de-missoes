@@ -18,6 +18,7 @@ def gerar_cracha(nome, sobrenome ,funcao, caminho_da_foto, caminho_pasta_para_sa
 
     texto1="Convenção Baptista de Angola"
     texto2="Departamento de envagelismo e Missões"
+    texto3 = "PARTICIPANTE"
 
     #criar uma imagem com fundo branco
     imagem = Image.new('RGB', (largura,altura), 'white')
@@ -41,13 +42,29 @@ def gerar_cracha(nome, sobrenome ,funcao, caminho_da_foto, caminho_pasta_para_sa
     desenhar.text((posicao_sobrenome, 380), sobrenome, font=fonte_sobrenome, fill="black")
 
     posicao_funcao = centralizar_texto(desenhar, funcao, fonte_funcao, largura)
-    desenhar.text((posicao_funcao, 550), funcao, font=fonte_funcao, fill="black")
+    desenhar.text((posicao_funcao, 450), funcao, font=fonte_funcao, fill="black")
 
     posicao_texto1 = centralizar_texto(desenhar, texto1, fonte_texto, largura)
     desenhar.text((posicao_texto1, 180), texto1, font=fonte_texto, fill="black")
 
     posicao_texto2 = centralizar_texto(desenhar, texto2, fonte_texto, largura)
     desenhar.text((posicao_texto2, 200), texto2, font=fonte_texto, fill="black")
+
+    posicao_texto3 = centralizar_texto(desenhar, texto3, fonte_texto, largura)
+    desenhar.text((posicao_texto3, 550), texto3, font=fonte_texto, fill="black")
+
+    # Desenhar um retângulo verde ao redor do texto3
+    largura_texto3, altura_texto3 = desenhar.textsize(texto3, font=fonte_texto)
+    posicao_texto3 = centralizar_texto(desenhar, texto3, fonte_texto, largura)
+
+    padding = 10  # margem extra ao redor do texto
+    desenhar.rectangle(
+        [posicao_texto3 - padding, 540, posicao_texto3 + largura_texto3 + padding, 550 + altura_texto3 + padding],
+        fill="green"
+    )
+
+    # Desenhar o texto3 dentro do retângulo verde
+    desenhar.text((posicao_texto3, 550), texto3, font=fonte_texto, fill="white")
 
     foto = Image.open(caminho_da_foto)
     foto = foto.resize((310,130), Image.ANTIALIAS)
