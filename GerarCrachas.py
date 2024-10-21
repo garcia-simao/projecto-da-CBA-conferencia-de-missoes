@@ -11,9 +11,10 @@ def centralizar_texto(desenhar, texto, fonte, largura_total):
     return posicao_x
 
 def gerar_cracha(nome, sobrenome ,funcao, caminho_da_foto, caminho_pasta_para_salvar):
+    resolucao = 300
 
     #tamanho do cracha
-    largura, altura= 400, 600
+    largura, altura= int(30 * resolucao // 25.4), int(50 * resolucao // 25.4)  # mm para pixels
 
     texto1="Convenção Baptista de Angola"
     texto2="Departamento de envagelismo e Missões"
@@ -23,10 +24,10 @@ def gerar_cracha(nome, sobrenome ,funcao, caminho_da_foto, caminho_pasta_para_sa
     desenhar=ImageDraw.Draw(imagem)
 
     # Fonte com melhor qualidade
-    fonte_nome = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", 45)
+    fonte_nome = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", 30)
     fonte_funcao = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", 25)
-    fonte_sobrenome = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", 45)
-    fonte_texto = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", 10)
+    fonte_sobrenome = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", 30)
+    fonte_texto = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", 15)
 
     # Etiquetas antes do nome e cargo
     #desenhar.text((50, 400), "Nome:", font=fonte_nome, fill="black")
@@ -43,18 +44,18 @@ def gerar_cracha(nome, sobrenome ,funcao, caminho_da_foto, caminho_pasta_para_sa
     desenhar.text((posicao_funcao, 550), funcao, font=fonte_funcao, fill="black")
 
     posicao_texto1 = centralizar_texto(desenhar, texto1, fonte_texto, largura)
-    desenhar.text((posicao_texto1, 150), texto1, font=fonte_texto, fill="black")
+    desenhar.text((posicao_texto1, 180), texto1, font=fonte_texto, fill="black")
 
     posicao_texto2 = centralizar_texto(desenhar, texto2, fonte_texto, largura)
-    desenhar.text((posicao_texto2, 170), texto2, font=fonte_texto, fill="black")
+    desenhar.text((posicao_texto2, 200), texto2, font=fonte_texto, fill="black")
 
     foto = Image.open(caminho_da_foto)
-    foto = foto.resize((310,100))
+    foto = foto.resize((310,130), Image.ANTIALIAS)
     imagem.paste(foto, (50, 50))
 
     caminho_completo = os.path.join(caminho_pasta_para_salvar, f"{nome} {sobrenome}.pdf")
 
-    imagem.save(caminho_completo)
+    imagem.save(caminho_completo, "PDF", resolution=resolucao)
     print(f"Cracha salvo em {caminho_pasta_para_salvar}")
 
 
