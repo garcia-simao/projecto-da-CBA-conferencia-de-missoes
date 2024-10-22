@@ -20,6 +20,12 @@ ler_arquivo= pd.read_excel(documento_excel)
 for i , j in ler_arquivo.iterrows():
     telefone = j['numero_telefone']
 
+    # Verificar se a célula está vazia ou se o número contém caracteres não numéricos
+    if pd.isna(telefone) or not str(telefone).isdigit() or len(
+            str(telefone)) < 9:
+        print(f"Número inválido ou célula vazia: {telefone}, ignorando...")
+        continue  # Pula para a próxima iteração do loop
+
     data = {
         "message": {
             "api_key_app": "prdc4b5a87b97d15edf8aa0cb5929",
