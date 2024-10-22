@@ -70,9 +70,9 @@ def gerar_cracha(nome, sobrenome ,funcao, caminho_da_foto, caminho_pasta_para_sa
     foto = foto.resize((310,130), Image.ANTIALIAS)
     imagem.paste(foto, (50, 50))
 
-    caminho_completo = os.path.join(caminho_pasta_para_salvar, f"{nome} {sobrenome}.pdf")
+    caminho_completo = os.path.join(caminho_pasta_para_salvar, f"{nome} {sobrenome}.png")
 
-    imagem.save(caminho_completo, "PDF", resolution=resolucao)
+    imagem.save(caminho_completo, "PNG", resolution=resolucao)
     print(f"Cracha salvo em {caminho_pasta_para_salvar}")
 
 
