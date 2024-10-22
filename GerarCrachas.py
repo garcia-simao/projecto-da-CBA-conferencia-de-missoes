@@ -14,11 +14,13 @@ def gerar_cracha(nome, sobrenome ,funcao, caminho_da_foto, caminho_pasta_para_sa
     resolucao = 300
 
     #tamanho do cracha
-    largura, altura= int(30 * resolucao // 25.4), int(50 * resolucao // 25.4)  # mm para pixels
+    largura, altura= int(50 * resolucao // 25.4), int(70 * resolucao // 25.4)  # mm para pixels
 
     texto1="Convenção Baptista de Angola"
     texto2="Departamento de envagelismo e Missões"
     texto3 = "PARTICIPANTE"
+    texto4 = "CONFERÊNCIA INTERNACIONAL DE MISSÕES"
+    texto5 = "LUANDA, 26 DE OUTUBRO DE 2024"
 
     #criar uma imagem com fundo branco
     imagem = Image.new('RGB', (largura,altura), 'white')
@@ -28,13 +30,9 @@ def gerar_cracha(nome, sobrenome ,funcao, caminho_da_foto, caminho_pasta_para_sa
     fonte_nome = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", 30)
     fonte_funcao = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", 25)
     fonte_sobrenome = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", 30)
-    fonte_texto = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", 15)
+    fonte_texto = ImageFont.truetype("/usr/share/fonts/truetype/roboto/Roboto-Bold.ttf", 15)
 
-    # Etiquetas antes do nome e cargo
-    #desenhar.text((50, 400), "Nome:", font=fonte_nome, fill="black")
-    #desenhar.text((50, 450), "Função:", font=fonte_nome, fill="black")
-
-    #inserir nome e funcao no cracha
+    #inserir nome , funcao no cracha e os textos
     posicao_nome = centralizar_texto(desenhar, nome, fonte_nome, largura)
     desenhar.text((posicao_nome,300), nome, font=fonte_nome, fill="black")
 
@@ -45,10 +43,10 @@ def gerar_cracha(nome, sobrenome ,funcao, caminho_da_foto, caminho_pasta_para_sa
     desenhar.text((posicao_funcao, 450), funcao, font=fonte_funcao, fill="black")
 
     posicao_texto1 = centralizar_texto(desenhar, texto1, fonte_texto, largura)
-    desenhar.text((posicao_texto1, 180), texto1, font=fonte_texto, fill="black")
+    desenhar.text((posicao_texto1, 190), texto1, font=fonte_texto, fill="black")
 
     posicao_texto2 = centralizar_texto(desenhar, texto2, fonte_texto, largura)
-    desenhar.text((posicao_texto2, 200), texto2, font=fonte_texto, fill="black")
+    desenhar.text((posicao_texto2, 210), texto2, font=fonte_texto, fill="black")
 
     posicao_texto3 = centralizar_texto(desenhar, texto3, fonte_texto, largura)
     desenhar.text((posicao_texto3, 550), texto3, font=fonte_texto, fill="black")
@@ -66,13 +64,19 @@ def gerar_cracha(nome, sobrenome ,funcao, caminho_da_foto, caminho_pasta_para_sa
     # Desenhar o texto3 dentro do retângulo verde
     desenhar.text((posicao_texto3, 550), texto3, font=fonte_texto, fill="white")
 
+    posicao_texto4 = centralizar_texto(desenhar, texto4, fonte_texto, largura)
+    desenhar.text((posicao_texto2, 230), texto4, font=fonte_texto, fill="black")
+
+    posicao_texto5 = centralizar_texto(desenhar, texto5, fonte_texto, largura)
+    desenhar.text((posicao_texto5, 250), texto5, font=fonte_texto, fill="black")
+
     foto = Image.open(caminho_da_foto)
-    foto = foto.resize((310,130), Image.ANTIALIAS)
-    imagem.paste(foto, (50, 50))
+    foto = foto.resize((200,140), Image.LANCZOS)
+    imagem.paste(foto, (200, 50))
 
     caminho_completo = os.path.join(caminho_pasta_para_salvar, f"{nome} {sobrenome}.png")
 
-    imagem.save(caminho_completo, "PNG", resolution=resolucao)
+    imagem.save(caminho_completo, "PNG", optimize=True, quality=95)
     print(f"Cracha salvo em {caminho_pasta_para_salvar}")
 
 
