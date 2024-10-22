@@ -83,7 +83,7 @@ def gerar_cracha(nome, sobrenome ,funcao, caminho_da_foto, caminho_pasta_para_sa
 # Função para gerar crachás em massa a partir de um arquivo CSV
 def gerar_crachas_em_massa(caminho_do_documento, caminho_da_foto, caminho_pasta_para_salvar):
     # Ler o arquivo CSV
-    #documento = pd.read_csv(csv_path)
+    #documento = pd.read_csv(caminho_do_documento)
     documento = pd.read_excel(caminho_do_documento)
 
     print("Colunas disponíveis:", documento.columns.tolist())

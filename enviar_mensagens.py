@@ -26,11 +26,15 @@ for i , j in ler_arquivo.iterrows():
         print(f"Número inválido ou célula vazia: {telefone}, ignorando...")
         continue  # Pula para a próxima iteração do loop
 
+    mensagem =( "Amado(a), confirmamos a sua inscricao na Conferencia Internacional de Missoes, dia 26.2"
+                "As contrib. de 1.000kzs podem ser enviadas para o IBAN A006 0040 0000 4387 5824 1066 2"
+                "CBA e o comprovativo para WhatsApp 923386289")
+
     data = {
         "message": {
             "api_key_app": "prdc4b5a87b97d15edf8aa0cb5929",
             "phone_number": str(telefone),
-            "message_body": "Mensagem de teste CBA"
+            "message_body": mensagem
         }
     }
 

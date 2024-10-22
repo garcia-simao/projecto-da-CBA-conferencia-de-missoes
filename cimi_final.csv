@@ -1,504 +1,542 @@
-﻿ID;Primeiro nome;Ultimo Nome;Provincia;Telefone;Email;Funçao;Igreja;;;;;;;;;;;;
-1;Abilio David;Lumbo;Luanda;926761211;abiliolumbo@gmail.com;Professor da escola bíblica dominical;Igreja Baptista Ebénezer da Sapú;;Provincia;Total;Total de Registo;;;;;;;;
-2;Adalgiza;Ribeiro;Luanda;930202898;gizamaya@yahoo.com;Evangelismo;Igreja batista nova aliança;;Luanda;270;315;;;;;;;;
-3;Adelaide;Benedito;Luanda;915552091;marhell.malandila2008@gmail.com;Diaconiza;1 igreja Batista de Luanda;;Bengo;8;;;;;Segunda Igreja Baptista De Luanda;9;;;Total Igrejas
-4;Adelino;Ngongo;Cuando Cubango;932626701;adelinongongo1999@gmail.com;Missionário Provincial da JBA;Segunda Igreja Batista de Menongue;;Uige;8;;;;;Igreja Batista Da Samba;1;;;314
-5;Aderito João;Gomes;Luanda;938595333;missionarioaderito@gmail.com;Missionário;2°Igreja Baptista do Morro Bento;;Lunda Sul;1;;;;;2 igreja Batista de;1;;;
-6;Adilson;Quitadi;Luanda;929357217;aquitade@gmail.com;Membro em plena comunhão;1ª Igreja Baptista do Zango;;Bie;2;;;;;Baptista Amor de Deus;4;;;
-7;Adjamila;Mazenda;Luanda;943087032;adjamilamazenda0@gmail.com;Delegada de Informação Medica;Terceira igreja batista de Luanda;;Cuanza Sul;6;;;;;Igreja Baptista Boa Esperança;4;;;
-8;Afonso;José;Luanda;925229611;fjbengui@yahoo.com.br;Moderador adjunto de Missões;Primeira Igreja Baptista de Luanda;;Malanje;2;;;;;Igreja Baptista Nova Vida;8;;;
-9;Afonso;Firmino;Luanda;929706041;elizabethviegas205@gmail.com;Missionário;Terceira Igreja Baptista de Luanda;;Huambo;4;;;;;1ª Evangélica Baptista de Sapú 2;2;;;
-10;Agostinho;Vulola;Luanda;944457048;vulolajunior30@gmail.com;Vice moderador da igreja;Segunda Igreja Baptista do Rocha Pinto;;Benguela;5;;;;;Segunda igreja Baptista do Zango;12;;;
-11;Agostinho;Lopes;Luanda;934233424;Agostnhosaunha@gmail.com;Moderador de Finanças;Igreja Baptista da Estalagem km12A;;Moxico;2;;;;;Igreja Baptista Ebenézer Da Sapú;2;;;
-12;Agostinho;Lopes;Bengo;934233424;Agostnhosaunha@gmail.com;Moderador de Finanças;Igreja Baptista da Estalagem km12A;;Zaire;4;;;;;Primeira Igreja Baptista de Viana;1;;;
-13;Albertina;Victorino;Luanda;923504473;albertinavito78@gmail.com;Missionária;3ª Igreja Baptista de Viana;;Cuando Cubango;1;;;;;SIBZ;2;;;
-14;Alberto;Condele;Luanda;924117615;malaquiasmolo1984@gmail.com;Secretário de Missões;Primeira Igreja Evangélica Baptista de Luanda;;Cabinda;2;;;;;Igreja Baptista da Trindade;2;;;
-15;Alberto;Gamba;Luanda;923515952;danieldambi47@gmail.com;Lider de Missões;Igreja Baptista da Fé;;;;;;;;1ª IGREJA BAPTISTA DO ROCHA PINTO;12;;;
-16;Alberto;Cazeza;Luanda;933159216;cazezaczezaalbertomuanamoxi@gilm.com;Missionário;Igreja Baptista Ebenezer da Sapu;;;;;;;;Primeira Igreja Baptista De Luanda;4;;;
-17;ALBERTO;NGOLA;Luanda;926152250;panguila@yahoo.com.br;TESSOUREIRO;IGREJA BAPTISTA DO PRENDA;;;;;;;;Quinta igreja Batista de Cacuaco;4;;;
-18;Alberto;Guiwho;Luanda;925581265;goncalvesalbeerto02@gmail.com;Auxiliar no ministério com crianças e membro da comunicação e imagem;Segunda Igreja Baptista do Zango;;Secretária da A Voz Anjos;1;;;;;3 Baptista se Luanda;1;;;
-19;Alberto;Panzo;Luanda;929769268;leonelbetilson@gmail.com;Director adjunto de comissão de Finanças;Igreja Batista de Canaã;;Diretor De Missões;2;;;;;Primeira igreja evangelica Batista de Viana;1;;;
-20;Alberto;Ebo;Luanda;941056719;muenhoatok@gmail.com;Secretário dos Embaixadores do Rei;Memorial da fé;;Professora da EBD;2;;;;;igreja Baptista de Boavista;2;;;
-21;Alcino;Camuege;Luanda;925111483;alcinoramoscamuege@gmail.com;Missionário;Iª Igreja Evangélica Baptista de Sapú II;;Liturgista;1;;;;;1ª IGREJA BAPTISTA DO ROCHA PINTO (Missão CAPARI);1;;;
-22;Alexandre;António;Luanda;;alexandrekiesse1@gmail.com;Pastor;Boas Novas do Golf;;Missionário;29;;;;;Primeira Igreja Evangélica Baptista de Luanda;1;;;
-23;Alexandre;Mialda;Luanda;936555775;alexandrefernandomialda@gmail.com;Membro;2 Igreja Baptista de Luanda;;Diácono;14;;;;;Segunda de Luanda;1;;;
-24;Alexandre;Mialda;Luanda;936555775;alexandrefernandomialda@gmail.com;Membro;2 Igreja Baptista de Luanda;;Pastor;33;;;;;Igreja Baptista Paixão de Cristo;7;;;
-25;Alexandre Martins;Martins;Luanda;921468120;Martinsgoncalves@35gmail.com;Coordenador de Missoes;Missão/ Boas Novas do golf.;;Secretario;2;;;;;2@Igreja Baptista de Luanda;1;;;
-26;Alfa;Cabens;Luanda;948593609;alfaomegarafael@gmail.com;Membro;Vinda de Cristo;;Professora;9;;;;;Igreja Batista do Bairro 15 de Fevereiro;7;;;
-27;Alfredo;Garcia;Luanda;925830144;brandaogarcia48@gmail.com;Professor do ministério com crianças;Segunda Igreja Baptista do Zango;;Professor;6;;;;;Segunda igreja batispta de Luanda;1;;;
-28;Alfredo;Pinto;Bengo;957406008;pauloantonionzuzi@gmail.com;Corista;Igreja Baptista Ebenézer da Sapú;;Técnica de enfermagem;1;;;;;Baptista do Ndala Muleba;1;;;
-29;Alfredo;Joaquim;Luanda;923891248;alfredoalfredodomingosjoaquim@gmail.com;Pastor;Igreja Evangélica Baptista da Trindade;;Membro;13;;;;;Igreja Baptista da Fé;2;;;
-30;Altino;Lourenço;Luanda;933655257;ernestoelisio47@gmail.com;Discipulador;Segunda Igreja Evangélica Baptista de Luanda;;Programadora;1;;;;;1ª Evangélica Baptista de Luanda;5;;;
-31;Amândio;Savissenga;Luanda;948560000;savissenga1@gmail.com;Professor da EBD;Primeira Igreja Baptista do Zango;;LIDER DA JUVENTUDE;3;;;;;Segunda Igreja Evangélica Baptista de Luanda;1;;;
-32;Ana;Renato;Luanda;925632594;pauloantonionzuzi@gmail.com;Lider das Moças;Igreja Baptista Ebenézer da Sapú;;Prof da EBD;1;;;;;Memorial da fé;5;;;
-33;Ana Carla;Gomes;Luanda;926152250;panguila@yahoo.com.br;Diaconisa conselheira;Igreja Batista do Prenda;;DIRETOR PATRIMONIO E FINANÇAS;1;;;;;Protestante;1;;;
-34;Ana da Graça;Muto;Luanda;929869984;primeiraigrejabaptistadozango1@gmail.com;Moderadora do departamento de Missões;1ª Igreja Baptista do Zango;;DIRETOR DE MUSICA;1;;;;;Igreja Baptista de boa vista;1;;;
-35;Ana Maria;Samba;Luanda;923583749;joanidiamialda@gmail.com;Diaconisa;2 Igreja Baptista de Luanda;;SECRETARIA DA IGREJA;1;;;;;Igreja Baptista do Bairro Novo Km 12A;4;;;
-36;Anacleta;Mbulo;Luanda;930025168;josemacanda22@gmail.com;Secretaria do departamento de missões local;Igreja Baptista de Canaã;;Tesoureiro da evangelismo e missões;1;;;;;Missão Baptista do Bela vista do Monte;1;;;
-37;Analtina;Vucusse;Luanda;933677265;pauloantonionzuzi@gmail.com;Secretaria da UFMB;Igreja Baptista Ebenézer da Sapú;;Secretaria do Evangelismo e Missões;2;;;;;1• Igreja Evangélica Baptista de Sapú 2;1;;;
-38;André;Agostinho;Luanda;930588181;bartolomeu2015@hotmail.com;Presidente da ordem de pastores Baptista de Luanda;3a Igreja Baptista de Luanda;;DIRETOR DA JUVENTUDE;4;;;;;Segunda Igreja Baptista de Saurimo;1;;;
-39;André;Hebo;Luanda;928682263;pauloantonionzuzi@gmail.com;Diácono;Igreja Baptista Ebenézer da Sapú;;DIRETORA UFM;1;;;;;Igreja Baptista de Redenção;1;;;
-40;Ângela;João;Luanda;929328168;pembejoao@gmail.com;Professora;1ª Evangélica Baptista de Sapú 2;;Moderador de missões;2;;;;;1ª Igreja Baptista do Cuito;1;;;
-41;Angélica;Anito;Luanda;945231593;alcinoramoscamuege@gmail.com;Directora do Departamento de Administração Património e Finanças;Iª Igreja Evangélica Baptista de Sapú II;;Director de missões;4;;;;;Igreja Batista do Prenda;3;;;
-42;Angélica Celestina Henda;Anito;Luanda;945231593;alcinoramoscamuege@gmail.com;Directora do Departamento de Administração Património e Finanças;Iª Igreja Evangélica Baptista de Sapú II;;VICE PRESIDENTE DIACONAL;1;;;;;1ª IGREJA BAPTISTA DO ROCHA PINTO (Missão Misericórdia de Deus);1;;;
-43;Angelina;Gomes;Luanda;937540260;isabelgomes200027@gmail.com;Professora;Segunda Igreja Evangélica Baptista de Luanda;;Diacono;4;;;;;Primeira igreja Baptista do Rocha Pinto;2;;;
-44;Angelino;Zenha;Luanda;949916130;Angelinoedgarz@gmail.com;Moderador;Cazenga;;PRESIDENTE DIACONAL;1;;;;;Segunda Igreja Baptista do Rocha Pinto;2;;;
-45;Ângelo António neves campos;Campos;Luanda;923573668;angelocacuabicacuabi@giml.com;Membro;Igreja Baptista do Simione;;MODERADOR DO DEC;1;;;;;Boa Esperança;2;;;
-46;Antonio;Zua;Luanda;923344578;caxingazua@gmail.com;Diacono;Primeira Igreja Evangelica Baptista de Viana;;DIRETORA PROVINCIAL DA UFMB;1;;;;;3-Igreja Batista Luanda;1;;;
-47;António;Fino;Uige;926090521;antoniocefas19@gmail.com;Missionário;Primeira Igreja Baptista De Luanda;;Professor da Escola Bíblica Dominical;1;;;;;1° Igreja Baptista do Sumbe;1;;;
-48;António;Joveth;Luanda;948384989;kintilsonjoveth23@gmail.com;Programador da juventude;Igreja Baptista de Camadeira;;MISSIONARIO;3;;;;;Segunda Igreja Baptista do Zango- SIBZ;1;;;
-49;António;Mbulo;Zaire;923211563;Antoniombulo@gmail.com;Missionário;Primeira Igreja Baptista do Zaire/Soyo;;Secretário de Missões;2;;;;;Baptista da Londa2;1;;;
-50;António;Paulo;Luanda;924011479;ajpaul1401@gmail.com;Membro do Departamento;Primeira Igreja Baptista de Luanda;;Regente;1;;;;;3 Igreja Baptista de Luanda;4;;;
-51;António;Cefas;Uige;2,44926E+11;ajpaul1401@gmail.com;Missionário;Primeira Igreja Baptista de Luanda;;Programador;1;;;;;3 igreja batista de luanda;1;;;
-52;António;Bento;Luanda;975332875;antoniobentoquina@gmail.com;Membro;Igreja Baptista Ebenézer da Sapú;;Director de Diáconos;1;;;;;Igreja b. Bom Pastor;1;;;
-53;António;Orlando;Luanda;923131902;malaquiasmolo1984@gmail.com;Missionário;Primeira Igreja Evangélica Baptista de Luanda;;Vice-diretor de missões;1;;;;;Igreja b.boavista;1;;;
-54;Antônio Samuel Fama;Fama;Luanda;936749887;florindofortunato@gmail.com;Pastor;I igreja Baptista de Luanda;;Director do departamento de Música;1;;;;;Canaã;4;;;
-55;Apolinário;Tuca;Luanda;923717495;apolinariotuca@hotmail.com;Missionário;2 Igreja Baptista do Zango;;Diretor Evangelismo e Missões;1;;;;;2ª de Viana;3;;;
-56;Arlete;Chipalavela;Luanda;922019800;arletechipalavela@fmail.com;Professora de Crianças;Igreja Baptista Nova Aliança;;Estudante;3;;;;;Igreja Batista de Canaã;3;;;
-57;Arminda;Ferreira;Luanda;944443853;elpereirao010@gmail.com;Secretaria De Evangelismo E Missões;Igreja Batista Da Samba;;Lider de Missões;2;;;;;Igreja Batista do Simione;2;;;
-58;Arminda;Carruagem;Luanda;933629198;rosariarodrigues2530@gmail.com;Vice- Presidente do Dep. Missões;Missão Baptista do Benfica;;Director do Departamento de Missões;1;;;;;Igreja Baptista Sal da Terra;1;;;
-59;Armindo;Rocha;Luanda;923534330;armindocordeiro78@gmail.com;Director do departamento de Música;2@Igreja Baptista de Luanda;;Líder de missões;7;;;;;IEIA Km 12;1;;;
-60;Armindo;Dungo;Bengo;932374610;adimimasdungo@gmail.com;Director da música;Missão Baptista do Bela vista do Monte;;Líder do património;1;;;;;1ª Igreja Baptista do Zango;3;;;
-61;Augusta;Paca;Uige;915552091;marhell.malandila2008@gmail.com;Diaconisa;Igreja do centro do uige;;Discipulador;1;;;;;Trilha;1;;;
-62;Augusto;Manuel;Luanda;922763554;cardosohumbajeronimo972@gmail.com;Programador;Igreja Baptista Paixão de Cristo;;Líder dos adolescentes;1;;;;;Primeira Baptista do Rocha Pinto;2;;;
-63;Augusto;Ulungui;Luanda;927650250;ulungui@hotmail.com;Missionário;II igreja Baptista Morro Bento;;2° líder de missões;1;;;;;2ª IGREJA BAPTISTA DA SAPÚ 1;1;;;
-64;Augusto;Da Silva;Luanda;953521744;augustodajumatra@gmail.com;Membro;1ª Igreja Baptista da Sapú;;Pastor titular;1;;;;;Primeira Igreja Evangelica Baptista de Viana;3;;;
-65;Augusto de Almeida;André;Luanda;944488420;andrezandrezalmeida@gmail.com;Director da EBD;IGREJA BAPTISTA EBENÉZER DA SAPÚ;;Parte do Departamento de Missões internas;1;;;;;Igreja Baptista do Centro da Cidade do Uige;2;;;
-66;Áurea;Samba;Luanda;923085684;eunicemonteiro803@gmail.com;Professora auxiliar;Segunda Igreja Baptista do Zango;;Missionária;6;;;;;I.B do Bairro 15 de Fevereiro;1;;;
-67;Azevedo;Chivela;Huambo;931251367;chivelazevedo2022@gmail.com;Líder ministério de missões;Igreja Baptista vida nova;;Secretaria do campo missionário;1;;;;;2 Igreja Baptista de Malanje;1;;;
-68;Baptista;Carreia;Luanda;949165471;flavianoandrebatista@gmail.com;Líder de missões;15 de fevereiro Iraque;;1º secretário;1;;;;;Seguanda igreja Baptista do zango;1;;;
-69;Beatriz;Caidi;Luanda;932171774;rosamadinga@gmail.com;Membro;Segunda Igreja Baptista de Luanda;;Director da música;1;;;;;Igreja Baptista Vinda de Cristo.;3;;;
-70;Bemvinda;Mesac;Luanda;929611126;marinasiladacruz@gmail.com;Líder da Juventude;Igreja Baptista da Glória;;Director do Departamento de Missões Locais;1;;;;;Igreja Baptista de Canaã (estalagem );1;;;
-71;Benadade Albano;Lopes Chipikita;Luanda;933725675;balchipikita@gmail.com;Líder dos Dpts de Música e de Comunicação e Imagem;Igreja Baptista de Boavista;;Moderador de Missões( Missionário);1;;;;;Igreja Evangelica Baptista de Belém;7;;;
-72;Benedito;Benedito;Luanda;936608544;pauloantonionzuzi@gmail.com;Lider de Missões;Igreja Baptista Ebenézer da Sapú;;Líder;2;;;;;Baptista Sal da Terra;1;;;
-73;Benileydi;Benileydi;Luanda;949402455;benitamanuel651@gmail.com;membro;igreja batista Ebenezer da sapu;;Evangelista;2;;;;;Iª Igreja Evangélica Baptista de Sapú II;3;;;
-74;Benivaldo;Arthur;Luanda;945017537;benivaldoadelinojornalista@gmail.com;Evangelista;ADP Nova Jerusalém;;VICE MODERADOR DE MISSÕES;1;;;;;Igreja batista nova aliança;1;;;
-75;Benjamim;Bernardo;Luanda;924686955;benjamim.manuel924@gmail.com;Membro;Igreja Baptista Ebenézer Da Sapú;;Vice moderador da igreja;1;;;;;Igreja Batista da Londa-2 Sumbe;1;;;
-76;Benjamim;Simão;Huambo;923778130;benjamimovidio@hotmail.com;Professor;Igreja Baptista Relevante do Lossambo;;Director adjunto da UMMBL;1;;;;;Terceira igreja do Negage;1;;;
-77;Benjamim Kiala;Kiala;Luanda;926519062;benjamimkiala@gmail.com;Moderador de missões;3 Baptista se Luanda;;Diaconosa;1;;;;;Igreja Baptista da Glória;1;;;
-78;Bernardo;Makidica;Luanda;935010782;benilsonisabel20@gmail.com;2° secretário;Missão evangélica Baptista Caminho da vida (Igreja Baptista de Canaã);;Membro-Lider;1;;;;;Igreja Batista da londa 2 - Sumbe;1;;;
-79;Bernardo;Narciso;Luanda;923409418;bernardonarciso90@gmail.com;Missionário;Baptista Amor de Deus;;Diacono e Moderador da Igreja;1;;;;;Primeira Igreja Baptista do Prenda;1;;;
-80;Bráulio;Almeida;Luanda;926152250;panguila@yahoo.com.br;Líderes do Ministério com Família;Igreja Batista do Prenda;;Vice-Directora da Sociedade de Moças da SIBZ;1;;;;;Igreja Baptista Nova Jerusalém;1;;;
-81;Cardoso;João;Luanda;936767373;savissenga1@gmail.com;Pastor da Igreja;Primeira Igreja Baptista do Zango;;Professor do ministério com crianças;1;;;;;Igreja Baptista de Belém;1;;;
-82;Carlitos;Dinis;Luanda;923581868;Carlitosestevesd@gmil.com;Diácono;Baptista Amor de Deus;;Vice Directora da UFMBA;1;;;;;Terceira igreja Baptista de Luanda;4;;;
-83;Carlos;dos Santos;Luanda;951057436;carlosjesus91@hotmail.com;Membro-Lider;3-Igreja Batista Luanda;;Missonario;1;;;;;Segunda Igreja Baptista Angola;1;;;
-84;Carlos;Zanzi;Luanda;926519665;grupo.domingosalberto2017@gamil.con;Secretario;Igreja Baptista Vinda de Cristo.;;Directora da E.B.D;1;;;;;Boas Novas do Golf.;1;;;
-85;Carlos;Dos Santos;Luanda;928947574;carlosjesus91@hotmail.com;Membro/Lider;Terceira Igreja batista de luanda;;Diretora da EBD;1;;;;;Boas novas;1;;;
-86;Carlos;Samba;Luanda;923745627;kianvo24@gmail.com;Conselheiro da igreja;Segunda igreja Baptista de Luanda;;Moderador de missões local;1;;;;;Igreja Baptista Vinda de Cristo;3;;;
-87;Carlos;Monteiro;Luanda;923105484;carloscamuto17@gmeil.com;Missionário;2 Igreja Baptista do Zango;;Tesoureira da Juventude Provincial;1;;;;;Igreja Baptista da Paz;2;;;
-88;Carlos;António;Luanda;945821960;pauloantonionzuzi@gmail.com;Diácono;Igreja Baptista Ebenézer da Sapú;;Kapa;1;;;;;Igreja Baptista da Estalagem km12A;1;;;
-89;Casimiro;Miguel;Luanda;925577949;casimiroartpop@gmail.com;Membro;Nova aliança;;Director do Departamento da Acção Social;2;;;;;Segunda igreja Batista do Morro Bento;1;;;
-90;Cecilia;Augusto;Luanda;936052172;graciethgomesaugusto@gmail.com;Secretaria do campo missionário;Igreja Baptista de boa vista;;Secretário;4;;;;;Pib Luanda;1;;;
-91;Celeste;Samuel;Luanda;936265921;josecasacaladinisjosedinis@gmail.com;Directa do D.E.C;Igreja Evangélica Baptista de Canaã -Estalagem;;Director da Directoria de educação Cristã;1;;;;;Igreja Baptista Relevante do Lossambo;1;;;
-92;Celma;Mucuto;Luanda;931111014;albertoclesia97@gmail.com;Presidente da SM;Boas novas;;Membro em plena comunhão;1;;;;;Igreja Batista da glória;1;;;
-93;Celma;Mucuto;Luanda;931111014;celmacesar595@gmail.com;Professor;Boas novas do golf;;Moderadora do departamento de Missões;1;;;;;Cazenga;1;;;
-94;Celma;Mucuto;Luanda;931111014;celmacesar595@gmail.com;Professor;Boas novas do golf;;Missionário e Diácono;1;;;;;Primeira Igreja Batista do Cassequel;1;;;
-95;Celson;Cafumbila;Lunda Sul;944113528;celsoncafumbila1012@gmail.com;Tesoureiro;Igreja Baptista Semeador;;Professora auxiliar;1;;;;;Baptista;1;;;
-96;Cesalina;Correia;Luanda;929106063;correiacesaltinacorreia@gmail.com;Estudante;Boas novas do golf;;Líder do departamento de missões e evangelismo;1;;;;;Igreja Baptista de Camadeira;1;;;
-97;Cláudia;Nicolau;Luanda;938491006;claudianuma701@gmail.com;Vice secretária da missão Km 33;Igreja Baptista Ebenézer da Sapu;;Professor da EBD;2;;;;;Batista da Boavista;1;;;
-98;Cláudia;Numa;Luanda;938491006;pauloantonionzuzi@gmail.com;Secretaria;Igreja Baptista Ebenézer da Sapú;;Coordenador da Juventude;1;;;;;Igreja Baptista vida nova;1;;;
-99;Cláudia;Pinto;Luanda;928657671;pauloantonionzuzi@gmail.com;Lider da Acção Social;Igreja Baptista Ebenézer da Sapú;;Pasror;1;;;;;Igreja Baptista Memorial da Fé;1;;;
-100;Cláudio;Vucusse;Luanda;935410003;pauloantonionzuzi@gmail.com;Membro;Igreja Baptista Ebenézer da Sapú;;Líder de Finança;1;;;;;Primeira Igreja Baptista do Lobito;5;;;
-101;Clementina;Bernardo;Luanda;922763554;cardosohumbajeronimo972@gmail.com;Membro;Igreja Baptista Paixão de Cristo;;Lider do ministério com crianças;1;;;;;Igreja Batista Camadeira;1;;;
-102;Clementina Nany Bernardo;Bernardo;Luanda;926296540;mendesbernardo582@gmail.com;Membro da União Femenina;Igreja Baptista Paixão Cristo;;Secretaria de missões;1;;;;;Igreja Batista de Boa Vista;1;;;
-103;Coimbra;Caiadi;Luanda;923477719;coimbracaiadi@gmail.com;Director do Departamento de Missões;Segunda Igreja Baptista de Luanda;;Diretor de missões provincial de Luanda;1;;;;;CBA-Igreja Baptista do Dundo, Lunda-Norte;1;;;
-104;Correia;Manuel;Luanda;926280489;codilson@gmail.com;Líder de Missões;2ª de Viana;;Secretário da igreja;2;;;;;Primeira Igreja Baptista do Belo Horizonte;1;;;
-105;Costa Daniel Paulo;Paulo;Luanda;941377988;filipejose535@gmail.com;Vice-Diretor da Juventude;Canaã;;Directora do Departamento de Administração Património e Finanças;1;;;;;1a igreja evangélica Baptista do Luau;1;;;
-106;Cristina;Magalhães;Luanda;933069502;cristinaquihungo@gmail.com;Programadora;Igreja Baptista Nova Vida;;Evangelismo;1;;;;;Boas novas do golf;3;;;
-107;Cristina;André;Luanda;926453282;delmacris2020@gmail.com;Secretária igreja;Segunda Igreja Baptista Angola;;Dra. UFMB e Prof EBD;1;;;;;Primeira Igreja Baptista do Zaire/Soyo;4;;;
-108;DAMIÃO;SEMBE;Luanda;924945344;pascoal.felix@hotmail.com;MODERADOR DO DEC;1ª IGREJA BAPTISTA DO ROCHA PINTO;;Pr. Dos diáconos;1;;;;;2°Igreja Baptista do Morro Bento;1;;;
-109;Daniel;Dambi;Luanda;924302937;danieldambi47@gmail.com;Diácono;Igreja Baptista da Fé;;Tesoureira;1;;;;;Igreja Baptista de Cabezo - Quibala;1;;;
-110;Daniel;Correia;Luanda;927554083;danieldomingoscorreia@gmail.com;Diácono;Pib Luanda;;Líder da Juventude;2;;;;;2ª Igreja Baptista do Rocha Pinto;1;;;
-111;Daniel Ngueve Katimba;Katimba;Luanda;940862866;florindofortunato@gmail.com;Membro;Igreja Baptista do Bairro Novo Km 12A;;Pastor e membro do depart missões CBA;1;;;;;Igreja Baptista Ebenezer da Sapu;1;;;
-112;Daniela;Ndjeck;Luanda;921059146;danielandjeck@gmail.com;Professora;Segunda igreja Baptista de Luanda;;Secretária igreja;1;;;;;Igreja Evangélica Batista Bom Pastor;1;;;
-113;Daniela;Gato;Luanda;954855009;danielacata16@gmail.com;Professora;Igreja Baptista Ebenézer da sapú;;Presidente da SM;1;;;;;Igreja Baptista Paixão Cristo;1;;;
-114;David;João;Luanda;947687686;davidtaia104@gmail.com;1º secretário;Baptista amor de Deus;;Professor de EBD;1;;;;;Igreja Baptista Boas Novas Do Golf;1;;;
-115;David Gonga Ricardo;Ricardo;Luanda;929679267;d73735209@gmail.com;Membro;Igrega Baptista Boa Esperança;;Moderador de Finanças;1;;;;;Igreja Evangélica Baptista do Ndala Muleba;1;;;
-116;Dédalo P.;dos Santos;Huambo;933806208;desantosluisa@gmail.com;Pastor;I.B. do Macolocolo;;Directora DEC;1;;;;;Segunda igreja Baptista do Morro-bento. CBA;1;;;
-117;Delfina;Miguel;Luanda;922398033;delfinnagmiguel@gmail.com;Gestora de stock;Igreja boas novas do golf;;Líder da juventude e professor da EBD;1;;;;;Para confirmar esta alteração, clique na ligação abaixo:;1;;;
-118;Delman;Chandamissa;Luanda;932302122;delman_c@hotmail.com;Professora EBD;Terceira Igreja Baptista de Luanda;;Moderador;1;;;;;IGREJA BAPTISTA DO PRENDA;9;;;
-119;Denise;Zina;Luanda;949313795;denisezina8@gmail.com;Secretária da juventude;Igreja Baptista ebenezer da sapú;;Programador da juventude;1;;;;;1°Igreja Baptista do Zango;1;;;
-120;Derciana;Nzuzi;Luanda;934964104;pauloantonionzuzi@gmail.com;Corista;Igreja Baptista Ebenézer da Sapú;;Líder do DEM local;1;;;;;Igreja Baptista Fonte de Água Viva;4;;;
-121;Diamantino;João;Luanda;926725952;muenhoatok@gmail.com;Sem função;Memorial da fé;;Marketing;1;;;;;Primeira Igreja Baptista do Zango;4;;;
-122;Dimilson;Oliveira;Malanje;928740960;dimilsondeoliveira96@gmail.com;Professor da EBD;2 Igreja Baptista de Malanje;;Direitora das moças;1;;;;;Primeira Igreja Baptista da Boa Fé2;1;;;
-123;Dinis;Gomes;Luanda;931326436;alehandradosmoranyd@gmail.com;Tesoureiro da evangelismo e missões;Quinta igreja Batista de Cacuaco;;Líder ministério de missões;1;;;;;Primeira Igreja Batista do Benfica;1;;;
-124;Dinis;Francisco;Luanda;924585283;dinissergiofrancisco1510@gmail.com;Diácono;Igreja Evangélica Baptista do Ndala Muleba;;Past3;1;;;;;3ª Igreja Baptista de Viana;4;;;
-125;Diogo A P;Bravo;Luanda;934027951;varilsonfernandes.vf@gmail.com;Missionário;Primeira Igreja Evangélica Baptista de Cacuaco;;Dirigente de louvor;1;;;;;Terceira Igreja batista de luanda;1;;;
-126;Dionisa;Costa;Luanda;926007667;manuelcanguanda5@gmail.com;Líder de missões da igreja;Igreja Evangélica Baptista Luz Divina;;Diácono e professor da EBD;1;;;;;Segunda do morro bento;1;;;
-127;Dionisa;Costa;Luanda;926007667;manuelcanguanda5@gmail.com;Líder de missões da igreja;Igreja Evangélica Baptista Luz Divina;;Missionário da Ganda;1;;;;;Igreja Baptista Graça a Deus;1;;;
-128;Distinto;Augusto;Luanda;922961956;distinto.ma@gmail.com;Secretário;2ª IGREJA BAPTISTA DA SAPÚ 1;;Vice-Diretor da Juventude;1;;;;;Segunda Igreja Baptista do Morro Bento;1;;;
-129;Distinto;Ferraz Nunes;Luanda;923704543;distinto.ma@gmail.com;Pastor;2ª IGREJA BAPTISTA DA SAPÚ 1;;Líder dos Dpts de Música e de Comunicação e Imagem;1;;;;;Missão evangélica Baptista Caminho da vida (Igreja Baptista de Canaã);2;;;
-130;Domingos;Bondo;Luanda;923426892;papobiblico763@gmail.com;Líder;Sibz;;Assistente;1;;;;;Igreja Baptista do Simione;2;;;
-131;Domingos;Caia;Luanda;932064909;domingoszua05@gmail.com;Director do departamento de Educação Cristã;Igreja Baptista Boa Esperança;;Vice- diretor de missões;1;;;;;Segunda Igreja Baptista de Malanje;1;;;
-132;Domingos;Macaba;Luanda;934148766;tiagomacaba13@gmail.com;Director da Directoria de educação Cristã;Primeira Igreja Evangelica Baptista de Viana;;Moderador adjunto de Missões;1;;;;;Primeira Igreja Evangélica Baptista do Luena;1;;;
-133;Domingos;Alberto;Luanda;926697377;grupo.domingosalberto2017@gamil.con;Líder de Finança;Igreja Baptista Vinda de Cristo.;;Tesoureira de Missões;1;;;;;CBA (Ig. Bapt. Camadeira);1;;;
-134;Domingos;José;Luanda;947237905;domingosmiguelcangondo@gmail.com;Professor de Escola Bíblica;2ª Igreja Baptista do Rocha Pinto;;Comunicação e imagem coordenador;1;;;;;Batista do Prenda;1;;;
-135;DOMINGOS;MANUEL;Luanda;926152250;panguila@yahoo.com.br;DIRECTOR DE MISSÕES;IGREJA BAPTISTA DO PRENDA;;Professor de Escola Bíblica;1;;;;;Segunda igreja batista do zango;3;;;
-136;Domingos;Sebastião;Luanda;923607738;cba1940@hotmail.com;Pastor;Igreja Baptista Bom Pastor;;Secretária de Missões Local;1;;;;;Associação D.Cristianismo Ministério Missionário;1;;;
-137;Domingos Eyala;Alfredo;Luanda;923554061;manuelcassule@gimail.com;Director adjunto da UMMBL;Igreja Batista do Bairro 15 de fevereiro;;secretario de missões;1;;;;;Igreja Baptista Boas Novas;1;;;
-138;Dorivalda Adorina das Neves Baltazar;Baltazar;Luanda;2,44944E+11;pedropanzo31@gmail.com;Secretaria de missões;Igreja Evangelica Baptista de Belém;;Diaconisa conselheira;1;;;;;2 Igreja Baptista do Zango;1;;;
-139;Dulce;Pedro;Luanda;933022168;pauloantonionzuzi@gmail.com;Corista;Igreja Baptista Ebenézer da Sapú;;Líderes do Ministério com Família;1;;;;;Primeira Igreja Evangélica Baptista de Cacuaco;1;;;
-140;Dulce Maria Paulo;Alfredo Ditutala;Luanda;922294295;dulceditutala@hotmail.com;Vice Directora da União Feminina Local;Terceira Igreja Baptista de Luanda;;PRESIDENTE DOS DIÁCONOS;1;;;;;Igreja Batista do Cumbissa Alto Caule/Cangola;1;;;
-141;EBENEZER;MARINS;Luanda;926152250;panguila@yahoo.com.br;CONSELHEIRA;IGREJA BAPTISTA DO PRENDA;;Vice-diretor do departamento da juventude;1;;;;;Sambizanga;1;;;
-142;Edgar;Pereira;Luanda;925837400;elpereirao010@gmail.com;Diretor De Missões;Igreja Batista Da Samba;;CONSELHEIRA;2;;;;;Segunda Igreja Batista de Menongue;1;;;
-143;EDGAR;LUCAS;Luanda;931561014;pascoal.felix@hotmail.com;DIRETOR DA JUVENTUDE;1ª IGREJA BAPTISTA DO ROCHA PINTO;;SECRETARIA DO DCI;1;;;;;Segunda igreja Baptista do Cuito Bié;1;;;
-144;Edgar;Costa;Luanda;921985640;edgarbenjamimcosta@hotmail.com;Dirigente de Coral;2° Igreja Baptista de Luanda;;SECRETARIA DA JUVENTUDE;1;;;;;Igreja Baptista da Samba;1;;;
-145;Edmundo;Ngunza;Luanda;923969409;elimangunza@gmail.com;Pastor;Segunda igreja Baptista do Morro-bento. CBA;;PROFESSORA DE CRIANÇAS;1;;;;;Igreja Baptista Bom Pastor;1;;;
-146;Edna;Monteiro;Luanda;939787277;em8908670@gmail.com;Professora;Segunda Igreja Batista do Zango;;SECRETARIO DE MISSOES;1;;;;;Igreja Baptista do Macolocolo;1;;;
-147;Eduardo;Socolola;Luanda;931994351;josdacostaguilherme@gmail.com;Secretario;Igreja Baptista Nova Vida;;TESSOUREIRO;1;;;;;I.B. do Macolocolo;1;;;
-148;Eduardo;Quiteque;Luanda;929413468;elmoderado14@gmail.com;Missionário;Igreja Batista do Prenda;;Pastor da Igreja;1;;;;;Igreja Batista Vinda de Cristo;1;;;
-149;Eduardo da costa;André;Benguela;923463058;piblobito@gmail.com;Diácono e professor da EBD;Primeira Igreja Baptista do Lobito;;Secretária da Igreja;1;;;;;Vinda de Cristo;1;;;
-150;Eduardo jonatão justino chivava;Chivava;Luanda;923485927;eduardojoanatao53@gmail.com;Pastor;Igreja Baptista do Bairro Novo Km 12A;;Membro/Lider;1;;;;;Igreja Baptista de Canaã;5;;;
-151;Eduardo Laurindo;Kapumo;Luanda;936755694;Kapumolaurindo17@gmail.com;Membro;Segunda Igreja Baptista de Luanda;;Diaconisa -Missionária;1;;;;;Igreja Baptcista de Canaã;1;;;
-152;Elias;Vasco;Uige;924641524;Eliasvasco85@gmail.com;Corista;Igreja Baptista de Camadeira;;Diaconisa;1;;;;;Primeira Igreja Evangélica Baptista de Sapú II;1;;;
-153;Elisa;Capita;Luanda;928727505;pintojosebalantaiiny@gmail.com;Líder de missões;Igreja Baptista Fonte de Água Viva;;Secretária;1;;;;;3a Igreja Baptista de Luanda;1;;;
-154;Elisabeth;Viegas;Luanda;945290339;eunicemarques182@gmail.com;Estudante;3 igreja Baptista de Luanda;;Líder de missões / Congregação Evangélica Baptista do Bela vista do monte;1;;;;;Primeira Igreja da Convenção Baptista de Cabinda;1;;;
-155;Elisabeth;António;Luanda;996731233;elisabethantoniodejesus@gmail.com;Líder de crianças e adolescentes;Bap. Boas novas do golf;;Diácono, Missionário e Director Provincial da União Masculina Missionária Baptista do Moxico;1;;;;;Primeira Igreja Baptista de Cabinda;1;;;
-156;Eliseu;Ulombe;Benguela;923532829;piblobito@gmail.com;Missionário da Ganda;Primeira Igreja Baptista do Lobito;;Líder de evangelismo e missões;1;;;;;Igreja Evangélica Baptista de Canaã -Estalagem;1;;;
-157;Eliseu;Itombe;Cabinda;947786645;eliseuoscar512@gmail.com;Director da Educação Cristã e Ensino;Primeira Igreja da Convenção Baptista de Cabinda;;Interprete de LGA;1;;;;;3* Igreja Baptista de Luanda;5;;;
-158;Eliseu;Francisco;Cuanza Sul;928040715;eliseufrancisco23@gmail.com;Director Nacional da Juventude Baptista;Primeira Igreja Baptista do Sumbe;;Auxiliar no ministério com crianças e membro da comunicação e imagem;1;;;;;Primeira Igreja Baptista de Cacuaco;1;;;
-159;Eliseu;Caculo;Luanda;934027951;varilsonfernandes.vf@gmail.com;Director da juventude local;Primeira Igreja Evangélica Baptista de Cacuaco;;Director adjunto de comissão de Finanças;1;;;;;Igreja evangélica Baptista Dadiva de Deus- Dangereux;1;;;
-160;Eliseu;Contreiras;Luanda;934027951;varilsonfernandes.vf@gmail.com;Director da união Masculina;Primeira Igreja Evangélica Baptista de Cacuaco;;Líder de Jovens e Promotor da EBD;1;;;;;Igreja Baptista de Nova Criatura de Henda;1;;;
-161;Elizabeth;Mucanda;Luanda;928123541;vicentetelma2005@gmail.com;Estudante;3 igreja batista de luanda;;Convenção Baptista de Angola;1;;;;;Primeira Igreja Baptista do Sumbe;1;;;
-162;Elizandra;António;Luanda;955138643;elisabethantoniodejesus@gmail.com;Mensageira do Rei;Boas novas do golf;;Secretaria do DEM;1;;;;;;;;;
-163;ELSA;MARTINS;Luanda;926152250;panguila@yahoo.com.br;SECRETARIA DO DCI;IGREJA BAPTISTA DO PRENDA;;2° secretário;1;;;;;;;;;
-164;Emanuel;Pascoal;Luanda;921546135;emanuel.sonda11@gmail.com;Missionário;Primeira Igreja Baptista do Prenda;;Membro Departamento de Missões;1;;;;;;;;;
-165;Emanuel;Pascoal;Luanda;921546135;emanuel.sonda11@gmail.com;Missionário;Primeira Igreja Baptista do Prenda;;Secretário local do Departamento de Evangelismo e Missões;1;;;;;;;;;
-166;Emanuel;Pascoal;Luanda;921546135;emanuel.sonda11@gmail.com;Missionário;Primeira Igreja Baptista do Prenda;;Missionário missão Batista zango3;1;;;;;;;;;
-167;Emildo;Monteiro;Luanda;948046254;emildo2009@hotmail.com;Professor da Escola Bíblica Dominical;Igreja Baptista Ebenézer da Sapú;;Missionário Provincial da JBA;1;;;;;;;;;
-168;Emilia;Da Costa;Luanda;923488413;emiliadacosta69@gmail.com;Membro;Segunda de Luanda;;Director da juventude;1;;;;;;;;;
-169;Emília;Domingos;Zaire;938344731;Emiliadomingos@gmail.com.com;Tesoureira de Missões;Primeira Igreja Baptista do Zaire/Soyo;;Missionária Educadora;1;;;;;;;;;
-170;Emília Silvina;Inácio da Costa;Luanda;923488413/936755694;kapumolaurindo17@gmail.com;Membro;2ª Igreja Baptista de Luanda;;Secretaria da EBD;1;;;;;;;;;
-171;Emiliana Catohi;Quissanga;Luanda;925659180;emilianaquissanga10@gmail.com;Professora;Segunda Igreja Baptista do Zango;;Diretor de missões local;2;;;;;;;;;
-172;Emona;Voza;Luanda;936039300;vozaemona@gmail.com;Secretária;Segunda Igreja Baptista do Morro Bento;;Secretaria do departamento da mocidade;1;;;;;;;;;
-173;ENGRACIA;PANGUILA;Luanda;926152250;panguila@yahoo.com.br;CONSELHEIRA;IGREJA BAPTISTA DO PRENDA;;Marketing e imagem;2;;;;;;;;;
-174;Ermelinda;Zanga;Luanda;951480534;zangahermelinda@gmail.com;Parte do Departamento de Missões internas;Igreja Baptista Nova Vida;;Presidente da ordem de pastores Baptista de Luanda;1;;;;;;;;;
-175;Erneto Ditutala;Paulo;Luanda;925673339;ditutala.mi@gmail.com;Membro;IEBA;;Secretaria do departamento de missões local;1;;;;;;;;;
-176;Esperança;André;Luanda;937848332;esperancaeduardomalundo@gmail.com;Secretária da A Voz Anjos;Segunda Igreja Baptista De Luanda;;Director da Educação Cristã e Ensino;1;;;;;;;;;
-177;Esperança;Benza;Luanda;947477461;bnoemia44@gmail.com;Levita Ministério de Louvor e Adoração;Igreja Baptista Ebenézer da Sapu;;Membro do Departamento;1;;;;;;;;;
-178;ESTEVÃO;BUNGA;Luanda;923083378;pascoal.felix@hotmail.com;DIRETOR DE MUSICA;1ª IGREJA BAPTISTA DO ROCHA PINTO;;Missionário, Diácono e Director do Ministério de oração da igreja.;1;;;;;;;;;
-179;Estevão;Cafundala;Luanda;923643135;elpereirao010@gmail.com;Vice Moderador Da Igreja;Igreja Batista Da Samba;;Professor da E.B.D;1;;;;;;;;;
-180;Estêvão;Chaves;Luanda;938322500;estevaochaves@gmail.com;Diacono;TIB Lda;;DIM;1;;;;;;;;;
-181;ESTEVES;BULA;Luanda;914703461;pascoal.felix@hotmail.com;PASTOR;1ª IGREJA BAPTISTA DO ROCHA PINTO;;Presidente da CBA;1;;;;;;;;;
-182;Esteves;Domingos;Luanda;935931222;njovolinice@yahoo.com.br;Diácono;Primeira Igreja Batista do Benfica;;Tesoureiro Nacional da Juventude da CBA;1;;;;;;;;;
-183;Eugênia do Rosária;Handanga;Luanda;954302517;manuelcassule@gimail.com;Diaconosa;Igreja Batista do Bairro 15 de fevereiro;;Professora EBD;1;;;;;;;;;
-184;EUGÉNIO;CHIMECHIME;Luanda;926152250;panguila@yahoo.com.br;SECRETARIO DE MISSOES;IGREJA BAPTISTA DO PRENDA;;Director Nacional da Juventude Baptista;1;;;;;;;;;
-185;Eugénio;Chimechime;Luanda;949420244;eugeniomanuel2001@gmail.comeu;Líder de evangelismo e missões;Batista do Prenda;;Líder ministério com surdos;1;;;;;;;;;
-186;Eunice;Samba;Luanda;923085684;eunicesamba@gmail.com;Professora;Segunda Igreja Baptista do Zango;;Coordenador de Música;1;;;;;;;;;
-187;Eunice;Bila;Luanda;923257022;eunicemarques182@gmail.com;Marketing;3 igreja Baptista de Luanda;;;;;;;;;;;;
-188;Eunice;Samba;Luanda;923085684;eunicesamba19@gmail.com;Professora;Segunda Igreja Baptista do Zango;;;;;;;;;;;;
-189;Eunice;Emidio;Luanda;924454788;njovolinice@yahoo.com.br;Conselheira;Primeira Igreja Batista do Benfica;;;;;;;;;;;;
-190;Eurico;Sauime;Luanda;923618643;euricosauime@gmail.com;Líder de missões;1ª Evangélica Baptista de Luanda;;;;;;;;;;;;
-191;EURICO;MIRANDA;Benguela;924656344;euricomiranda333@gmail.com;Pastor;Primeira Igreja Baptista do Lobito;;;;;;;;;;;;
-192;Eurico Jamba Miranda;Miranda;Benguela;924656344;euricomiranda333@gmail.com;Pastor;Primeira Igreja Baptista do Lobito;;;;;;;;;;;;
-193;Eva;Moisés;Luanda;924985236;vivimorais65@hotmail.com;Vice Directora da UFMBA;3 Igreja Baptista de Luanda;;;;;;;;;;;;
-194;Evalina;Gaspar;Luanda;926418944;evalinagaspar17@gmail.com;Liturgista;2 igreja Batista de;;;;;;;;;;;;
-195;Feliciana;Periquito;Luanda;939156499;pauloantonionzuzi@gmail.com;Tesoureira;Igreja Baptista Ebenézer da Sapú;;;;;;;;;;;;
-196;Félix;Dulo;Uige;946698861;felixdulo0@gmail.com;Secretário da Igreja;Igreja Baptista de Nova Criatura de Henda;;;;;;;;;;;;
-197;Felizandra;Silva;Luanda;937242755;felizandra.silva9@gmail.com;Estudante de economia;Segunda Igreja Baptista de Luanda;;;;;;;;;;;;
-198;Fernanda;Farria;Luanda;948027689;joseeliashossi3@gmail.com;Lider da juventude;Igreja b. Bom Pastor;;;;;;;;;;;;
-199;Fernandes;Daniel;Luanda;943507332;distinto.ma@gmail.com;Membro;2ª IGREJA BAPTISTA DA SAPÚ 1;;;;;;;;;;;;
-200;Fernando;de Carvalho;Luanda;925249460-921380807;fernandocassilaalexandre@gmail.com;Diretor da Juventude;CBA (Ig. Bapt. Camadeira);;;;;;;;;;;;
-201;Fernando;de Carvalho;Luanda;925249460;fernandocassilaalexandre@gmail.com;Líder de Jovens e Promotor da EBD;CBA;;;;;;;;;;;;
-202;Fernando;Leitão;Luanda;927505014;fernandozangui@gmail.com;Diácono;Igreja Baptista Vinda de Cristo;;;;;;;;;;;;
-203;Fernando;Gombe;Luanda;924338383;pauloantonionzuzi@gmail.com;Diácono;Igreja Baptista Ebenézer da Sapú;;;;;;;;;;;;
-204;Fernando José Chiaca;Chiaca;Luanda;934729201;fleojanga@gmail.com;Secretária de Missões Local;Igreja Evangélica Batista Bom Pastor;;;;;;;;;;;;
-205;Ferreira;Kissona;Luanda;923567330;kissonaf@gmail.com;Pastor;Baptista do Ndala Muleba;;;;;;;;;;;;
-206;Filipe;Manjolo;Huambo;923664004;filipepascoalmanjolo@gmail.com;Prof Seminário Baptista do Huambo;Igreja Baptista da Redenção;;;;;;;;;;;;
-207;Fineza;Catangui;Luanda;929331362;muenhoatok@gmail.com;Adjunta da Secretária da sociedade de moças;Memorial da fé;;;;;;;;;;;;
-208;Fineza;Kitunga;Luanda;933141541;Osvaldoalfredopedro@gmail.com;Promotora de missões;Igreja Baptista de Camadeira;;;;;;;;;;;;
-209;Flaviano Baptista;Baptista;Luanda;925532821;kisesadomingossebastiaod@gmail.com;Diácono;Igreja Batista do Bairro 15 de Fevereiro;;;;;;;;;;;;
-210;Flávio;Canimbo;Luanda;939126269;pauloantonionzuzi@gmail.com;Missionário;Igreja Baptista Ebenézer da Sapú;;;;;;;;;;;;
-211;Florindo Bartolomeu;Bartolomeu;Luanda;935940984;florindofortunato@gmail.com;Secretário da igreja;Igreja Baptista do Bairro Novo Km 12A;;;;;;;;;;;;
-212;FORTUNATO;PANZO;Luanda;923367543;pascoal.felix@hotmail.com;PRESIDENTE DIACONAL;1ª IGREJA BAPTISTA DO ROCHA PINTO;;;;;;;;;;;;
-213;Francisca;Guimarães;Luanda;936201994;pauloantonionzuzi@gmail.com;Líder na União Feminina;Igreja Baptista Ebenézer da Sapú;;;;;;;;;;;;
-214;Francisco;Garcia;Luanda;922218560;franciscoluvumbugarcia@gmail.com;Missionário;1• Igreja Evangélica Baptista de Sapú 2;;;;;;;;;;;;
-215;Francisco;Garcia;Luanda;923285977;franciscogarcia2050@gmail.com;Pastor;1ª Evangélica Baptista de Luanda;;;;;;;;;;;;
-216;Francisco;José;Zaire;943049388;francisco@gmail.com;Pastor;Primeira Igreja Baptista do Zaire/Soyo;;;;;;;;;;;;
-217;Francisco;Vasco;Luanda;937743243;franciscojorgevasco2019@gmail.com;Coordenador de Música;Igreja Baptista Boa Esperança;;;;;;;;;;;;
-218;Francisco;Pedro;Luanda;923544838;Agostnhosaunha@gmail.com;Pastor;Igreja Baptista da Estalagem km12A;;;;;;;;;;;;
-219;Francisco;Virgílio;Luanda;925069146;codilson@gmail.com;Pastor;2ª de Viana;;;;;;;;;;;;
-220;Francisco Joaquim;Kamukola;Luanda;923860231;francikamukola@gmail.com;Secretário;Igreja Baptista Boas Novas do Golf;;;;;;;;;;;;
-221;Francisco Nicodemos luzembo;Luzembo;Luanda;940862866;florindofortunato@gmail.com;Diacono;Igreja Baptista do Bairro Novo Km 12A;;;;;;;;;;;;
-222;Frederico;Uasi;Luanda;924926463;nubiofrederico.uasi22@gmail.com;Evangelista;Igreja Baptista Nova Aliança;;;;;;;;;;;;
-223;Garcia;Tomás;Bengo;923737419;gtomas62@yahoo.com;Assistente;CBA-Igreja Baptista do Dundo, Lunda-Norte;;;;;;;;;;;;
-224;Gaspar Dala Malungo;Malungo;Luanda;946349091;gasparmalungo@gmail.com;Professor;2 igreja Baptista de luanda;;;;;;;;;;;;
-225;Gaspar Dala Malungo;Malungo;Luanda;946349091;gasparmalungo@gmail.com;Professor da Escola Biblica;2 igreja Baptista de Luanda;;;;;;;;;;;;
-226;Gaspar Dala Malungo;Malungo;Luanda;946349091;gasparmalungo@gmail.com;Professor da escola Biblica;2 igreja Baptista de Luanda;;;;;;;;;;;;
-227;Generoso;Afonso;Luanda;940043646;pauloantonionzuzi@gmail.com;Motorista;Igreja Baptista Ebenézer da Sapú;;;;;;;;;;;;
-228;Genivaldo;Narciso;Luanda;926304271;genivaldonarciso15@gmail.com;Missionário;Baptista Amor de Deus;;;;;;;;;;;;
-229;Gerson;Bento;Luanda;934027951;varilsonfernandes.vf@gmail.com;Presidente do GAM local;Primeira Igreja Evangélica Baptista de Cacuaco;;;;;;;;;;;;
-230;Gil Manuel;Manuel;Luanda;923419547;kificango@gmail.com;Pastor;Primeira Igreja Evangélica Baptista de Sapú II;;;;;;;;;;;;
-231;Gildo Júlio;Júlio;Luanda;938478922;filipejose535@gmail.com;Diretor da Juventude;Canaã;;;;;;;;;;;;
-232;Girão;Henriques;Luanda;937168438;giraoj.henriques@gmail.com;Diretor Evangelismo e Missões;Igreja Baptista Nova Vida;;;;;;;;;;;;
-233;Glória;Gaspar;Luanda;923714448;evalinagaspar17@gmail.com;Não tenho;2 igreja Batista de Luanda;;;;;;;;;;;;
-234;Graça;Eduardo;Luanda;923494202;rosamadinga@gmail.com;Membro;Segunda Igreja Baptista de Luanda;;;;;;;;;;;;
-235;Graça;Eduardo;Luanda;923494202;rosamadinga@gmail.com;Membro;Segunda ig;;;;;;;;;;;;
-236;Graciete;Mateus;Luanda;921059146;danielandjeck@gmail.com;Professora;Segunda igreja Baptista de Luanda;;;;;;;;;;;;
-237;Guilherme;Antonio;Luanda;927451765;fernandozangui@gmail.com;Secretário;Igreja Baptista Vinda de Cristo;;;;;;;;;;;;
-238;Guilherme;Vicente;Luanda;930744198;guilhermefranc1993@gmail.com;Missionário;Segunda igreja Batista do Morro Bento;;;;;;;;;;;;
-239;Guilhermina;Domingos;Luanda;927075416;manuelcanguanda5@gmail.com;Diaconisa e vice moderadora da igreja;Igreja Evangélica Baptista Luz Divina;;;;;;;;;;;;
-240;Guilhermina;Domingos;Luanda;927075416;manuelcanguanda5@gmail.com;Diaconisa;Igreja Evangélica Baptista Luz Divina;;;;;;;;;;;;
-241;Hamilton;Moniz;Luanda;937259040;hamiltonmoniz26@gmail.com;secretario de missões;Igreja Baptista Boas Novas Do Golf;;;;;;;;;;;;
-242;Hélder;José;Luanda;924686955;vhelder976@gmail.com;Membro;Igreja Baptista Ebenézer da Sapú;;;;;;;;;;;;
-243;Helena;Antunes;Uige;923814011;helenaantunes439@gmail.com;Tesoureira;Terceira igreja do Negage;;;;;;;;;;;;
-244;Helena Lourenço Panzo;Panzo;Luanda;939988364;pedropanzo31@gmail.com;Missionário;Igreja Evangelica Baptista de Belém;;;;;;;;;;;;
-245;Helma Domingos Sanuca;Sanuca;Luanda;934734503;helmasanuca240@gmail.com;Secretaria da EBD;Igreja Batista Vinda de Cristo;;;;;;;;;;;;
-246;Henriques;Fernando;Luanda;935380735;savissenga1@gmail.com;Professor;IEIA Km 12;;;;;;;;;;;;
-247;Hermanegildo Abel;Abel;Uige;921860100;hermenegildoabel35@gmail.com;Missionário e Diácono;Igreja Baptista do Centro da Cidade do Uige;;;;;;;;;;;;
-248;Hermenegildo Girão Abel;Abel;Uige;921860100;hermenegildoabel35@gmail.com;Missionário, Diácono e Director do Ministério de oração da igreja.;Igreja Baptista do Centro da Cidade do Uige;;;;;;;;;;;;
-249;Hermínia;Manuel;Luanda;926201350;ibes@gmail.com;Assistente;Igreja Baptista Ebenézer da Sapú;;;;;;;;;;;;
-250;Ilda dos;Santos;Luanda;922763554;cardosohumbajeronimo972@gmail.com;Líder das Moças;Igreja Baptista Paixão de Cristo;;;;;;;;;;;;
-251;ILDA FERNANDO;FERNANDO;Luanda;926296540;mendesbernardo582@gmail.com;CORISTA;Igreja Baptista Paixão Cristo;;;;;;;;;;;;
-252;Inácia;Pinto;Luanda;927916729;inapinto31@gmail.com;Vice-Directora da Sociedade de Moças da SIBZ;Segunda Igreja Baptista do Zango- SIBZ;;;;;;;;;;;;
-253;Isabel;Abílio;Luanda;922763554;cardosohumbajeronimo972@gmail.com;Membro;Igreja Baptista Paixão de Cristo;;;;;;;;;;;;
-254;Isabel;Mateus;Uige;924534572;isaantunes1603@gmail.com;Pr. Dos diáconos;Segunda igreja baptista de Luanda;;;;;;;;;;;;
-255;Isabel;Ngombo;Luanda;923468973;isagutma@yahoo.com.br;Ministra do Ensino;Igreja Baptista Ebenezer Sapú;;;;;;;;;;;;
-256;Isabel;Benza;Luanda;923829938;isabelafybenza@gmail.com;Secretária;Igreja Baptista Ebenézer da Sapu;;;;;;;;;;;;
-257;Isabel;Antunes;Luanda;924534572;rosamadinga@gmail.com;Dioconisa;Segunda igreja Baptista de Luanda;;;;;;;;;;;;
-258;Isabel;Gomes;Luanda;941807402;isabelgomes200027@gmail.com;Estudante;Segunda Igreja Evangélica Baptista de Luanda;;;;;;;;;;;;
-259;Isaías;Domingos;Luanda;924216684;muenhoatok@gmail.com;Líder de missões;Memorial da fé;;;;;;;;;;;;
-260;Isaías;Mussende;Luanda;927132104;isaiasmussende1983@gmail.com;Líder da juventude e professor da EBD;Igreja Batista da glória;;;;;;;;;;;;
-261;ISAURA;ALMEIDA;Luanda;924765669;pascoal.felix@hotmail.com;VICE PRESIDENTE DIACONAL;1ª IGREJA BAPTISTA DO ROCHA PINTO;;;;;;;;;;;;
-262;Ismael;Gonga;Luanda;936176109;pintojosebalantaiiny@gmail.com;Líder de Missões;Igreja Baptista Fonte de Água Viva;;;;;;;;;;;;
-263;Ismael;Gonga;Luanda;936176109;pintojosebalantaiiny@gmail.com;Líder da EBD;Igreja Baptista Fonte de Água Viva;;;;;;;;;;;;
-264;iutiut;uyttut;Bengo;9797987;ggg@hh.bo;tuytut;uiiuiuti;;;;;;;;;;;;
-265;Ivete;Machado;Luanda;922694470;ivetemachado646@gmail.com;Membro;Segunda Igreja Baptista do Zango;;;;;;;;;;;;
-266;Ivo;Ginga;Uige;923744848;ivo.ginga@gmail.com;Pastor;Igreja Batista do Cumbissa Alto Caule/Cangola;;;;;;;;;;;;
-267;Jacinta;Caiadi;Luanda;939737162;jacintacaiadi@gmail.com;Corista;Baptista;;;;;;;;;;;;
-268;Jacinto;Muenga;Luanda;935936764;alehandradosmoranyd@gmail.com;Pastor;Quinta igreja Batista de Cacuaco;;;;;;;;;;;;
-269;Jacinto;Francisco;Luanda;925936298;jacyfranciscofrancis2020@gmail.com;Missionário;Igreja Baptista Graça a Deus;;;;;;;;;;;;
-270;Jaime;Sangueve;Luanda;923633735;jaimesangueve151@gmail.com;Director do Departamento da Acção Social;Primeira Baptista do Rocha Pinto;;;;;;;;;;;;
-271;Jaime;Sangueve;Luanda;923633735/915874485;jaimesangueve151@gmail.com;Director do Departamento da Acção Social;Primeira Baptista do Rocha Pinto;;;;;;;;;;;;
-272;Jaime Alberto Malungo;Malungo;Luanda;941377988;filipejose535@gmail.com;Vice- diretor de missões;Canaã;;;;;;;;;;;;
-273;Janeth;Manuel;Luanda;922763554;cardosohumbajeronimo972@gmail.com;Membro;Igreja Baptista Paixão de Cristo;;;;;;;;;;;;
-274;JEDIDIA MANUEL;SAMO DE DEUS;Bengo;938702581;samoempreendimentos@gmail.com;LIDER DO GAM;Igreja Baptista Ebenézer da sapú;;;;;;;;;;;;
-275;Jeremias;Adão;Luanda;944591822;jeremiasadaomendes1998@gmail.com;Lider do ministério com crianças;Igreja Baptista de Canaã (estalagem );;;;;;;;;;;;
-276;Jeremias;Adão;Luanda;944591822;josemacanda22@gmail.com;Marketing e imagem;Igreja Baptista de Canaã;;;;;;;;;;;;
-277;Jeremias Rodrigues;Sembe;Luanda;948144329/952670793;Jeremiassembe1992@gmail.com;Moderador de missões local;Igreja Baptista Sal da Terra;;;;;;;;;;;;
-278;Jesus;Pedro;Luanda;930717344;joseaneteresajoy@gmail.com;Diácono;Igreja Baptista Nova Vida;;;;;;;;;;;;
-279;Jesus;Pedro;Luanda;930717344;giraoj.henriques@gmail.com;Diácono;Igreja Baptista Nova Vida;;;;;;;;;;;;
-280;Jesus;Tchavango;Luanda;930448232;jktchavango@gmail.com;Professor;Segunda Igreja Batista do Zango;;;;;;;;;;;;
-281;Joana;Dos Santos;Huambo;2,44927E+11;desantosalome@gmail.com;Missionária Educadora;Igreja Baptista do Macolocolo;;;;;;;;;;;;
-282;Joana;Bernardo;Luanda;942665910;rosamadinga@gmail.com;Dioconisa;Segunda Igreja Baptista de Luanda;;;;;;;;;;;;
-283;Joana Cunha;Cunha;Luanda;933547453;gasparmalungo@gmail.com;Professora do ministério com crianças;2 igreja Baptista de Luanda;;;;;;;;;;;;
-284;Joana Eduardo;João;Luanda;945231593;alcinoramoscamuege@gmail.com;Professora de E.B.D.;Iª Igreja Evangélica Baptista de Sapú II;;;;;;;;;;;;
-285;Joanidia;Mialda;Luanda;923632447;joanidiamialda@gmail.com;Corista;2 Igreja Baptista de Luanda;;;;;;;;;;;;
-286;Joanidia;Mialda;Luanda;923632447;joanidiamialda@gmail.com;Corista;2 Igreja Baptista de Luanda;;;;;;;;;;;;
-287;João;Lohoca;Luanda;923507346;joaolohoca58@gmail.com;Pastor;Igreja Baptista da Samba;;;;;;;;;;;;
-288;João;Filipe;Luanda;940209619;josemacanda22@gmail.com;Diretor de missões local;Igreja Baptcista de Canaã;;;;;;;;;;;;
-289;João;César;Luanda;926347287;Pr.joaocesar@gmail.com;Presidente da CBA;Primeira Igreja Baptista de Luanda;;;;;;;;;;;;
-290;Joao Martins Nboco;Nboco;Luanda;932242247;pedropanzo31@gmail.com;Missionário;Igreja Evangelica Baptista de Belém;;;;;;;;;;;;
-291;João Raimundo António Campos Cangombe;Cangombe;Cuanza Sul;927288493;joaocangombe30@gmail.com;Diacono e Moderador da Igreja;1° Igreja Baptista do Sumbe;;;;;;;;;;;;
-292;Joaquim;Teca;Luanda;949221092;justinoteca11@gmail.com;Líder de missões / Congregação Evangélica Baptista do Bela vista do monte;3 Igreja Baptista de Luanda;;;;;;;;;;;;
-293;Joaquim;Fino;Luanda;925314488;josemacanda22@gmail.com;Marketing e imagem;Igreja Baptista de Canaã;;;;;;;;;;;;
-294;Joaquina;Macoxi;Luanda;946235607;joaquinamacoxi1@gmail.com;Membro;Igreja Baptista Ebenezer da Sapú;;;;;;;;;;;;
-295;Jonas;Kissocolo;Luanda;929323417;jonaskissocolo@gmail.com;Director de Missões;Igreja Baptista do Simione;;;;;;;;;;;;
-296;Jonas;Kissocolo;Luanda;923607733;sebastiaosoki2011@gmail.com;Líder de Missões;Igreja Batista do Simione;;;;;;;;;;;;
-297;Jorge;Santos;Luanda;938277864;jorgedossantos169@gmail.com;Membro;SIBZ ( Segunda Igreja Batista do Zango );;;;;;;;;;;;
-298;Jorge;Manuel;Luanda;940500499;jmendesclemente@gmail.com;Missionário;Segunda Igreja Baptista do Zango;;;;;;;;;;;;
-299;Jose;Marcolino;Luanda;926141483;mariribeirinha@gmail.com;Professor de EBD;Igreja Baptista da Paz;;;;;;;;;;;;
-300;JOSÉ;PAULO;Bengo;921547488;pascoal.felix@hotmail.com;MISSIONARIO;1ª IGREJA BAPTISTA DO ROCHA PINTO (Missão CAPARI);;;;;;;;;;;;
-301;José;Catangui;Luanda;938675328;muenhoatok@gmail.com;2° líder de missões;Memorial da fé;;;;;;;;;;;;
-302;José;Hossi;Luanda;929233447;joseeliashossi3@gmail.com;Missonario;Igreja b.boavista;;;;;;;;;;;;
-303;José;Dinis;Luanda;924405627;josecasacaladinisjosedinis@gmail.com;Professor da E.B.D;Igreja Evangélica Baptista de Canaã -Estalagem;;;;;;;;;;;;
-304;José;Macanda;Luanda;948881458;josemacanda22@gmail.com;Missionário;Igreja Baptista de Canaã;;;;;;;;;;;;
-305;José;Jorge;Luanda;926280489;codilson@gmail.com;Líder de Missões (Congregação);2ª de Viana;;;;;;;;;;;;
-306;José;Salomão;Luanda;923538922;josepedrosalomao26@gmail.com;Motorista do DEM;Igreja Baptista Graças a Deus;;;;;;;;;;;;
-307;José da Costa;Guilherme;Luanda;926181010;josdacostaguilherme@gmail.com;Missionário;Igreja Baptista Nova Vida;;;;;;;;;;;;
-308;José João;Manuel;Luanda;958041842;pastorkito6@gmail.com;Pastor;Igreja evangélica Baptista Dadiva de Deus- Dangereux;;;;;;;;;;;;
-309;Josina;Chaves;Luanda;926503020;jkassoma@gmail.com;Membro;TIB Lda;;;;;;;;;;;;
-310;Júlia;Malanga;Luanda;930898636;pauloantonionzuzi@gmail.com;Ministra de Louvor;Igreja Baptista Ebenézer da Sapú;;;;;;;;;;;;
-311;Juliana Amaro;Nelembe;Luanda;926625050;juliananelembe@gmail.com;Estudante;Segunda igreja batispta de Luanda;;;;;;;;;;;;
-312;Julieta;Antônio;Luanda;952709793;muenhoatok@gmail.com;Líder dos adolescentes;Memorial da fé;;;;;;;;;;;;
-313;Julio;Catota;Luanda;923618307;njovolinice@yahoo.com.br;Diácono;Primeira Igreja Batista do Benfica;;;;;;;;;;;;
-314;Jurema;Lopes;Luanda;935538409;lopesjurema846@gmail.com;professora;Igreja Baptista Nova Vida;;;;;;;;;;;;
-315;Justino;Chipilica;Bie;922088895;justinochipilica@gmail.com;Pastor;Segunda igreja Baptista do Cuito Bié;;;;;;;;;;;;
-316;Justino;Chipilica;Bie;922088895;justinochipilica@gmail.com;Pastor;Segunda igreja Baptista do Cuito;;;;;;;;;;;;
-317;Justino;Chipilica;Bie;922088895;justinochipilica@gmail.com;Pastor;Segunda igreja Baptista do Cuito;;;;;;;;;;;;
-318;kadeu;Sandele;Bengo;941902031;jose.sandele@gmail.com;Kapa;Trilha;;;;;;;;;;;;
-319;kadeu;uyuyuy;Bengo;941902031;jose.sandele@gmail.com;Tester;yoooo;;;;;;;;;;;;
-320;Kiala;Mbala;Luanda;940353919;kialajuliombala93@gmail.com;Missionário;Batista da Boavista;;;;;;;;;;;;
-321;Kissesa Domingos;Sebastião;Luanda;923554061;manuelcassule@gimail.com;Diácono;Igreja Batista do Bairro 15 de fevereiro;;;;;;;;;;;;
-322;LAURINDA;ADRIANO;Luanda;926152250;panguila@yahoo.com.br;SECRETARIA DA JUVENTUDE;IGREJA BAPTISTA DO PRENDA;;;;;;;;;;;;
-323;Laurinda;Cazanga;Luanda;937728228;pauloantonionzuzi@gmail.com;Diaconisa;Igreja Baptista Ebenézer da Sapú;;;;;;;;;;;;
-324;Leitão;Dinis;Luanda;924248323;leitaodinis1967@gmail.com;Missionário missão Batista zango3;Sambizanga;;;;;;;;;;;;
-325;LEMBA;ALBERTO;Luanda;923383453;pascoal.felix@hotmail.com;DIRETORA UFM;1ª IGREJA BAPTISTA DO ROCHA PINTO;;;;;;;;;;;;
-326;Lemos;Pinto;Luanda;923533752;pintoy125@gmail.com;Diácono/ Professor de EBD;Segunda Igreja Baptista de Luanda;;;;;;;;;;;;
-327;Leonor;Sanguenda;Luanda;934027951;varilsonfernandes.vf@gmail.com;Directora do Departamento de Evangelismo e Missões local;Primeira Igreja Evangélica Baptista de Cacuaco;;;;;;;;;;;;
-328;Leonora;José;Luanda;933175450;nubiofrederico.uasi22@gmail.com;Evangelista;Igreja Baptista Nova Aliança;;;;;;;;;;;;
-329;Lidio;Kissanga;Luanda;943888389;Ricardodasilvanoe5@gmail.com;Membro;Terceira igreja Baptista de Luanda;;;;;;;;;;;;
-330;Lila;Da Silva;Cuanza Norte;923531937;Lcdsilva164@mail.com;Zeladora;2 igreja de Luanda, missão de Ndalatando;;;;;;;;;;;;
-331;LOURENA;BULA;Luanda;923541457;pascoal.felix@hotmail.com;DIRETORA PROVINCIAL DA UFMB;1ª IGREJA BAPTISTA DO ROCHA PINTO;;;;;;;;;;;;
-332;Lourença;Santos;Luanda;948492694;lourencadaconceicao17@gmail.com;Professora;IGreja Ebenezer da Sapu;;;;;;;;;;;;
-333;Lourenço;Zeferino;Luanda;923280393;luras81@hotmail.com;Director da união masculina;2 Igreja Baptista de Luanda;;;;;;;;;;;;
-334;Lourenço;da Silva;Bengo;929809051;macacxi.firmino@gmail.com;Secretário de Património e Construção da igreja local;Igreja Baptista Nova Vida;;;;;;;;;;;;
-335;Lourenço;da Silva;Luanda;929809051;macacxi.firmino77@gmail.com;Secretário de Património e Construção da igreja local;Igreja Baptista Nova Vida;;;;;;;;;;;;
-336;Lucas Pascual Gonga;Gonga;Luanda;925532821;kisesadomingossebastiaod@gmail.com;Diácono;Igreja Batista do Bairro 15 de Fevereiro;;;;;;;;;;;;
-337;Lúcia;Silva;Luanda;923391176;luciaclaudina2@gmail.com;Professora;Segunda Igreja Baptista de Luanda;;;;;;;;;;;;
-338;Luciano;Paulo;Luanda;932332186;codilson@gmail.com;Membro do departamento;2ª de Viana;;;;;;;;;;;;
-339;Ludmila;Mussofi;Luanda;943240179;mussotiludmila@gmail.com;Direitora das moças;Igreja Batista de canaã;;;;;;;;;;;;
-340;LUDMILA;SANTIAGO;Luanda;926152250;panguila@yahoo.com.br;PROFESSORA DE CRIANÇAS;IGREJA BAPTISTA DO PRENDA;;;;;;;;;;;;
-341;Luis;Panzo;Luanda;927967121;igrejabaptistaboavista@hotmail.com;Diacono;igreja Baptista de Boavista;;;;;;;;;;;;
-342;Luis;Alberto;Luanda;923738150;lambaalberto763@gmail.com;Líder de Missões;Boas Novas do Golf;;;;;;;;;;;;
-343;Luís;Vicente;Luanda;923922321;luysvicente@gmail.com;Membro;Igreja Batista Nova aliança;;;;;;;;;;;;
-344;Luisa;Nvika;Cuanza Sul;923617325;nvikaluisa@gmail.com;Dra. UFMB e Prof EBD;Igreja Batista da Londa-2 Sumbe;;;;;;;;;;;;
-345;Madalena;Adelino;Luanda;929080797;madalenavunge@gmail.com;Líder da sociedade de senhoras local;Primeiro igreja do Talatona;;;;;;;;;;;;
-346;Malaquias;Molo;Luanda;924309949;malaquiasmolo1984@gmail.com;Secretário de Missões;Boa Esperança;;;;;;;;;;;;
-347;Mampaxi Helena;Van-Dúnem;Luanda;934027951;varilsonfernandes.vf@gmail.com;Directora da união feminina local;Primeira Igreja Evangélica Baptista de Cacuaco;;;;;;;;;;;;
-348;Manuel;João;Luanda;925262406;manuelagostinhobaptistajoao94@gmail.com;Lider de missões;Segunda igreja Baptista do rocha Pinto;;;;;;;;;;;;
-349;Manuel;Costa;Luanda;923968898;manuelsivacole@gmail.com;Pastor;Igreja Baptista de Belém;;;;;;;;;;;;
-350;Manuel;Zagi;Luanda;924510096;fernandozangui@gmail.com;Missionário;Igreja Baptista Vinda de Cristo;;;;;;;;;;;;
-351;Manuel;Clemente;Malanje;925096828;pastormanuelclemente1975@gmail.com;Pastor;Segunda Igreja Baptista de Malanje;;;;;;;;;;;;
-352;Manuel;Cardoso dos santos;Luanda;929370020;manuelcardoso2205@gmail.com;Missionário;3ª igreja Baptista de viana;;;;;;;;;;;;
-353;Manuel Cassule;Miguel;Luanda;923554061;manuelcassule@gimail.com;Pastor;Igreja Batista do Bairro 15 de fevereiro;;;;;;;;;;;;
-354;Manuel Silva Gomes da Costa;Costa;Luanda;923968898;pedropanzo31@gmail.com;Pastor;Igreja Evangelica Baptista de Belém;;;;;;;;;;;;
-355;Manuela;Malanga;Luanda;926719971;pauloantonionzuzi@gmail.com;Professora da EBD;Igreja Baptista Ebenézer da Sapú;;;;;;;;;;;;
-356;Marcelina;António;Luanda;923515032;fmarcelinafernandes@yahoo.com;Diaconisa -Missionária;Segunda do morro bento;;;;;;;;;;;;
-357;Marcelina;Antnio;Luanda;923515032;fmarcelinafernandes@yahoo.com;Diaconisa;2•.°;;;;;;;;;;;;
-358;Maria;Neto;Bengo;939309677;mariagostinho.neto95@gmail.com;Técnica de enfermagem;Segunda igreja Baptista do Zango;;;;;;;;;;;;
-359;MARIA;QUIBELO;Luanda;941574710;pascoal.felix@hotmail.com;SECRETARIA DA IGREJA;1ª IGREJA BAPTISTA DO ROCHA PINTO;;;;;;;;;;;;
-360;Maria;Chilumbo;Cuanza Sul;934645782;mariachilumbo75@gmail.com;Missionária;Baptista da Londa2;;;;;;;;;;;;
-361;Maria;Marcolino;Luanda;927038642;mariribeirinha@gmail.com;Directora DEC;Igreja Baptista da Paz;;;;;;;;;;;;
-362;Maria;Savissenga;Luanda;929869984;apoloniafernando1995@gmail.com;Secretária da Igreja;Primeira Igreja Baptista do Zango;;;;;;;;;;;;
-363;Maria;Da Cruz;Luanda;923423022;marinasiladacruz@gmail.com;Secretaria do DEM;Boa Esperança;;;;;;;;;;;;
-364;Maria;Dos Santos;Luanda;928597125;apolinariotuca@hotmail.com;Membro Departamento de Missões;Igreja Baptista Boas Novas;;;;;;;;;;;;
-365;Maria;Natividade;Luanda;924255758;njovolinice@yahoo.com.br;Vice Presidente da Igreja/Diaconisia;Primeira Igreja Batista do Benfica;;;;;;;;;;;;
-366;Maria;Daniel;Luanda;937903045;manuelcanguanda5@gmail.com;Membro do departamento de missões;Igreja Evangélica Baptista Luz Divina;;;;;;;;;;;;
-367;Maria;Panzo;Luanda;931685076;pauloantonionzuzi@gmail.com;Ministra de Louvor;Igreja Baptista Ebenézer da Sapú;;;;;;;;;;;;
-368;Maria;Reis;Luanda;2,4494E+11;maritondinha@icloud.com;Funcionária Publica;Igreja Baptista Ebenezer da Sapu;;;;;;;;;;;;
-369;Maria;Benedito;Luanda;922241820;marhell.malandila2008@gmail.com;Diaconisa;Igreja dos irmãos;;;;;;;;;;;;
-370;Maria;Gaspar;Luanda;923434967;rosamadinga@gmail.com;Membro;Segunda Igreja Baptista de Luanda;;;;;;;;;;;;
-371;Mariana;Solia;Luanda;937539360;marsolcool97@gmail.com;Secretária da Igreja;Igreja Baptista Nova Vida;;;;;;;;;;;;
-372;Mariana;Solia;Luanda;937539360;marsolcool97@gmail.com;Secretária da Igreja;Igreja Baptista Nova Vida;;;;;;;;;;;;
-373;Mariano;Mulenza;Luanda;921321814;marianomulenza91@gmail.com;Líder do DEM local;Igreja Baptista da Trindade;;;;;;;;;;;;
-374;Marieth;Bila;Luanda;948048573;mariethbila@gmail.com;Missionária;Protestante;;;;;;;;;;;;
-375;Marinesa;Cavila;Luanda;929809051;macacxi.firmino@gmail.com;secretaria de evangelismo e missões locais;Igreja Baptista Nova Vida;;;;;;;;;;;;
-376;MÁRIO;JEREMIAS;Luanda;927773503;mariojeremiasmbaialambimba43@gmail.com;Diácono;Segunda Igreja Baptista do Zango;;;;;;;;;;;;
-377;Mário;Henriques;Luanda;924322759;mario.liana7@gmail.com;Professor de Escola Dominical;Ebrnezer da Sapú;;;;;;;;;;;;
-378;Mariquinha;João;Luanda;926725952;muenhoatok@gmail.com;Adjuntora do coral;Memorial da fé;;;;;;;;;;;;
-379;Mariquinha;Lopes;Luanda;934027951;varilsonfernandes.vf@gmail.com;Presidente das moças;Primeira Igreja Evangélica Baptista de Cacuaco;;;;;;;;;;;;
-380;Marlene;Camuege;Luanda;945838573;alcinoramoscamuege@gmail.com;Missionária;Iª Igreja Evangélica Baptista de Sapú II;;;;;;;;;;;;
-381;Marta;João;Luanda;948511679;pauloantonionzuzi@gmail.com;Corista;Igreja Baptista Ebenézer da Sapú;;;;;;;;;;;;
-382;Martins João Gonçalves;Goncalves;Luanda;923898722;Martinsgoncalves@35gmail.com;Missionario;Boas Novas do Golf.;;;;;;;;;;;;
-383;Mateus;Gaspar;Cuanza Sul;946016503;mateuspaulogaspar@gmail.com;Pastor;Igreja Baptista de Cabezo - Quibala;;;;;;;;;;;;
-384;Mavambu;Kia;Luanda;922022716;augustomavambukia@gmail.co;Director de Missões;3ª igreja Baptista de viana;;;;;;;;;;;;
-385;Mavanguidi;Afonso;Luanda;938748429;mavatuela@gmail.com;LIDER DA JUVENTUDE;SIBZ;;;;;;;;;;;;
-386;Mbuku;Ditutala;Luanda;935162638;ditutala@hotmail.com;Membro;Terceira Igreja Baptista de Luanda;;;;;;;;;;;;
-387;Mendes;Bernardo;Luanda;922763554;cardosohumbajeronimo972@gmail.com;Director de Diáconos;Igreja Baptista Paixão de Cristo;;;;;;;;;;;;
-388;Mendes;Caiadi;Luanda;926277947;mendescaiadi@gmail.com;Tesoreiro;Segunda Igreja Baptista de Luanda;;;;;;;;;;;;
-389;Mendes Raul Bernardo;Bernardo;Luanda;926296540;mendesbernardo582@gmail.com;Diácono;Igreja Baptista Paixão Cristo;;;;;;;;;;;;
-390;Micaela;Miguel;Luanda;921668506;micaelamiguel095@gmail.com;Intercessora;Segunda Igreja Baptista do Zango;;;;;;;;;;;;
-391;Miguel;Quizambi;Luanda;943888805;miguelquizambi@gmail.com;Membro;Igreja Baptista da Trindade;;;;;;;;;;;;
-392;Miguel;Cazacala;Luanda;923470206;Josealfredopedro851@gmail.com;Tesoureiro;Igreja Baptista de Camadeira;;;;;;;;;;;;
-393;Miguel Capitão;Almeida;Luanda;923746474;miguelcapitaoalmeidacapitao@gmail.com;Moderador de Missões( Missionário);Igreja Baptista de Redenção;;;;;;;;;;;;
-394;Mimosa Joaquim;Joaquim;Luanda;923676080;mimosajiaquimk@gmail.com;Nenhuma;Segunda igreja Baptista de Luanda;;;;;;;;;;;;
-395;Moisés Domingos;Hucui;Bie;921569909;moisesprofeta2019@gmail.com;Evangelista;1ª Igreja Baptista do Cuito;;;;;;;;;;;;
-396;Mulaza Neto Jaime;Jaime;Luanda;2,44952E+11;pedropanzo31@gmail.com;Missionário;Igreja Evangelica Baptista de Belém;;;;;;;;;;;;
-397;Muyuca;Victor;Moxico;925928604;elsarubenruben@gmail.com;Diácono, Missionário e Director Provincial da União Masculina Missionária Baptista do Moxico;Primeira Igreja Evangélica Baptista do Luena;;;;;;;;;;;;
-398;Narciso;Macaxi;Luanda;924509404;narcisomaccaxi@gmail.com;Missionário;Igreja Batista Camadeira;;;;;;;;;;;;
-399;Narciso;Macaxi;Luanda;924509404;narcisomaccaxi@gmail.com;Missionário;Igreja Batista de Camadeira;;;;;;;;;;;;
-400;Nelson;João;Luanda;924229695;grupo.domingosalberto2017@gamil.con;Diacono;Igreja Baptista Vinda de Cristo.;;;;;;;;;;;;
-401;NELSON;GOMES;Luanda;926152250;panguila@yahoo.com.br;PRESIDENTE DOS DIÁCONOS;IGREJA BAPTISTA DO PRENDA;;;;;;;;;;;;
-402;Nelson;Pedro;Luanda;933072149;gelsonmendes19@gmail.com;Tesoureiro da Juventude;Segunda igreja Baptista de Luanda;;;;;;;;;;;;
-403;Nelson;Gombo;Luanda;938460064;manuelcanguanda5@gmail.com;Líder dos homens;Igreja Evangélica Baptista Luz Divina;;;;;;;;;;;;
-404;Nelson;Diogo;Luanda;923302433;elpereirao010@gmail.com;Diacono;Igreja Batista Da Samba;;;;;;;;;;;;
-405;Neulma;Simão;Luanda;945192901;neulmasimao123@gmail.com;Lider da Juventude;Igreja Baptista Nova Jerusalém;;;;;;;;;;;;
-406;Nsimba;Daniel;Luanda;932342054;nsimbadnl@gmail.com;Diretor da Juventude;Missão evangélica Baptista Caminho da vida (Igreja Baptista de Canaã);;;;;;;;;;;;
-407;NSOQUI;QUIBELO;Luanda;952914128;pascoal.felix@hotmail.com;DIRETOR PATRIMONIO E FINANÇAS;1ª IGREJA BAPTISTA DO ROCHA PINTO;;;;;;;;;;;;
-408;Nuno Vicente;Paulino;Luanda;943929901;sobapaulino33@gmail.com;Pastor;Primeira Igreja Baptista do Belo Horizonte;;;;;;;;;;;;
-409;Núria;Miguel;Luanda;936695743;miguelnuria6@gmail.com;Missionária;Segunda Igreja Baptista do Zango;;;;;;;;;;;;
-410;Núria;Miguel;Luanda;936695743;miguelnuria6@gmail.com;Missionária;Segunda Igreja Baptista do Zango;;;;;;;;;;;;
-411;Odete;Chissingui;Luanda;944421328;primeiraigrejabaptistadozango1@gmail.com;Tesoureira da Juventude Provincial;1ª Igreja Baptista do Zango;;;;;;;;;;;;
-412;Oliveira;Balo;Luanda;925597936;Oliveira.carga24@gmail.com;Professor;1ª Evangélica Baptista de Luanda;;;;;;;;;;;;
-413;Oliveira;Catangui;Luanda;923258668;muenhoatok@gmail.com;Pastor titular;Memorial da fé;;;;;;;;;;;;
-414;Oliveira;Gonga;Luanda;923523739;oliveirapascoalgonga9@gmail.com;Pastor;Primeira Igreja Batista do Cassequel;;;;;;;;;;;;
-415;Oliveira;Catangui;Luanda;923258668;oliveirapanzo@yahoo.combr;Past3;Igreja Baptista Memorial da Fé;;;;;;;;;;;;
-416;Oliveira;Francisco;Luanda;922132675;oliverfranciscpaulo@gmail.com;Director da juventude;Igreja Baptista do Simione;;;;;;;;;;;;
-417;OLÍVIA;GONÇALVES;Luanda;993134703;pascoal.felix@hotmail.com;MEMBRO;1ª IGREJA BAPTISTA DO ROCHA PINTO;;;;;;;;;;;;
-418;Oliviano;Dionísio;Lunda Sul;929769346;olivianodionisiodionildo@gmail.com;Director do Departamento de Missões Locais;Segunda Igreja Baptista de Saurimo;;;;;;;;;;;;
-419;Olívio Alberto;Gombo;Luanda;939347535;Jeremiassembe1992@gmail.com;Membro;Igreja Baptista Sal da Terra;;;;;;;;;;;;
-420;Orivaldo;Cassucussuco;Benguela;933808237;piblobito@gmail.com;Dirigente de louvor;Primeira Igreja Baptista do Lobito;;;;;;;;;;;;
-421;Orlando;Mateus;Luanda;923273024;mariojeremiasmbaialambimba43@gmail.com;Diácono;Segunda Igreja Baptista do Zango;;;;;;;;;;;;
-422;Osvaldo;Bumba;Luanda;939563273;bumbaosvaldo@gmail.com;Líder do departamento de missões e evangelismo;I.B do Bairro 15 de Fevereiro;;;;;;;;;;;;
-423;Osvaldo;Pedro;Luanda;936401264;osvaldoalfredopedro@gmail.com;Secretário;Baptista;;;;;;;;;;;;
-424;Osvaldo;Bumba;Luanda;923554061;manuelcassule@gimail.com;Diretor de missões local;Igreja Batista do Bairro 15 de fevereiro;;;;;;;;;;;;
-425;Osvaldo;Pedro;Luanda;936401264;Osvaldoalfredopedro@gmail.com;Secretário;Igreja Baptista;;;;;;;;;;;;
-426;Paiva;Narciso;Luanda;923576054;tiagomacaba13@gmail.com;Pastor;Primeira igreja evangelica Baptista de Viana;;;;;;;;;;;;
-427;Pascoal;Kimbalambi;Luanda;925069146;codilson@gmail.com;Missionário;2ª de Viana;;;;;;;;;;;;
-428;Pascoal;Dinis;Luanda;2,44926E+11;pascoalfelixdinis@gmail.com;Diretor de Missões;Primeira Igreja Baptista do Rocha Pinto;;;;;;;;;;;;
-429;Paulo;Nvika;Cuanza Sul;924865815;paulosergiovieiranvika@gmail.com;Pastor e membro do depart missões CBA;Igreja Batista da londa 2 - Sumbe;;;;;;;;;;;;
-430;Paulo;Salomão;Luanda;931662063;mcsacatengo@gmail.com;Comunicação e imagem coordenador;segunda igreja Baptista do zango;;;;;;;;;;;;
-431;Paulo;Chilingutila;Luanda;934362008;paulochilingutila9@gmail.com;Vice-diretor do departamento da juventude;1°Igreja Baptista do Zango;;;;;;;;;;;;
-432;Paulo;Manuel;Cabinda;927340474;manuelpaulo916@gmail.com;Pastor;Primeira Igreja Baptista de Cabinda;;;;;;;;;;;;
-433;Paulo;Nzuzi;Luanda;931093402;pauloantonionzuzi@gmail.com;Ministro de Louvor;Igreja Baptista Ebenézer da Sapú;;;;;;;;;;;;
-434;Pedro;André;Luanda;938136323;pedrokiriauandre@gmail.com;Vice-diretor de missões;Segunda Igreja Baptista De Luanda;;;;;;;;;;;;
-435;Pedro;André;Luanda;930975325;tchiteculo@gmail.com;MODERADOR DE MISSÕES;1ª IGREJA BAPTISTA DO ROCHA PINTO (Missão Misericórdia de Deus);;;;;;;;;;;;
-436;Pedro;Calombe;Luanda;948575796;pedroantoniocalombe09@gmail.com;Membro;Primeira igreja Baptista do Rocha Pinto;;;;;;;;;;;;
-437;Pedro;Zua;Luanda;928907331;guricogizua90@gmail.com;Membro;Igreja Baptista Boa Esperança;;;;;;;;;;;;
-438;Pedro;Samando;Luanda;925652288;psamandocefa@gmail.com;Missionário;Igreja Batista de Boa Vista;;;;;;;;;;;;
-439;Pedro;Simões;Luanda;923459745;pedro.dilangue06@gmail.com;Membro;Primeira Igreja Baptista de Cacuaco;;;;;;;;;;;;
-440;Pedro;Quimuengue;Luanda;927686851;distinto.ma@gmail.com;Líder de acção Social;2ª IGREJA BAPTISTA DA SAPÚ 1;;;;;;;;;;;;
-441;Pedro;Caiadi;Luanda;941231493;pedrocaiadi@hotmail.com;Responsavel Ministério com Familia;2 Igreja Baptista de Luanda;;;;;;;;;;;;
-442;Pedro Caxita Panzo;Panzo;Luanda;923650690;pedropanzo31@gmail.com;Diretor de missões provincial de Luanda;Igreja Evangelica Baptista de Belém;;;;;;;;;;;;
-443;Pembele;João;Luanda;923947123;pembejoao@gmail.com;Professor;1ª Evangélica Baptista de Sapú 2;;;;;;;;;;;;
-444;Pinto;Camuango;Luanda;927983716;pintojosebalantaiiny@gmail.com;Missionário;Igreja Baptista Fonte de Água Viva;;;;;;;;;;;;
-445;Pinto;Camuango;Luanda;955513699;pintojosebalantaiiny@gmail.com;Líder de Missões;Igreja Baptista Fonte de Água Viva;;;;;;;;;;;;
-446;Pinto;Camuango;Luanda;955513699;pintojosebalantaiiny@gmail.com;Missionário;Igreja Baptista Fonte de Água Viva;;;;;;;;;;;;
-447;Pr Cardoso;Jerónimo;Luanda;922763554;cardosohumbajeronimo972@gmail.com;Pastor;Igreja Baptista Paixão de Cristo;;;;;;;;;;;;
-448;Pr Venâncio;Correia;Luanda;922763554;cardosohumbajeronimo972@gmail.com;Pastor;Igreja Baptista Paixão de Cristo;;;;;;;;;;;;
-449;PR. VENÂNCIO CORREIA;CORREIA;Luanda;926296540;mendesbernardo582@gmail.com;Pastor;Igreja Baptista Paixão Cristo;;;;;;;;;;;;
-450;Pr.Evaristo António B.Paulo;Paulo;Luanda;941684785;evaristopaulopaulo764@gmail.com;Pastor;Primeira Igreja Baptista da Boa Fé2;;;;;;;;;;;;
-451;Quintas;Muzala;Moxico;929127688;quintasa36@gmail.com;Missionário;1a igreja evangélica Baptista do Luau;;;;;;;;;;;;
-452;Raul;Emidio;Luanda;924738525;njovolinice@yahoo.com.br;Pastor;Primeira Igreja Batista do Benfica;;;;;;;;;;;;
-453;Reginaldo;João;Luanda;946777750;reginaldotarsis@gmail.com;Pregador;1. Igreja Evangélica Baptista de Luanda;;;;;;;;;;;;
-454;Renaldo Paiva;Esteves;Luanda;931492026;renaldopaiva1992@gmail.com;Secretário;Igreja Baptista Sal da Terra;;;;;;;;;;;;
-455;Ricardo;Santos;Luanda;937599592;malaquiasmolo1984@gmail.com;Pastor;Igreja Baptista Boa Esperança;;;;;;;;;;;;
-456;Ricardo;Noé;Luanda;924836938;Ricardodasilvanoe5@gmail.com;Missionario;Terceira igreja Baptista de Luanda;;;;;;;;;;;;
-457;Rolf;Costa;Luanda;939395601;rolfdinis07@gmail.com;Cooperador do Ministério da Juventude;Segunda Igreja Baptista do Zango;;;;;;;;;;;;
-458;Rosa;Silva;Luanda;923494202;rosamadinga@gmail.com;Professora da EBD;Segunda igreja Baptista de Luanda;;;;;;;;;;;;
-459;Rosa;Silva;Luanda;923494202;rosamadinga@gmail.co;Professora da EBD;Segunda igreja Baptista de Luanda;;;;;;;;;;;;
-460;Rosa;Da Silva;Luanda;923494202;rosamadinga@gmail.com;Prof da EBD;Segunda Igreja Baptista de Luanda;;;;;;;;;;;;
-461;Rosa;Quemba;Luanda;928103507;quembarosa04@gmail.com;Conselheira das Mensageiras do Rei;Igreja Baptista Ebenezer da Sapu;;;;;;;;;;;;
-462;Rosalina;Garcia;Luanda;923285977;franciscogarcia2050@gmail.com;Professora;1ª Evangélica Baptista de Luanda;;;;;;;;;;;;
-463;Rosário;Nkanga;Zaire;926285654;Rosarionkanga@gmail.com;Secretário;Primeira Igreja Baptista do Zaire/Soyo;;;;;;;;;;;;
-464;Rufino;Jorge;Luanda;934027951;varilsonfernandes.vf@gmail.com;Moderador da igreja;Primeira Igreja Evangélica Baptista de Cacuaco;;;;;;;;;;;;
-465;Saiombe;Sanjai;Luanda;929790206;saiombesanjai86@gmail.com;Professor;Primeira Igreja Baptista de Viana;;;;;;;;;;;;
-466;Salatiel;Coelho;Luanda;944748158;migucoelho1@hotmail.com;Líder ministério com surdos;Segunda Igreja Batista do Zango;;;;;;;;;;;;
-467;Samuel;Gimba;Luanda;924500872;savissenga1@gmail.com;Missionário;Primeira Igreja Baptista do Zango;;;;;;;;;;;;
-468;Samuel;Gomes;Luanda;934594238;samuel934594238gomes@gmail.com;Interprete de LGA;Segunda igreja batista do zango;;;;;;;;;;;;
-469;Santos;Lopes;Luanda;940088540;santoslopes4d@gmail.com;Director de missões;Primeira igreja evangelica Batista de Viana;;;;;;;;;;;;
-470;Sebastião;Soqui;Luanda;923607733;sebastiaosoki2011@gmail.com;Pastor;Igreja Batista do Simione;;;;;;;;;;;;
-471;Sebastião;Augusto;Luanda;956383490;sebastiaoaugusto14@hotmail.com;Coordenador da Juventude;Seguanda igreja Baptista do zango;;;;;;;;;;;;
-472;Sebastião;Macaba;Luanda;932251515;sebastiaomacaba1955@gmail.com;Pastor;3ª igreja Baptista de viana;;;;;;;;;;;;
-473;Sebastião;Matondo;Luanda;923331063;zindo2014@hotmail.com;Evangelista;Associação D.Cristianismo Ministério Missionário;;;;;;;;;;;;
-474;Sebastião;Ramos;Luanda;943724699;Ricardodasilvanoe5@gmail.com;Secretário da Missão;Terceira igreja Baptista de Luanda;;;;;;;;;;;;
-475;Sidonio;Zenha;Luanda;933902285;sinioprodu9@hotmail.com;Segundo líder Missão;Primeira Igreja Batista de Luanda Missão Maye Maye;;;;;;;;;;;;
-476;Sidónio;Zenha;Luanda;933902285;sinioprodu9@hotamil.com;Professor;1ª Evangélica Baptista de Luanda;;;;;;;;;;;;
-477;Simão;Tuavile;Luanda;935976040;simaotuaviletuavile20@gmail.com;Missionário;Baptista Amor de Deus;;;;;;;;;;;;
-478;Simão;Mansamo;Luanda;924175128;simaoferraz@gmail.com;Líder de Missões;2ª IGREJA BAPTISTA DA SAPÚ 1;;;;;;;;;;;;
-479;Simão;Bengui;Luanda;929809051;macacxi.firmino@gmail.com;Vice coordenador de Evangelismo e Missões da igreja local;Igreja Baptista Nova Vida;;;;;;;;;;;;
-480;Simon;Miguel;Luanda;922249575;simonmiguel1969@gmail.com;Líder do património;1ª Evangélica Baptista de Luanda;;;;;;;;;;;;
-481;Susana;Gamba;Luanda;939007627;suzanagamba22@gmail.com;DIM;Terceira Igreja Baptista de Luanda;;;;;;;;;;;;
-482;Tania;Clavell;Luanda;923892829;taniaclavell2369@gmail.com;Conselheira da UF e as mensageiras;Igreja Ebenezer da Sapu;;;;;;;;;;;;
-483;Tânia;Paulo;Luanda;943262710;tanyazendaya@gmail.com;Participar;3° igreja batista de Luanda;;;;;;;;;;;;
-484;Teresa;Mbulo;Luanda;935310984;filipejose535@gmail.com;Directora da E.B.D;Canaã;;;;;;;;;;;;
-485;Teresa;Mbulo;Luanda;935310984;teresamariambulo7@gmail.com;Diretora da EBD;Igreja Batista de Canaã;;;;;;;;;;;;
-486;Teresa;Mbulo;Luanda;935310984;josemacanda22@gmail.com;Secretaria do departamento da mocidade;Igreja Baptista de Canaã;;;;;;;;;;;;
-487;Teresa;Malanga;Luanda;942656651;pauloantonionzuzi@gmail.com;Ministra de Louvor;Igreja Baptista Ebenézer da Sapú;;;;;;;;;;;;
-488;Tomás;Monteiro;Luanda;926828701;codilson@gmail.com;Missionário;2ª de Viana;;;;;;;;;;;;
-489;Tusevo;Dikizeko;Luanda;934418162;alehandradosmoranyd@gmail.com;Secretaria do Evangelismo e Missões;Quinta igreja Batista de Cacuaco;;;;;;;;;;;;
-490;Tusevo;Dikizeko;Uige;934418162;maedosmory@gmeil.com;Secretaria do Evangelismo e Missões;Quinta igreja Batista de Cacuaco;;;;;;;;;;;;
-491;Varilson;Fernandes;Luanda;934027951;varilsonfernandes.vf@gmail.com;Secretário local do Departamento de Evangelismo e Missões;Primeira Igreja Evangélica Baptista de Cacuaco;;;;;;;;;;;;
-492;Varilson;Fernandes;Luanda;934027951;varilsonfernandes.vf@gmail.com;Secretário local do Departamento de Evangelismo e Missões;Primeira Igreja Evangélica Baptista de Cacuaco;;;;;;;;;;;;
-493;Venâncio;Raúl;Luanda;924988098;muenhoatok@gmail.com;Diácono;Memorial da fé;;;;;;;;;;;;
-494;Ventura;Sangandala;Luanda;927075416;manuelcanguanda5@gmail.com;Diacono;Igreja Evangélica Baptista Luz Divina;;;;;;;;;;;;
-495;Victor;Nanga;Luanda;923453419;visnanga92@gmail.com;Tesoureiro Nacional da Juventude da CBA;Terceira Igreja Baptista de Luanda;;;;;;;;;;;;
-496;VIEGAS;LOURENÇO;Luanda;951299951;cajatamassala@gml.com;VICE MODERADOR DE MISSÕES;1ª IGREJA BAPTISTA DO ROCHA PINTO;;;;;;;;;;;;
-497;Viegas;Macuntuala;Luanda;927199837;delmacris2020@gmail.com;Pasror;Segunda igreja Baptista do Zango;;;;;;;;;;;;
-498;Viegas;Santos;Luanda;932157099;viegassantos@gmai.com;Líder;Igreja Baptista Fonte de Água Viva;;;;;;;;;;;;
-499;Waldemar;Alexandre;Luanda;940920224;waldemaralexandre200@outlook.com;Líder da Juventude;3* Igreja Baptista de Luanda;;;;;;;;;;;;
-500;Walter;Bernardo;Luanda;922763554;cardosohumbajeronimo972@gmail.com;Regente;Igreja Baptista Paixão de Cristo;;;;;;;;;;;;
-501;Yola;Pinto;Luanda;936786423;pintoy125@gmail.com;Diaconisa/ Professora da EBD;Segunda Igreja Baptista de Luanda;;;;;;;;;;;;
-502;Zacarias;Inácio;Luanda;941014462;zacariasinacio253@gmail.com;Missionário;Baptista Sal da Terra;;;;;;;;;;;;
-503;ZELA SENGO;Sengo;Luanda;2,44944E+11;pedropanzo31@gmail.com;Missionária;Igreja Evangelica Baptista de Belém;;;;;;;;;;;;
+ID,Primeiro nome,Ultimo Nome,Provincia,Telefone,Email,Funçao,Igreja,,,,,,,,,,,,
+1,Abilio David,Lumbo,Luanda,926761211,abiliolumbo@gmail.com,Professor da escola bíblica dominical,Igreja Baptista Ebénezer da Sapú,,Provincia,Total,Total de Registo,,,,,,,,
+2,Adalgiza,Ribeiro,Luanda,930202898,gizamaya@yahoo.com,Evangelismo,Igreja batista nova aliança,,Luanda,270,315,,,,,,,,
+3,Adelaide,Benedito,Luanda,915552091,marhell.malandila2008@gmail.com,Diaconiza,1 igreja Batista de Luanda,,Bengo,8,,,,,Segunda Igreja Baptista De Luanda,9,,,Total Igrejas
+4,Adelino,Ngongo,Cuando Cubango,932626701,adelinongongo1999@gmail.com,Missionário Provincial da JBA,Segunda Igreja Batista de Menongue,,Uige,8,,,,,Igreja Batista Da Samba,1,,,314
+5,Aderito João,Gomes,Luanda,938595333,missionarioaderito@gmail.com,Missionário,2°Igreja Baptista do Morro Bento,,Lunda Sul,1,,,,,2 igreja Batista de,1,,,
+6,Adilson,Quitadi,Luanda,929357217,aquitade@gmail.com,Membro em plena comunhão,1ª Igreja Baptista do Zango,,Bie,2,,,,,Baptista Amor de Deus,4,,,
+7,Adjamila,Mazenda,Luanda,943087032,adjamilamazenda0@gmail.com,Delegada de Informação Medica,Terceira igreja batista de Luanda,,Cuanza Sul,6,,,,,Igreja Baptista Boa Esperança,4,,,
+8,Afonso,José,Luanda,925229611,fjbengui@yahoo.com.br,Moderador adjunto de Missões,Primeira Igreja Baptista de Luanda,,Malanje,2,,,,,Igreja Baptista Nova Vida,8,,,
+9,Afonso,Firmino,Luanda,929706041,elizabethviegas205@gmail.com,Missionário,Terceira Igreja Baptista de Luanda,,Huambo,4,,,,,1ª Evangélica Baptista de Sapú 2,2,,,
+10,Agostinho,Vulola,Luanda,944457048,vulolajunior30@gmail.com,Vice moderador da igreja,Segunda Igreja Baptista do Rocha Pinto,,Benguela,5,,,,,Segunda igreja Baptista do Zango,12,,,
+11,Agostinho,Lopes,Luanda,934233424,Agostnhosaunha@gmail.com,Moderador de Finanças,Igreja Baptista da Estalagem km12A,,Moxico,2,,,,,Igreja Baptista Ebenézer Da Sapú,2,,,
+12,Agostinho,Lopes,Bengo,934233424,Agostnhosaunha@gmail.com,Moderador de Finanças,Igreja Baptista da Estalagem km12A,,Zaire,4,,,,,Primeira Igreja Baptista de Viana,1,,,
+13,Albertina,Victorino,Luanda,923504473,albertinavito78@gmail.com,Missionária,3ª Igreja Baptista de Viana,,Cuando Cubango,1,,,,,SIBZ,2,,,
+14,Alberto,Condele,Luanda,924117615,malaquiasmolo1984@gmail.com,Secretário de Missões,Primeira Igreja Evangélica Baptista de Luanda,,Cabinda,2,,,,,Igreja Baptista da Trindade,2,,,
+15,Alberto,Gamba,Luanda,923515952,danieldambi47@gmail.com,Lider de Missões,Igreja Baptista da Fé,,,,,,,,1ª IGREJA BAPTISTA DO ROCHA PINTO,12,,,
+16,Alberto,Cazeza,Luanda,933159216,cazezaczezaalbertomuanamoxi@gilm.com,Missionário,Igreja Baptista Ebenezer da Sapu,,,,,,,,Primeira Igreja Baptista De Luanda,4,,,
+17,ALBERTO,NGOLA,Luanda,926152250,panguila@yahoo.com.br,TESSOUREIRO,IGREJA BAPTISTA DO PRENDA,,,,,,,,Quinta igreja Batista de Cacuaco,4,,,
+18,Alberto,Guiwho,Luanda,925581265,goncalvesalbeerto02@gmail.com,Auxiliar no ministério com crianças e membro da comunicação e imagem,Segunda Igreja Baptista do Zango,,Secretária da A Voz Anjos,1,,,,,3 Baptista se Luanda,1,,,
+19,Alberto,Panzo,Luanda,929769268,leonelbetilson@gmail.com,Director adjunto de comissão de Finanças,Igreja Batista de Canaã,,Diretor De Missões,2,,,,,Primeira igreja evangelica Batista de Viana,1,,,
+20,Alberto,Ebo,Luanda,941056719,muenhoatok@gmail.com,Secretário dos Embaixadores do Rei,Memorial da fé,,Professora da EBD,2,,,,,igreja Baptista de Boavista,2,,,
+21,Alcino,Camuege,Luanda,925111483,alcinoramoscamuege@gmail.com,Missionário,Iª Igreja Evangélica Baptista de Sapú II,,Liturgista,1,,,,,1ª IGREJA BAPTISTA DO ROCHA PINTO (Missão CAPARI),1,,,
+22,Alexandre,António,Luanda,,alexandrekiesse1@gmail.com,Pastor,Boas Novas do Golf,,Missionário,29,,,,,Primeira Igreja Evangélica Baptista de Luanda,1,,,
+23,Alexandre,Mialda,Luanda,936555775,alexandrefernandomialda@gmail.com,Membro,2 Igreja Baptista de Luanda,,Diácono,14,,,,,Segunda de Luanda,1,,,
+24,Alexandre,Mialda,Luanda,936555775,alexandrefernandomialda@gmail.com,Membro,2 Igreja Baptista de Luanda,,Pastor,33,,,,,Igreja Baptista Paixão de Cristo,7,,,
+25,Alexandre Martins,Martins,Luanda,921468120,Martinsgoncalves@35gmail.com,Coordenador de Missoes,Missão/ Boas Novas do golf.,,Secretario,2,,,,,2@Igreja Baptista de Luanda,1,,,
+26,Alfa,Cabens,Luanda,948593609,alfaomegarafael@gmail.com,Membro,Vinda de Cristo,,Professora,9,,,,,Igreja Batista do Bairro 15 de Fevereiro,7,,,
+27,Alfredo,Garcia,Luanda,925830144,brandaogarcia48@gmail.com,Professor do ministério com crianças,Segunda Igreja Baptista do Zango,,Professor,6,,,,,Segunda igreja batispta de Luanda,1,,,
+28,Alfredo,Pinto,Bengo,957406008,pauloantonionzuzi@gmail.com,Corista,Igreja Baptista Ebenézer da Sapú,,Técnica de enfermagem,1,,,,,Baptista do Ndala Muleba,1,,,
+29,Alfredo,Joaquim,Luanda,923891248,alfredoalfredodomingosjoaquim@gmail.com,Pastor,Igreja Evangélica Baptista da Trindade,,Membro,13,,,,,Igreja Baptista da Fé,2,,,
+30,Altino,Lourenço,Luanda,933655257,ernestoelisio47@gmail.com,Discipulador,Segunda Igreja Evangélica Baptista de Luanda,,Programadora,1,,,,,1ª Evangélica Baptista de Luanda,5,,,
+31,Amândio,Savissenga,Luanda,948560000,savissenga1@gmail.com,Professor da EBD,Primeira Igreja Baptista do Zango,,LIDER DA JUVENTUDE,3,,,,,Segunda Igreja Evangélica Baptista de Luanda,1,,,
+32,Ana,Renato,Luanda,925632594,pauloantonionzuzi@gmail.com,Lider das Moças,Igreja Baptista Ebenézer da Sapú,,Prof da EBD,1,,,,,Memorial da fé,5,,,
+33,Ana Carla,Gomes,Luanda,926152250,panguila@yahoo.com.br,Diaconisa conselheira,Igreja Batista do Prenda,,DIRETOR PATRIMONIO E FINANÇAS,1,,,,,Protestante,1,,,
+34,Ana da Graça,Muto,Luanda,929869984,primeiraigrejabaptistadozango1@gmail.com,Moderadora do departamento de Missões,1ª Igreja Baptista do Zango,,DIRETOR DE MUSICA,1,,,,,Igreja Baptista de boa vista,1,,,
+35,Ana Maria,Samba,Luanda,923583749,joanidiamialda@gmail.com,Diaconisa,2 Igreja Baptista de Luanda,,SECRETARIA DA IGREJA,1,,,,,Igreja Baptista do Bairro Novo Km 12A,4,,,
+36,Anacleta,Mbulo,Luanda,930025168,josemacanda22@gmail.com,Secretaria do departamento de missões local,Igreja Baptista de Canaã,,Tesoureiro da evangelismo e missões,1,,,,,Missão Baptista do Bela vista do Monte,1,,,
+37,Analtina,Vucusse,Luanda,933677265,pauloantonionzuzi@gmail.com,Secretaria da UFMB,Igreja Baptista Ebenézer da Sapú,,Secretaria do Evangelismo e Missões,2,,,,,1• Igreja Evangélica Baptista de Sapú 2,1,,,
+38,André,Agostinho,Luanda,930588181,bartolomeu2015@hotmail.com,Presidente da ordem de pastores Baptista de Luanda,3a Igreja Baptista de Luanda,,DIRETOR DA JUVENTUDE,4,,,,,Segunda Igreja Baptista de Saurimo,1,,,
+39,André,Hebo,Luanda,928682263,pauloantonionzuzi@gmail.com,Diácono,Igreja Baptista Ebenézer da Sapú,,DIRETORA UFM,1,,,,,Igreja Baptista de Redenção,1,,,
+40,Ângela,João,Luanda,929328168,pembejoao@gmail.com,Professora,1ª Evangélica Baptista de Sapú 2,,Moderador de missões,2,,,,,1ª Igreja Baptista do Cuito,1,,,
+41,Angélica,Anito,Luanda,945231593,alcinoramoscamuege@gmail.com,Directora do Departamento de Administração Património e Finanças,Iª Igreja Evangélica Baptista de Sapú II,,Director de missões,4,,,,,Igreja Batista do Prenda,3,,,
+42,Angélica Celestina Henda,Anito,Luanda,945231593,alcinoramoscamuege@gmail.com,Directora do Departamento de Administração Património e Finanças,Iª Igreja Evangélica Baptista de Sapú II,,VICE PRESIDENTE DIACONAL,1,,,,,1ª IGREJA BAPTISTA DO ROCHA PINTO (Missão Misericórdia de Deus),1,,,
+43,Angelina,Gomes,Luanda,937540260,isabelgomes200027@gmail.com,Professora,Segunda Igreja Evangélica Baptista de Luanda,,Diacono,4,,,,,Primeira igreja Baptista do Rocha Pinto,2,,,
+44,Angelino,Zenha,Luanda,949916130,Angelinoedgarz@gmail.com,Moderador,Cazenga,,PRESIDENTE DIACONAL,1,,,,,Segunda Igreja Baptista do Rocha Pinto,2,,,
+45,Ângelo António neves campos,Campos,Luanda,923573668,angelocacuabicacuabi@giml.com,Membro,Igreja Baptista do Simione,,MODERADOR DO DEC,1,,,,,Boa Esperança,2,,,
+46,Antonio,Zua,Luanda,923344578,caxingazua@gmail.com,Diacono,Primeira Igreja Evangelica Baptista de Viana,,DIRETORA PROVINCIAL DA UFMB,1,,,,,3-Igreja Batista Luanda,1,,,
+47,António,Fino,Uige,926090521,antoniocefas19@gmail.com,Missionário,Primeira Igreja Baptista De Luanda,,Professor da Escola Bíblica Dominical,1,,,,,1° Igreja Baptista do Sumbe,1,,,
+48,António,Joveth,Luanda,948384989,kintilsonjoveth23@gmail.com,Programador da juventude,Igreja Baptista de Camadeira,,MISSIONARIO,3,,,,,Segunda Igreja Baptista do Zango- SIBZ,1,,,
+49,António,Mbulo,Zaire,923211563,Antoniombulo@gmail.com,Missionário,Primeira Igreja Baptista do Zaire/Soyo,,Secretário de Missões,2,,,,,Baptista da Londa2,1,,,
+50,António,Paulo,Luanda,924011479,ajpaul1401@gmail.com,Membro do Departamento,Primeira Igreja Baptista de Luanda,,Regente,1,,,,,3 Igreja Baptista de Luanda,4,,,
+51,António,Cefas,Uige,2,4492600000000000,ajpaul1401@gmail.com,Missionário,Primeira Igreja Baptista de Luanda,,Programador,1,,,,,3 igreja batista de luanda,1,,
+52,António,Bento,Luanda,975332875,antoniobentoquina@gmail.com,Membro,Igreja Baptista Ebenézer da Sapú,,Director de Diáconos,1,,,,,Igreja b. Bom Pastor,1,,,
+53,António,Orlando,Luanda,923131902,malaquiasmolo1984@gmail.com,Missionário,Primeira Igreja Evangélica Baptista de Luanda,,Vice-diretor de missões,1,,,,,Igreja b.boavista,1,,,
+54,Antônio Samuel Fama,Fama,Luanda,936749887,florindofortunato@gmail.com,Pastor,I igreja Baptista de Luanda,,Director do departamento de Música,1,,,,,Canaã,4,,,
+55,Apolinário,Tuca,Luanda,923717495,apolinariotuca@hotmail.com,Missionário,2 Igreja Baptista do Zango,,Diretor Evangelismo e Missões,1,,,,,2ª de Viana,3,,,
+56,Arlete,Chipalavela,Luanda,922019800,arletechipalavela@fmail.com,Professora de Crianças,Igreja Baptista Nova Aliança,,Estudante,3,,,,,Igreja Batista de Canaã,3,,,
+57,Arminda,Ferreira,Luanda,944443853,elpereirao010@gmail.com,Secretaria De Evangelismo E Missões,Igreja Batista Da Samba,,Lider de Missões,2,,,,,Igreja Batista do Simione,2,,,
+58,Arminda,Carruagem,Luanda,933629198,rosariarodrigues2530@gmail.com,Vice- Presidente do Dep. Missões,Missão Baptista do Benfica,,Director do Departamento de Missões,1,,,,,Igreja Baptista Sal da Terra,1,,,
+59,Armindo,Rocha,Luanda,923534330,armindocordeiro78@gmail.com,Director do departamento de Música,2@Igreja Baptista de Luanda,,Líder de missões,7,,,,,IEIA Km 12,1,,,
+60,Armindo,Dungo,Bengo,932374610,adimimasdungo@gmail.com,Director da música,Missão Baptista do Bela vista do Monte,,Líder do património,1,,,,,1ª Igreja Baptista do Zango,3,,,
+61,Augusta,Paca,Uige,915552091,marhell.malandila2008@gmail.com,Diaconisa,Igreja do centro do uige,,Discipulador,1,,,,,Trilha,1,,,
+62,Augusto,Manuel,Luanda,922763554,cardosohumbajeronimo972@gmail.com,Programador,Igreja Baptista Paixão de Cristo,,Líder dos adolescentes,1,,,,,Primeira Baptista do Rocha Pinto,2,,,
+63,Augusto,Ulungui,Luanda,927650250,ulungui@hotmail.com,Missionário,II igreja Baptista Morro Bento,,2° líder de missões,1,,,,,2ª IGREJA BAPTISTA DA SAPÚ 1,1,,,
+64,Augusto,Da Silva,Luanda,953521744,augustodajumatra@gmail.com,Membro,1ª Igreja Baptista da Sapú,,Pastor titular,1,,,,,Primeira Igreja Evangelica Baptista de Viana,3,,,
+65,Augusto de Almeida,André,Luanda,944488420,andrezandrezalmeida@gmail.com,Director da EBD,IGREJA BAPTISTA EBENÉZER DA SAPÚ,,Parte do Departamento de Missões internas,1,,,,,Igreja Baptista do Centro da Cidade do Uige,2,,,
+66,Áurea,Samba,Luanda,923085684,eunicemonteiro803@gmail.com,Professora auxiliar,Segunda Igreja Baptista do Zango,,Missionária,6,,,,,I.B do Bairro 15 de Fevereiro,1,,,
+67,Azevedo,Chivela,Huambo,931251367,chivelazevedo2022@gmail.com,Líder ministério de missões,Igreja Baptista vida nova,,Secretaria do campo missionário,1,,,,,2 Igreja Baptista de Malanje,1,,,
+68,Baptista,Carreia,Luanda,949165471,flavianoandrebatista@gmail.com,Líder de missões,15 de fevereiro Iraque,,1º secretário,1,,,,,Seguanda igreja Baptista do zango,1,,,
+69,Beatriz,Caidi,Luanda,932171774,rosamadinga@gmail.com,Membro,Segunda Igreja Baptista de Luanda,,Director da música,1,,,,,Igreja Baptista Vinda de Cristo.,3,,,
+70,Bemvinda,Mesac,Luanda,929611126,marinasiladacruz@gmail.com,Líder da Juventude,Igreja Baptista da Glória,,Director do Departamento de Missões Locais,1,,,,,Igreja Baptista de Canaã (estalagem ),1,,,
+71,Benadade Albano,Lopes Chipikita,Luanda,933725675,balchipikita@gmail.com,Líder dos Dpts de Música e de Comunicação e Imagem,Igreja Baptista de Boavista,,Moderador de Missões( Missionário),1,,,,,Igreja Evangelica Baptista de Belém,7,,,
+72,Benedito,Benedito,Luanda,936608544,pauloantonionzuzi@gmail.com,Lider de Missões,Igreja Baptista Ebenézer da Sapú,,Líder,2,,,,,Baptista Sal da Terra,1,,,
+73,Benileydi,Benileydi,Luanda,949402455,benitamanuel651@gmail.com,membro,igreja batista Ebenezer da sapu,,Evangelista,2,,,,,Iª Igreja Evangélica Baptista de Sapú II,3,,,
+74,Benivaldo,Arthur,Luanda,945017537,benivaldoadelinojornalista@gmail.com,Evangelista,ADP Nova Jerusalém,,VICE MODERADOR DE MISSÕES,1,,,,,Igreja batista nova aliança,1,,,
+75,Benjamim,Bernardo,Luanda,924686955,benjamim.manuel924@gmail.com,Membro,Igreja Baptista Ebenézer Da Sapú,,Vice moderador da igreja,1,,,,,Igreja Batista da Londa-2 Sumbe,1,,,
+76,Benjamim,Simão,Huambo,923778130,benjamimovidio@hotmail.com,Professor,Igreja Baptista Relevante do Lossambo,,Director adjunto da UMMBL,1,,,,,Terceira igreja do Negage,1,,,
+77,Benjamim Kiala,Kiala,Luanda,926519062,benjamimkiala@gmail.com,Moderador de missões,3 Baptista se Luanda,,Diaconosa,1,,,,,Igreja Baptista da Glória,1,,,
+78,Bernardo,Makidica,Luanda,935010782,benilsonisabel20@gmail.com,2° secretário,Missão evangélica Baptista Caminho da vida (Igreja Baptista de Canaã),,Membro-Lider,1,,,,,Igreja Batista da londa 2 - Sumbe,1,,,
+79,Bernardo,Narciso,Luanda,923409418,bernardonarciso90@gmail.com,Missionário,Baptista Amor de Deus,,Diacono e Moderador da Igreja,1,,,,,Primeira Igreja Baptista do Prenda,1,,,
+80,Bráulio,Almeida,Luanda,926152250,panguila@yahoo.com.br,Líderes do Ministério com Família,Igreja Batista do Prenda,,Vice-Directora da Sociedade de Moças da SIBZ,1,,,,,Igreja Baptista Nova Jerusalém,1,,,
+81,Cardoso,João,Luanda,936767373,savissenga1@gmail.com,Pastor da Igreja,Primeira Igreja Baptista do Zango,,Professor do ministério com crianças,1,,,,,Igreja Baptista de Belém,1,,,
+82,Carlitos,Dinis,Luanda,923581868,Carlitosestevesd@gmil.com,Diácono,Baptista Amor de Deus,,Vice Directora da UFMBA,1,,,,,Terceira igreja Baptista de Luanda,4,,,
+83,Carlos,dos Santos,Luanda,951057436,carlosjesus91@hotmail.com,Membro-Lider,3-Igreja Batista Luanda,,Missonario,1,,,,,Segunda Igreja Baptista Angola,1,,,
+84,Carlos,Zanzi,Luanda,926519665,grupo.domingosalberto2017@gamil.con,Secretario,Igreja Baptista Vinda de Cristo.,,Directora da E.B.D,1,,,,,Boas Novas do Golf.,1,,,
+85,Carlos,Dos Santos,Luanda,928947574,carlosjesus91@hotmail.com,Membro/Lider,Terceira Igreja batista de luanda,,Diretora da EBD,1,,,,,Boas novas,1,,,
+86,Carlos,Samba,Luanda,923745627,kianvo24@gmail.com,Conselheiro da igreja,Segunda igreja Baptista de Luanda,,Moderador de missões local,1,,,,,Igreja Baptista Vinda de Cristo,3,,,
+87,Carlos,Monteiro,Luanda,923105484,carloscamuto17@gmeil.com,Missionário,2 Igreja Baptista do Zango,,Tesoureira da Juventude Provincial,1,,,,,Igreja Baptista da Paz,2,,,
+88,Carlos,António,Luanda,945821960,pauloantonionzuzi@gmail.com,Diácono,Igreja Baptista Ebenézer da Sapú,,Kapa,1,,,,,Igreja Baptista da Estalagem km12A,1,,,
+89,Casimiro,Miguel,Luanda,925577949,casimiroartpop@gmail.com,Membro,Nova aliança,,Director do Departamento da Acção Social,2,,,,,Segunda igreja Batista do Morro Bento,1,,,
+90,Cecilia,Augusto,Luanda,936052172,graciethgomesaugusto@gmail.com,Secretaria do campo missionário,Igreja Baptista de boa vista,,Secretário,4,,,,,Pib Luanda,1,,,
+91,Celeste,Samuel,Luanda,936265921,josecasacaladinisjosedinis@gmail.com,Directa do D.E.C,Igreja Evangélica Baptista de Canaã -Estalagem,,Director da Directoria de educação Cristã,1,,,,,Igreja Baptista Relevante do Lossambo,1,,,
+92,Celma,Mucuto,Luanda,931111014,albertoclesia97@gmail.com,Presidente da SM,Boas novas,,Membro em plena comunhão,1,,,,,Igreja Batista da glória,1,,,
+93,Celma,Mucuto,Luanda,931111014,celmacesar595@gmail.com,Professor,Boas novas do golf,,Moderadora do departamento de Missões,1,,,,,Cazenga,1,,,
+94,Celma,Mucuto,Luanda,931111014,celmacesar595@gmail.com,Professor,Boas novas do golf,,Missionário e Diácono,1,,,,,Primeira Igreja Batista do Cassequel,1,,,
+95,Celson,Cafumbila,Lunda Sul,944113528,celsoncafumbila1012@gmail.com,Tesoureiro,Igreja Baptista Semeador,,Professora auxiliar,1,,,,,Baptista,1,,,
+96,Cesalina,Correia,Luanda,929106063,correiacesaltinacorreia@gmail.com,Estudante,Boas novas do golf,,Líder do departamento de missões e evangelismo,1,,,,,Igreja Baptista de Camadeira,1,,,
+97,Cláudia,Nicolau,Luanda,938491006,claudianuma701@gmail.com,Vice secretária da missão Km 33,Igreja Baptista Ebenézer da Sapu,,Professor da EBD,2,,,,,Batista da Boavista,1,,,
+98,Cláudia,Numa,Luanda,938491006,pauloantonionzuzi@gmail.com,Secretaria,Igreja Baptista Ebenézer da Sapú,,Coordenador da Juventude,1,,,,,Igreja Baptista vida nova,1,,,
+99,Cláudia,Pinto,Luanda,928657671,pauloantonionzuzi@gmail.com,Lider da Acção Social,Igreja Baptista Ebenézer da Sapú,,Pasror,1,,,,,Igreja Baptista Memorial da Fé,1,,,
+100,Cláudio,Vucusse,Luanda,935410003,pauloantonionzuzi@gmail.com,Membro,Igreja Baptista Ebenézer da Sapú,,Líder de Finança,1,,,,,Primeira Igreja Baptista do Lobito,5,,,
+101,Clementina,Bernardo,Luanda,922763554,cardosohumbajeronimo972@gmail.com,Membro,Igreja Baptista Paixão de Cristo,,Lider do ministério com crianças,1,,,,,Igreja Batista Camadeira,1,,,
+102,Clementina Nany Bernardo,Bernardo,Luanda,926296540,mendesbernardo582@gmail.com,Membro da União Femenina,Igreja Baptista Paixão Cristo,,Secretaria de missões,1,,,,,Igreja Batista de Boa Vista,1,,,
+103,Coimbra,Caiadi,Luanda,923477719,coimbracaiadi@gmail.com,Director do Departamento de Missões,Segunda Igreja Baptista de Luanda,,Diretor de missões provincial de Luanda,1,,,,,CBA-Igreja Baptista do Dundo, Lunda-Norte,1,,
+104,Correia,Manuel,Luanda,926280489,codilson@gmail.com,Líder de Missões,2ª de Viana,,Secretário da igreja,2,,,,,Primeira Igreja Baptista do Belo Horizonte,1,,,
+105,Costa Daniel Paulo,Paulo,Luanda,941377988,filipejose535@gmail.com,Vice-Diretor da Juventude,Canaã,,Directora do Departamento de Administração Património e Finanças,1,,,,,1a igreja evangélica Baptista do Luau,1,,,
+106,Cristina,Magalhães,Luanda,933069502,cristinaquihungo@gmail.com,Programadora,Igreja Baptista Nova Vida,,Evangelismo,1,,,,,Boas novas do golf,3,,,
+107,Cristina,André,Luanda,926453282,delmacris2020@gmail.com,Secretária igreja,Segunda Igreja Baptista Angola,,Dra. UFMB e Prof EBD,1,,,,,Primeira Igreja Baptista do Zaire/Soyo,4,,,
+108,DAMIÃO,SEMBE,Luanda,924945344,pascoal.felix@hotmail.com,MODERADOR DO DEC,1ª IGREJA BAPTISTA DO ROCHA PINTO,,Pr. Dos diáconos,1,,,,,2°Igreja Baptista do Morro Bento,1,,,
+109,Daniel,Dambi,Luanda,924302937,danieldambi47@gmail.com,Diácono,Igreja Baptista da Fé,,Tesoureira,1,,,,,Igreja Baptista de Cabezo - Quibala,1,,,
+110,Daniel,Correia,Luanda,927554083,danieldomingoscorreia@gmail.com,Diácono,Pib Luanda,,Líder da Juventude,2,,,,,2ª Igreja Baptista do Rocha Pinto,1,,,
+111,Daniel Ngueve Katimba,Katimba,Luanda,940862866,florindofortunato@gmail.com,Membro,Igreja Baptista do Bairro Novo Km 12A,,Pastor e membro do depart missões CBA,1,,,,,Igreja Baptista Ebenezer da Sapu,1,,,
+112,Daniela,Ndjeck,Luanda,921059146,danielandjeck@gmail.com,Professora,Segunda igreja Baptista de Luanda,,Secretária igreja,1,,,,,Igreja Evangélica Batista Bom Pastor,1,,,
+113,Daniela,Gato,Luanda,954855009,danielacata16@gmail.com,Professora,Igreja Baptista Ebenézer da sapú,,Presidente da SM,1,,,,,Igreja Baptista Paixão Cristo,1,,,
+114,David,João,Luanda,947687686,davidtaia104@gmail.com,1º secretário,Baptista amor de Deus,,Professor de EBD,1,,,,,Igreja Baptista Boas Novas Do Golf,1,,,
+115,David Gonga Ricardo,Ricardo,Luanda,929679267,d73735209@gmail.com,Membro,Igrega Baptista Boa Esperança,,Moderador de Finanças,1,,,,,Igreja Evangélica Baptista do Ndala Muleba,1,,,
+116,Dédalo P.,dos Santos,Huambo,933806208,desantosluisa@gmail.com,Pastor,I.B. do Macolocolo,,Directora DEC,1,,,,,Segunda igreja Baptista do Morro-bento. CBA,1,,,
+117,Delfina,Miguel,Luanda,922398033,delfinnagmiguel@gmail.com,Gestora de stock,Igreja boas novas do golf,,Líder da juventude e professor da EBD,1,,,,,Para confirmar esta alteração, clique na ligação abaixo:,1,,
+118,Delman,Chandamissa,Luanda,932302122,delman_c@hotmail.com,Professora EBD,Terceira Igreja Baptista de Luanda,,Moderador,1,,,,,IGREJA BAPTISTA DO PRENDA,9,,,
+119,Denise,Zina,Luanda,949313795,denisezina8@gmail.com,Secretária da juventude,Igreja Baptista ebenezer da sapú,,Programador da juventude,1,,,,,1°Igreja Baptista do Zango,1,,,
+120,Derciana,Nzuzi,Luanda,934964104,pauloantonionzuzi@gmail.com,Corista,Igreja Baptista Ebenézer da Sapú,,Líder do DEM local,1,,,,,Igreja Baptista Fonte de Água Viva,4,,,
+121,Diamantino,João,Luanda,926725952,muenhoatok@gmail.com,Sem função,Memorial da fé,,Marketing,1,,,,,Primeira Igreja Baptista do Zango,4,,,
+122,Dimilson,Oliveira,Malanje,928740960,dimilsondeoliveira96@gmail.com,Professor da EBD,2 Igreja Baptista de Malanje,,Direitora das moças,1,,,,,Primeira Igreja Baptista da Boa Fé2,1,,,
+123,Dinis,Gomes,Luanda,931326436,alehandradosmoranyd@gmail.com,Tesoureiro da evangelismo e missões,Quinta igreja Batista de Cacuaco,,Líder ministério de missões,1,,,,,Primeira Igreja Batista do Benfica,1,,,
+124,Dinis,Francisco,Luanda,924585283,dinissergiofrancisco1510@gmail.com,Diácono,Igreja Evangélica Baptista do Ndala Muleba,,Past3,1,,,,,3ª Igreja Baptista de Viana,4,,,
+125,Diogo A P,Bravo,Luanda,934027951,varilsonfernandes.vf@gmail.com,Missionário,Primeira Igreja Evangélica Baptista de Cacuaco,,Dirigente de louvor,1,,,,,Terceira Igreja batista de luanda,1,,,
+126,Dionisa,Costa,Luanda,926007667,manuelcanguanda5@gmail.com,Líder de missões da igreja,Igreja Evangélica Baptista Luz Divina,,Diácono e professor da EBD,1,,,,,Segunda do morro bento,1,,,
+127,Dionisa,Costa,Luanda,926007667,manuelcanguanda5@gmail.com,Líder de missões da igreja,Igreja Evangélica Baptista Luz Divina,,Missionário da Ganda,1,,,,,Igreja Baptista Graça a Deus,1,,,
+128,Distinto,Augusto,Luanda,922961956,distinto.ma@gmail.com,Secretário,2ª IGREJA BAPTISTA DA SAPÚ 1,,Vice-Diretor da Juventude,1,,,,,Segunda Igreja Baptista do Morro Bento,1,,,
+129,Distinto,Ferraz Nunes,Luanda,923704543,distinto.ma@gmail.com,Pastor,2ª IGREJA BAPTISTA DA SAPÚ 1,,Líder dos Dpts de Música e de Comunicação e Imagem,1,,,,,Missão evangélica Baptista Caminho da vida (Igreja Baptista de Canaã),2,,,
+130,Domingos,Bondo,Luanda,923426892,papobiblico763@gmail.com,Líder,Sibz,,Assistente,1,,,,,Igreja Baptista do Simione,2,,,
+131,Domingos,Caia,Luanda,932064909,domingoszua05@gmail.com,Director do departamento de Educação Cristã,Igreja Baptista Boa Esperança,,Vice- diretor de missões,1,,,,,Segunda Igreja Baptista de Malanje,1,,,
+132,Domingos,Macaba,Luanda,934148766,tiagomacaba13@gmail.com,Director da Directoria de educação Cristã,Primeira Igreja Evangelica Baptista de Viana,,Moderador adjunto de Missões,1,,,,,Primeira Igreja Evangélica Baptista do Luena,1,,,
+133,Domingos,Alberto,Luanda,926697377,grupo.domingosalberto2017@gamil.con,Líder de Finança,Igreja Baptista Vinda de Cristo.,,Tesoureira de Missões,1,,,,,CBA (Ig. Bapt. Camadeira),1,,,
+134,Domingos,José,Luanda,947237905,domingosmiguelcangondo@gmail.com,Professor de Escola Bíblica,2ª Igreja Baptista do Rocha Pinto,,Comunicação e imagem coordenador,1,,,,,Batista do Prenda,1,,,
+135,DOMINGOS,MANUEL,Luanda,926152250,panguila@yahoo.com.br,DIRECTOR DE MISSÕES,IGREJA BAPTISTA DO PRENDA,,Professor de Escola Bíblica,1,,,,,Segunda igreja batista do zango,3,,,
+136,Domingos,Sebastião,Luanda,923607738,cba1940@hotmail.com,Pastor,Igreja Baptista Bom Pastor,,Secretária de Missões Local,1,,,,,Associação D.Cristianismo Ministério Missionário,1,,,
+137,Domingos Eyala,Alfredo,Luanda,923554061,manuelcassule@gimail.com,Director adjunto da UMMBL,Igreja Batista do Bairro 15 de fevereiro,,secretario de missões,1,,,,,Igreja Baptista Boas Novas,1,,,
+138,Dorivalda Adorina das Neves Baltazar,Baltazar,Luanda,2,4494400000000000,pedropanzo31@gmail.com,Secretaria de missões,Igreja Evangelica Baptista de Belém,,Diaconisa conselheira,1,,,,,2 Igreja Baptista do Zango,1,,
+139,Dulce,Pedro,Luanda,933022168,pauloantonionzuzi@gmail.com,Corista,Igreja Baptista Ebenézer da Sapú,,Líderes do Ministério com Família,1,,,,,Primeira Igreja Evangélica Baptista de Cacuaco,1,,,
+140,Dulce Maria Paulo,Alfredo Ditutala,Luanda,922294295,dulceditutala@hotmail.com,Vice Directora da União Feminina Local,Terceira Igreja Baptista de Luanda,,PRESIDENTE DOS DIÁCONOS,1,,,,,Igreja Batista do Cumbissa Alto Caule/Cangola,1,,,
+141,EBENEZER,MARINS,Luanda,926152250,panguila@yahoo.com.br,CONSELHEIRA,IGREJA BAPTISTA DO PRENDA,,Vice-diretor do departamento da juventude,1,,,,,Sambizanga,1,,,
+142,Edgar,Pereira,Luanda,925837400,elpereirao010@gmail.com,Diretor De Missões,Igreja Batista Da Samba,,CONSELHEIRA,2,,,,,Segunda Igreja Batista de Menongue,1,,,
+143,EDGAR,LUCAS,Luanda,931561014,pascoal.felix@hotmail.com,DIRETOR DA JUVENTUDE,1ª IGREJA BAPTISTA DO ROCHA PINTO,,SECRETARIA DO DCI,1,,,,,Segunda igreja Baptista do Cuito Bié,1,,,
+144,Edgar,Costa,Luanda,921985640,edgarbenjamimcosta@hotmail.com,Dirigente de Coral,2° Igreja Baptista de Luanda,,SECRETARIA DA JUVENTUDE,1,,,,,Igreja Baptista da Samba,1,,,
+145,Edmundo,Ngunza,Luanda,923969409,elimangunza@gmail.com,Pastor,Segunda igreja Baptista do Morro-bento. CBA,,PROFESSORA DE CRIANÇAS,1,,,,,Igreja Baptista Bom Pastor,1,,,
+146,Edna,Monteiro,Luanda,939787277,em8908670@gmail.com,Professora,Segunda Igreja Batista do Zango,,SECRETARIO DE MISSOES,1,,,,,Igreja Baptista do Macolocolo,1,,,
+147,Eduardo,Socolola,Luanda,931994351,josdacostaguilherme@gmail.com,Secretario,Igreja Baptista Nova Vida,,TESSOUREIRO,1,,,,,I.B. do Macolocolo,1,,,
+148,Eduardo,Quiteque,Luanda,929413468,elmoderado14@gmail.com,Missionário,Igreja Batista do Prenda,,Pastor da Igreja,1,,,,,Igreja Batista Vinda de Cristo,1,,,
+149,Eduardo da costa,André,Benguela,923463058,piblobito@gmail.com,Diácono e professor da EBD,Primeira Igreja Baptista do Lobito,,Secretária da Igreja,1,,,,,Vinda de Cristo,1,,,
+150,Eduardo jonatão justino chivava,Chivava,Luanda,923485927,eduardojoanatao53@gmail.com,Pastor,Igreja Baptista do Bairro Novo Km 12A,,Membro/Lider,1,,,,,Igreja Baptista de Canaã,5,,,
+151,Eduardo Laurindo,Kapumo,Luanda,936755694,Kapumolaurindo17@gmail.com,Membro,Segunda Igreja Baptista de Luanda,,Diaconisa -Missionária,1,,,,,Igreja Baptcista de Canaã,1,,,
+152,Elias,Vasco,Uige,924641524,Eliasvasco85@gmail.com,Corista,Igreja Baptista de Camadeira,,Diaconisa,1,,,,,Primeira Igreja Evangélica Baptista de Sapú II,1,,,
+153,Elisa,Capita,Luanda,928727505,pintojosebalantaiiny@gmail.com,Líder de missões,Igreja Baptista Fonte de Água Viva,,Secretária,1,,,,,3a Igreja Baptista de Luanda,1,,,
+154,Elisabeth,Viegas,Luanda,945290339,eunicemarques182@gmail.com,Estudante,3 igreja Baptista de Luanda,,Líder de missões / Congregação Evangélica Baptista do Bela vista do monte,1,,,,,Primeira Igreja da Convenção Baptista de Cabinda,1,,,
+155,Elisabeth,António,Luanda,996731233,elisabethantoniodejesus@gmail.com,Líder de crianças e adolescentes,Bap. Boas novas do golf,,Diácono, Missionário e Director Provincial da União Masculina Missionária Baptista do Moxico,1,,,,,Primeira Igreja Baptista de Cabinda,1,,
+156,Eliseu,Ulombe,Benguela,923532829,piblobito@gmail.com,Missionário da Ganda,Primeira Igreja Baptista do Lobito,,Líder de evangelismo e missões,1,,,,,Igreja Evangélica Baptista de Canaã -Estalagem,1,,,
+157,Eliseu,Itombe,Cabinda,947786645,eliseuoscar512@gmail.com,Director da Educação Cristã e Ensino,Primeira Igreja da Convenção Baptista de Cabinda,,Interprete de LGA,1,,,,,3* Igreja Baptista de Luanda,5,,,
+158,Eliseu,Francisco,Cuanza Sul,928040715,eliseufrancisco23@gmail.com,Director Nacional da Juventude Baptista,Primeira Igreja Baptista do Sumbe,,Auxiliar no ministério com crianças e membro da comunicação e imagem,1,,,,,Primeira Igreja Baptista de Cacuaco,1,,,
+159,Eliseu,Caculo,Luanda,934027951,varilsonfernandes.vf@gmail.com,Director da juventude local,Primeira Igreja Evangélica Baptista de Cacuaco,,Director adjunto de comissão de Finanças,1,,,,,Igreja evangélica Baptista Dadiva de Deus- Dangereux,1,,,
+160,Eliseu,Contreiras,Luanda,934027951,varilsonfernandes.vf@gmail.com,Director da união Masculina,Primeira Igreja Evangélica Baptista de Cacuaco,,Líder de Jovens e Promotor da EBD,1,,,,,Igreja Baptista de Nova Criatura de Henda,1,,,
+161,Elizabeth,Mucanda,Luanda,928123541,vicentetelma2005@gmail.com,Estudante,3 igreja batista de luanda,,Convenção Baptista de Angola,1,,,,,Primeira Igreja Baptista do Sumbe,1,,,
+162,Elizandra,António,Luanda,955138643,elisabethantoniodejesus@gmail.com,Mensageira do Rei,Boas novas do golf,,Secretaria do DEM,1,,,,,,,,,
+163,ELSA,MARTINS,Luanda,926152250,panguila@yahoo.com.br,SECRETARIA DO DCI,IGREJA BAPTISTA DO PRENDA,,2° secretário,1,,,,,,,,,
+164,Emanuel,Pascoal,Luanda,921546135,emanuel.sonda11@gmail.com,Missionário,Primeira Igreja Baptista do Prenda,,Membro Departamento de Missões,1,,,,,,,,,
+165,Emanuel,Pascoal,Luanda,921546135,emanuel.sonda11@gmail.com,Missionário,Primeira Igreja Baptista do Prenda,,Secretário local do Departamento de Evangelismo e Missões,1,,,,,,,,,
+166,Emanuel,Pascoal,Luanda,921546135,emanuel.sonda11@gmail.com,Missionário,Primeira Igreja Baptista do Prenda,,Missionário missão Batista zango3,1,,,,,,,,,
+167,Emildo,Monteiro,Luanda,948046254,emildo2009@hotmail.com,Professor da Escola Bíblica Dominical,Igreja Baptista Ebenézer da Sapú,,Missionário Provincial da JBA,1,,,,,,,,,
+168,Emilia,Da Costa,Luanda,923488413,emiliadacosta69@gmail.com,Membro,Segunda de Luanda,,Director da juventude,1,,,,,,,,,
+169,Emília,Domingos,Zaire,938344731,Emiliadomingos@gmail.com.com,Tesoureira de Missões,Primeira Igreja Baptista do Zaire/Soyo,,Missionária Educadora,1,,,,,,,,,
+170,Emília Silvina,Inácio da Costa,Luanda,923488413/936755694,kapumolaurindo17@gmail.com,Membro,2ª Igreja Baptista de Luanda,,Secretaria da EBD,1,,,,,,,,,
+171,Emiliana Catohi,Quissanga,Luanda,925659180,emilianaquissanga10@gmail.com,Professora,Segunda Igreja Baptista do Zango,,Diretor de missões local,2,,,,,,,,,
+172,Emona,Voza,Luanda,936039300,vozaemona@gmail.com,Secretária,Segunda Igreja Baptista do Morro Bento,,Secretaria do departamento da mocidade,1,,,,,,,,,
+173,ENGRACIA,PANGUILA,Luanda,926152250,panguila@yahoo.com.br,CONSELHEIRA,IGREJA BAPTISTA DO PRENDA,,Marketing e imagem,2,,,,,,,,,
+174,Ermelinda,Zanga,Luanda,951480534,zangahermelinda@gmail.com,Parte do Departamento de Missões internas,Igreja Baptista Nova Vida,,Presidente da ordem de pastores Baptista de Luanda,1,,,,,,,,,
+175,Erneto Ditutala,Paulo,Luanda,925673339,ditutala.mi@gmail.com,Membro,IEBA,,Secretaria do departamento de missões local,1,,,,,,,,,
+176,Esperança,André,Luanda,937848332,esperancaeduardomalundo@gmail.com,Secretária da A Voz Anjos,Segunda Igreja Baptista De Luanda,,Director da Educação Cristã e Ensino,1,,,,,,,,,
+177,Esperança,Benza,Luanda,947477461,bnoemia44@gmail.com,Levita Ministério de Louvor e Adoração,Igreja Baptista Ebenézer da Sapu,,Membro do Departamento,1,,,,,,,,,
+178,ESTEVÃO,BUNGA,Luanda,923083378,pascoal.felix@hotmail.com,DIRETOR DE MUSICA,1ª IGREJA BAPTISTA DO ROCHA PINTO,,Missionário, Diácono e Director do Ministério de oração da igreja.,1,,,,,,,,
+179,Estevão,Cafundala,Luanda,923643135,elpereirao010@gmail.com,Vice Moderador Da Igreja,Igreja Batista Da Samba,,Professor da E.B.D,1,,,,,,,,,
+180,Estêvão,Chaves,Luanda,938322500,estevaochaves@gmail.com,Diacono,TIB Lda,,DIM,1,,,,,,,,,
+181,ESTEVES,BULA,Luanda,914703461,pascoal.felix@hotmail.com,PASTOR,1ª IGREJA BAPTISTA DO ROCHA PINTO,,Presidente da CBA,1,,,,,,,,,
+182,Esteves,Domingos,Luanda,935931222,njovolinice@yahoo.com.br,Diácono,Primeira Igreja Batista do Benfica,,Tesoureiro Nacional da Juventude da CBA,1,,,,,,,,,
+183,Eugênia do Rosária,Handanga,Luanda,954302517,manuelcassule@gimail.com,Diaconosa,Igreja Batista do Bairro 15 de fevereiro,,Professora EBD,1,,,,,,,,,
+184,EUGÉNIO,CHIMECHIME,Luanda,926152250,panguila@yahoo.com.br,SECRETARIO DE MISSOES,IGREJA BAPTISTA DO PRENDA,,Director Nacional da Juventude Baptista,1,,,,,,,,,
+185,Eugénio,Chimechime,Luanda,949420244,eugeniomanuel2001@gmail.comeu,Líder de evangelismo e missões,Batista do Prenda,,Líder ministério com surdos,1,,,,,,,,,
+186,Eunice,Samba,Luanda,923085684,eunicesamba@gmail.com,Professora,Segunda Igreja Baptista do Zango,,Coordenador de Música,1,,,,,,,,,
+187,Eunice,Bila,Luanda,923257022,eunicemarques182@gmail.com,Marketing,3 igreja Baptista de Luanda,,,,,,,,,,,,
+188,Eunice,Samba,Luanda,923085684,eunicesamba19@gmail.com,Professora,Segunda Igreja Baptista do Zango,,,,,,,,,,,,
+189,Eunice,Emidio,Luanda,924454788,njovolinice@yahoo.com.br,Conselheira,Primeira Igreja Batista do Benfica,,,,,,,,,,,,
+190,Eurico,Sauime,Luanda,923618643,euricosauime@gmail.com,Líder de missões,1ª Evangélica Baptista de Luanda,,,,,,,,,,,,
+191,EURICO,MIRANDA,Benguela,924656344,euricomiranda333@gmail.com,Pastor,Primeira Igreja Baptista do Lobito,,,,,,,,,,,,
+192,Eurico Jamba Miranda,Miranda,Benguela,924656344,euricomiranda333@gmail.com,Pastor,Primeira Igreja Baptista do Lobito,,,,,,,,,,,,
+193,Eva,Moisés,Luanda,924985236,vivimorais65@hotmail.com,Vice Directora da UFMBA,3 Igreja Baptista de Luanda,,,,,,,,,,,,
+194,Evalina,Gaspar,Luanda,926418944,evalinagaspar17@gmail.com,Liturgista,2 igreja Batista de,,,,,,,,,,,,
+195,Feliciana,Periquito,Luanda,939156499,pauloantonionzuzi@gmail.com,Tesoureira,Igreja Baptista Ebenézer da Sapú,,,,,,,,,,,,
+196,Félix,Dulo,Uige,946698861,felixdulo0@gmail.com,Secretário da Igreja,Igreja Baptista de Nova Criatura de Henda,,,,,,,,,,,,
+197,Felizandra,Silva,Luanda,937242755,felizandra.silva9@gmail.com,Estudante de economia,Segunda Igreja Baptista de Luanda,,,,,,,,,,,,
+198,Fernanda,Farria,Luanda,948027689,joseeliashossi3@gmail.com,Lider da juventude,Igreja b. Bom Pastor,,,,,,,,,,,,
+199,Fernandes,Daniel,Luanda,943507332,distinto.ma@gmail.com,Membro,2ª IGREJA BAPTISTA DA SAPÚ 1,,,,,,,,,,,,
+200,Fernando,de Carvalho,Luanda,925249460-921380807,fernandocassilaalexandre@gmail.com,Diretor da Juventude,CBA (Ig. Bapt. Camadeira),,,,,,,,,,,,
+201,Fernando,de Carvalho,Luanda,925249460,fernandocassilaalexandre@gmail.com,Líder de Jovens e Promotor da EBD,CBA,,,,,,,,,,,,
+202,Fernando,Leitão,Luanda,927505014,fernandozangui@gmail.com,Diácono,Igreja Baptista Vinda de Cristo,,,,,,,,,,,,
+203,Fernando,Gombe,Luanda,924338383,pauloantonionzuzi@gmail.com,Diácono,Igreja Baptista Ebenézer da Sapú,,,,,,,,,,,,
+204,Fernando José Chiaca,Chiaca,Luanda,934729201,fleojanga@gmail.com,Secretária de Missões Local,Igreja Evangélica Batista Bom Pastor,,,,,,,,,,,,
+205,Ferreira,Kissona,Luanda,923567330,kissonaf@gmail.com,Pastor,Baptista do Ndala Muleba,,,,,,,,,,,,
+206,Filipe,Manjolo,Huambo,923664004,filipepascoalmanjolo@gmail.com,Prof Seminário Baptista do Huambo,Igreja Baptista da Redenção,,,,,,,,,,,,
+207,Fineza,Catangui,Luanda,929331362,muenhoatok@gmail.com,Adjunta da Secretária da sociedade de moças,Memorial da fé,,,,,,,,,,,,
+208,Fineza,Kitunga,Luanda,933141541,Osvaldoalfredopedro@gmail.com,Promotora de missões,Igreja Baptista de Camadeira,,,,,,,,,,,,
+209,Flaviano Baptista,Baptista,Luanda,925532821,kisesadomingossebastiaod@gmail.com,Diácono,Igreja Batista do Bairro 15 de Fevereiro,,,,,,,,,,,,
+210,Flávio,Canimbo,Luanda,939126269,pauloantonionzuzi@gmail.com,Missionário,Igreja Baptista Ebenézer da Sapú,,,,,,,,,,,,
+211,Florindo Bartolomeu,Bartolomeu,Luanda,935940984,florindofortunato@gmail.com,Secretário da igreja,Igreja Baptista do Bairro Novo Km 12A,,,,,,,,,,,,
+212,FORTUNATO,PANZO,Luanda,923367543,pascoal.felix@hotmail.com,PRESIDENTE DIACONAL,1ª IGREJA BAPTISTA DO ROCHA PINTO,,,,,,,,,,,,
+213,Francisca,Guimarães,Luanda,936201994,pauloantonionzuzi@gmail.com,Líder na União Feminina,Igreja Baptista Ebenézer da Sapú,,,,,,,,,,,,
+214,Francisco,Garcia,Luanda,922218560,franciscoluvumbugarcia@gmail.com,Missionário,1• Igreja Evangélica Baptista de Sapú 2,,,,,,,,,,,,
+215,Francisco,Garcia,Luanda,923285977,franciscogarcia2050@gmail.com,Pastor,1ª Evangélica Baptista de Luanda,,,,,,,,,,,,
+216,Francisco,José,Zaire,943049388,francisco@gmail.com,Pastor,Primeira Igreja Baptista do Zaire/Soyo,,,,,,,,,,,,
+217,Francisco,Vasco,Luanda,937743243,franciscojorgevasco2019@gmail.com,Coordenador de Música,Igreja Baptista Boa Esperança,,,,,,,,,,,,
+218,Francisco,Pedro,Luanda,923544838,Agostnhosaunha@gmail.com,Pastor,Igreja Baptista da Estalagem km12A,,,,,,,,,,,,
+219,Francisco,Virgílio,Luanda,925069146,codilson@gmail.com,Pastor,2ª de Viana,,,,,,,,,,,,
+220,Francisco Joaquim,Kamukola,Luanda,923860231,francikamukola@gmail.com,Secretário,Igreja Baptista Boas Novas do Golf,,,,,,,,,,,,
+221,Francisco Nicodemos luzembo,Luzembo,Luanda,940862866,florindofortunato@gmail.com,Diacono,Igreja Baptista do Bairro Novo Km 12A,,,,,,,,,,,,
+222,Frederico,Uasi,Luanda,924926463,nubiofrederico.uasi22@gmail.com,Evangelista,Igreja Baptista Nova Aliança,,,,,,,,,,,,
+223,Garcia,Tomás,Bengo,923737419,gtomas62@yahoo.com,Assistente,CBA-Igreja Baptista do Dundo, Lunda-Norte,,,,,,,,,,,
+224,Gaspar Dala Malungo,Malungo,Luanda,946349091,gasparmalungo@gmail.com,Professor,2 igreja Baptista de luanda,,,,,,,,,,,,
+225,Gaspar Dala Malungo,Malungo,Luanda,946349091,gasparmalungo@gmail.com,Professor da Escola Biblica,2 igreja Baptista de Luanda,,,,,,,,,,,,
+226,Gaspar Dala Malungo,Malungo,Luanda,946349091,gasparmalungo@gmail.com,Professor da escola Biblica,2 igreja Baptista de Luanda,,,,,,,,,,,,
+227,Generoso,Afonso,Luanda,940043646,pauloantonionzuzi@gmail.com,Motorista,Igreja Baptista Ebenézer da Sapú,,,,,,,,,,,,
+228,Genivaldo,Narciso,Luanda,926304271,genivaldonarciso15@gmail.com,Missionário,Baptista Amor de Deus,,,,,,,,,,,,
+229,Gerson,Bento,Luanda,934027951,varilsonfernandes.vf@gmail.com,Presidente do GAM local,Primeira Igreja Evangélica Baptista de Cacuaco,,,,,,,,,,,,
+230,Gil Manuel,Manuel,Luanda,923419547,kificango@gmail.com,Pastor,Primeira Igreja Evangélica Baptista de Sapú II,,,,,,,,,,,,
+231,Gildo Júlio,Júlio,Luanda,938478922,filipejose535@gmail.com,Diretor da Juventude,Canaã,,,,,,,,,,,,
+232,Girão,Henriques,Luanda,937168438,giraoj.henriques@gmail.com,Diretor Evangelismo e Missões,Igreja Baptista Nova Vida,,,,,,,,,,,,
+233,Glória,Gaspar,Luanda,923714448,evalinagaspar17@gmail.com,Não tenho,2 igreja Batista de Luanda,,,,,,,,,,,,
+234,Graça,Eduardo,Luanda,923494202,rosamadinga@gmail.com,Membro,Segunda Igreja Baptista de Luanda,,,,,,,,,,,,
+235,Graça,Eduardo,Luanda,923494202,rosamadinga@gmail.com,Membro,Segunda ig,,,,,,,,,,,,
+236,Graciete,Mateus,Luanda,921059146,danielandjeck@gmail.com,Professora,Segunda igreja Baptista de Luanda,,,,,,,,,,,,
+237,Guilherme,Antonio,Luanda,927451765,fernandozangui@gmail.com,Secretário,Igreja Baptista Vinda de Cristo,,,,,,,,,,,,
+238,Guilherme,Vicente,Luanda,930744198,guilhermefranc1993@gmail.com,Missionário,Segunda igreja Batista do Morro Bento,,,,,,,,,,,,
+239,Guilhermina,Domingos,Luanda,927075416,manuelcanguanda5@gmail.com,Diaconisa e vice moderadora da igreja,Igreja Evangélica Baptista Luz Divina,,,,,,,,,,,,
+240,Guilhermina,Domingos,Luanda,927075416,manuelcanguanda5@gmail.com,Diaconisa,Igreja Evangélica Baptista Luz Divina,,,,,,,,,,,,
+241,Hamilton,Moniz,Luanda,937259040,hamiltonmoniz26@gmail.com,secretario de missões,Igreja Baptista Boas Novas Do Golf,,,,,,,,,,,,
+242,Hélder,José,Luanda,924686955,vhelder976@gmail.com,Membro,Igreja Baptista Ebenézer da Sapú,,,,,,,,,,,,
+243,Helena,Antunes,Uige,923814011,helenaantunes439@gmail.com,Tesoureira,Terceira igreja do Negage,,,,,,,,,,,,
+244,Helena Lourenço Panzo,Panzo,Luanda,939988364,pedropanzo31@gmail.com,Missionário,Igreja Evangelica Baptista de Belém,,,,,,,,,,,,
+245,Helma Domingos Sanuca,Sanuca,Luanda,934734503,helmasanuca240@gmail.com,Secretaria da EBD,Igreja Batista Vinda de Cristo,,,,,,,,,,,,
+246,Henriques,Fernando,Luanda,935380735,savissenga1@gmail.com,Professor,IEIA Km 12,,,,,,,,,,,,
+247,Hermanegildo Abel,Abel,Uige,921860100,hermenegildoabel35@gmail.com,Missionário e Diácono,Igreja Baptista do Centro da Cidade do Uige,,,,,,,,,,,,
+248,Hermenegildo Girão Abel,Abel,Uige,921860100,hermenegildoabel35@gmail.com,Missionário, Diácono e Director do Ministério de oração da igreja.,Igreja Baptista do Centro da Cidade do Uige,,,,,,,,,,,
+249,Hermínia,Manuel,Luanda,926201350,ibes@gmail.com,Assistente,Igreja Baptista Ebenézer da Sapú,,,,,,,,,,,,
+250,Ilda dos,Santos,Luanda,922763554,cardosohumbajeronimo972@gmail.com,Líder das Moças,Igreja Baptista Paixão de Cristo,,,,,,,,,,,,
+251,ILDA FERNANDO,FERNANDO,Luanda,926296540,mendesbernardo582@gmail.com,CORISTA,Igreja Baptista Paixão Cristo,,,,,,,,,,,,
+252,Inácia,Pinto,Luanda,927916729,inapinto31@gmail.com,Vice-Directora da Sociedade de Moças da SIBZ,Segunda Igreja Baptista do Zango- SIBZ,,,,,,,,,,,,
+253,Isabel,Abílio,Luanda,922763554,cardosohumbajeronimo972@gmail.com,Membro,Igreja Baptista Paixão de Cristo,,,,,,,,,,,,
+254,Isabel,Mateus,Uige,924534572,isaantunes1603@gmail.com,Pr. Dos diáconos,Segunda igreja baptista de Luanda,,,,,,,,,,,,
+255,Isabel,Ngombo,Luanda,923468973,isagutma@yahoo.com.br,Ministra do Ensino,Igreja Baptista Ebenezer Sapú,,,,,,,,,,,,
+256,Isabel,Benza,Luanda,923829938,isabelafybenza@gmail.com,Secretária,Igreja Baptista Ebenézer da Sapu,,,,,,,,,,,,
+257,Isabel,Antunes,Luanda,924534572,rosamadinga@gmail.com,Dioconisa,Segunda igreja Baptista de Luanda,,,,,,,,,,,,
+258,Isabel,Gomes,Luanda,941807402,isabelgomes200027@gmail.com,Estudante,Segunda Igreja Evangélica Baptista de Luanda,,,,,,,,,,,,
+259,Isaías,Domingos,Luanda,924216684,muenhoatok@gmail.com,Líder de missões,Memorial da fé,,,,,,,,,,,,
+260,Isaías,Mussende,Luanda,927132104,isaiasmussende1983@gmail.com,Líder da juventude e professor da EBD,Igreja Batista da glória,,,,,,,,,,,,
+261,ISAURA,ALMEIDA,Luanda,924765669,pascoal.felix@hotmail.com,VICE PRESIDENTE DIACONAL,1ª IGREJA BAPTISTA DO ROCHA PINTO,,,,,,,,,,,,
+262,Ismael,Gonga,Luanda,936176109,pintojosebalantaiiny@gmail.com,Líder de Missões,Igreja Baptista Fonte de Água Viva,,,,,,,,,,,,
+263,Ismael,Gonga,Luanda,936176109,pintojosebalantaiiny@gmail.com,Líder da EBD,Igreja Baptista Fonte de Água Viva,,,,,,,,,,,,
+264,iutiut,uyttut,Bengo,9797987,ggg@hh.bo,tuytut,uiiuiuti,,,,,,,,,,,,
+265,Ivete,Machado,Luanda,922694470,ivetemachado646@gmail.com,Membro,Segunda Igreja Baptista do Zango,,,,,,,,,,,,
+266,Ivo,Ginga,Uige,923744848,ivo.ginga@gmail.com,Pastor,Igreja Batista do Cumbissa Alto Caule/Cangola,,,,,,,,,,,,
+267,Jacinta,Caiadi,Luanda,939737162,jacintacaiadi@gmail.com,Corista,Baptista,,,,,,,,,,,,
+268,Jacinto,Muenga,Luanda,935936764,alehandradosmoranyd@gmail.com,Pastor,Quinta igreja Batista de Cacuaco,,,,,,,,,,,,
+269,Jacinto,Francisco,Luanda,925936298,jacyfranciscofrancis2020@gmail.com,Missionário,Igreja Baptista Graça a Deus,,,,,,,,,,,,
+270,Jaime,Sangueve,Luanda,923633735,jaimesangueve151@gmail.com,Director do Departamento da Acção Social,Primeira Baptista do Rocha Pinto,,,,,,,,,,,,
+271,Jaime,Sangueve,Luanda,923633735/915874485,jaimesangueve151@gmail.com,Director do Departamento da Acção Social,Primeira Baptista do Rocha Pinto,,,,,,,,,,,,
+272,Jaime Alberto Malungo,Malungo,Luanda,941377988,filipejose535@gmail.com,Vice- diretor de missões,Canaã,,,,,,,,,,,,
+273,Janeth,Manuel,Luanda,922763554,cardosohumbajeronimo972@gmail.com,Membro,Igreja Baptista Paixão de Cristo,,,,,,,,,,,,
+274,JEDIDIA MANUEL,SAMO DE DEUS,Bengo,938702581,samoempreendimentos@gmail.com,LIDER DO GAM,Igreja Baptista Ebenézer da sapú,,,,,,,,,,,,
+275,Jeremias,Adão,Luanda,944591822,jeremiasadaomendes1998@gmail.com,Lider do ministério com crianças,Igreja Baptista de Canaã (estalagem ),,,,,,,,,,,,
+276,Jeremias,Adão,Luanda,944591822,josemacanda22@gmail.com,Marketing e imagem,Igreja Baptista de Canaã,,,,,,,,,,,,
+277,Jeremias Rodrigues,Sembe,Luanda,948144329/952670793,Jeremiassembe1992@gmail.com,Moderador de missões local,Igreja Baptista Sal da Terra,,,,,,,,,,,,
+278,Jesus,Pedro,Luanda,930717344,joseaneteresajoy@gmail.com,Diácono,Igreja Baptista Nova Vida,,,,,,,,,,,,
+279,Jesus,Pedro,Luanda,930717344,giraoj.henriques@gmail.com,Diácono,Igreja Baptista Nova Vida,,,,,,,,,,,,
+280,Jesus,Tchavango,Luanda,930448232,jktchavango@gmail.com,Professor,Segunda Igreja Batista do Zango,,,,,,,,,,,,
+281,Joana,Dos Santos,Huambo,2,4492700000000000,desantosalome@gmail.com,Missionária Educadora,Igreja Baptista do Macolocolo,,,,,,,,,,,
+282,Joana,Bernardo,Luanda,942665910,rosamadinga@gmail.com,Dioconisa,Segunda Igreja Baptista de Luanda,,,,,,,,,,,,
+283,Joana Cunha,Cunha,Luanda,933547453,gasparmalungo@gmail.com,Professora do ministério com crianças,2 igreja Baptista de Luanda,,,,,,,,,,,,
+284,Joana Eduardo,João,Luanda,945231593,alcinoramoscamuege@gmail.com,Professora de E.B.D.,Iª Igreja Evangélica Baptista de Sapú II,,,,,,,,,,,,
+285,Joanidia,Mialda,Luanda,923632447,joanidiamialda@gmail.com,Corista,2 Igreja Baptista de Luanda,,,,,,,,,,,,
+286,Joanidia,Mialda,Luanda,923632447,joanidiamialda@gmail.com,Corista,2 Igreja Baptista de Luanda,,,,,,,,,,,,
+287,João,Lohoca,Luanda,923507346,joaolohoca58@gmail.com,Pastor,Igreja Baptista da Samba,,,,,,,,,,,,
+288,João,Filipe,Luanda,940209619,josemacanda22@gmail.com,Diretor de missões local,Igreja Baptcista de Canaã,,,,,,,,,,,,
+289,João,César,Luanda,926347287,Pr.joaocesar@gmail.com,Presidente da CBA,Primeira Igreja Baptista de Luanda,,,,,,,,,,,,
+290,Joao Martins Nboco,Nboco,Luanda,932242247,pedropanzo31@gmail.com,Missionário,Igreja Evangelica Baptista de Belém,,,,,,,,,,,,
+291,João Raimundo António Campos Cangombe,Cangombe,Cuanza Sul,927288493,joaocangombe30@gmail.com,Diacono e Moderador da Igreja,1° Igreja Baptista do Sumbe,,,,,,,,,,,,
+292,Joaquim,Teca,Luanda,949221092,justinoteca11@gmail.com,Líder de missões / Congregação Evangélica Baptista do Bela vista do monte,3 Igreja Baptista de Luanda,,,,,,,,,,,,
+293,Joaquim,Fino,Luanda,925314488,josemacanda22@gmail.com,Marketing e imagem,Igreja Baptista de Canaã,,,,,,,,,,,,
+294,Joaquina,Macoxi,Luanda,946235607,joaquinamacoxi1@gmail.com,Membro,Igreja Baptista Ebenezer da Sapú,,,,,,,,,,,,
+295,Jonas,Kissocolo,Luanda,929323417,jonaskissocolo@gmail.com,Director de Missões,Igreja Baptista do Simione,,,,,,,,,,,,
+296,Jonas,Kissocolo,Luanda,923607733,sebastiaosoki2011@gmail.com,Líder de Missões,Igreja Batista do Simione,,,,,,,,,,,,
+297,Jorge,Santos,Luanda,938277864,jorgedossantos169@gmail.com,Membro,SIBZ ( Segunda Igreja Batista do Zango ),,,,,,,,,,,,
+298,Jorge,Manuel,Luanda,940500499,jmendesclemente@gmail.com,Missionário,Segunda Igreja Baptista do Zango,,,,,,,,,,,,
+299,Jose,Marcolino,Luanda,926141483,mariribeirinha@gmail.com,Professor de EBD,Igreja Baptista da Paz,,,,,,,,,,,,
+300,JOSÉ,PAULO,Bengo,921547488,pascoal.felix@hotmail.com,MISSIONARIO,1ª IGREJA BAPTISTA DO ROCHA PINTO (Missão CAPARI),,,,,,,,,,,,
+301,José,Catangui,Luanda,938675328,muenhoatok@gmail.com,2° líder de missões,Memorial da fé,,,,,,,,,,,,
+302,José,Hossi,Luanda,929233447,joseeliashossi3@gmail.com,Missonario,Igreja b.boavista,,,,,,,,,,,,
+303,José,Dinis,Luanda,924405627,josecasacaladinisjosedinis@gmail.com,Professor da E.B.D,Igreja Evangélica Baptista de Canaã -Estalagem,,,,,,,,,,,,
+304,José,Macanda,Luanda,948881458,josemacanda22@gmail.com,Missionário,Igreja Baptista de Canaã,,,,,,,,,,,,
+305,José,Jorge,Luanda,926280489,codilson@gmail.com,Líder de Missões (Congregação),2ª de Viana,,,,,,,,,,,,
+306,José,Salomão,Luanda,923538922,josepedrosalomao26@gmail.com,Motorista do DEM,Igreja Baptista Graças a Deus,,,,,,,,,,,,
+307,José da Costa,Guilherme,Luanda,926181010,josdacostaguilherme@gmail.com,Missionário,Igreja Baptista Nova Vida,,,,,,,,,,,,
+308,José João,Manuel,Luanda,958041842,pastorkito6@gmail.com,Pastor,Igreja evangélica Baptista Dadiva de Deus- Dangereux,,,,,,,,,,,,
+309,Josina,Chaves,Luanda,926503020,jkassoma@gmail.com,Membro,TIB Lda,,,,,,,,,,,,
+310,Júlia,Malanga,Luanda,930898636,pauloantonionzuzi@gmail.com,Ministra de Louvor,Igreja Baptista Ebenézer da Sapú,,,,,,,,,,,,
+311,Juliana Amaro,Nelembe,Luanda,926625050,juliananelembe@gmail.com,Estudante,Segunda igreja batispta de Luanda,,,,,,,,,,,,
+312,Julieta,Antônio,Luanda,952709793,muenhoatok@gmail.com,Líder dos adolescentes,Memorial da fé,,,,,,,,,,,,
+313,Julio,Catota,Luanda,923618307,njovolinice@yahoo.com.br,Diácono,Primeira Igreja Batista do Benfica,,,,,,,,,,,,
+314,Jurema,Lopes,Luanda,935538409,lopesjurema846@gmail.com,professora,Igreja Baptista Nova Vida,,,,,,,,,,,,
+315,Justino,Chipilica,Bie,922088895,justinochipilica@gmail.com,Pastor,Segunda igreja Baptista do Cuito Bié,,,,,,,,,,,,
+316,Justino,Chipilica,Bie,922088895,justinochipilica@gmail.com,Pastor,Segunda igreja Baptista do Cuito,,,,,,,,,,,,
+317,Justino,Chipilica,Bie,922088895,justinochipilica@gmail.com,Pastor,Segunda igreja Baptista do Cuito,,,,,,,,,,,,
+318,kadeu,Sandele,Bengo,941902031,jose.sandele@gmail.com,Kapa,Trilha,,,,,,,,,,,,
+319,kadeu,uyuyuy,Bengo,941902031,jose.sandele@gmail.com,Tester,yoooo,,,,,,,,,,,,
+320,Kiala,Mbala,Luanda,940353919,kialajuliombala93@gmail.com,Missionário,Batista da Boavista,,,,,,,,,,,,
+321,Kissesa Domingos,Sebastião,Luanda,923554061,manuelcassule@gimail.com,Diácono,Igreja Batista do Bairro 15 de fevereiro,,,,,,,,,,,,
+322,LAURINDA,ADRIANO,Luanda,926152250,panguila@yahoo.com.br,SECRETARIA DA JUVENTUDE,IGREJA BAPTISTA DO PRENDA,,,,,,,,,,,,
+323,Laurinda,Cazanga,Luanda,937728228,pauloantonionzuzi@gmail.com,Diaconisa,Igreja Baptista Ebenézer da Sapú,,,,,,,,,,,,
+324,Leitão,Dinis,Luanda,924248323,leitaodinis1967@gmail.com,Missionário missão Batista zango3,Sambizanga,,,,,,,,,,,,
+325,LEMBA,ALBERTO,Luanda,923383453,pascoal.felix@hotmail.com,DIRETORA UFM,1ª IGREJA BAPTISTA DO ROCHA PINTO,,,,,,,,,,,,
+326,Lemos,Pinto,Luanda,923533752,pintoy125@gmail.com,Diácono/ Professor de EBD,Segunda Igreja Baptista de Luanda,,,,,,,,,,,,
+327,Leonor,Sanguenda,Luanda,934027951,varilsonfernandes.vf@gmail.com,Directora do Departamento de Evangelismo e Missões local,Primeira Igreja Evangélica Baptista de Cacuaco,,,,,,,,,,,,
+328,Leonora,José,Luanda,933175450,nubiofrederico.uasi22@gmail.com,Evangelista,Igreja Baptista Nova Aliança,,,,,,,,,,,,
+329,Lidio,Kissanga,Luanda,943888389,Ricardodasilvanoe5@gmail.com,Membro,Terceira igreja Baptista de Luanda,,,,,,,,,,,,
+330,Lila,Da Silva,Cuanza Norte,923531937,Lcdsilva164@mail.com,Zeladora,2 igreja de Luanda, missão de Ndalatando,,,,,,,,,,,
+331,LOURENA,BULA,Luanda,923541457,pascoal.felix@hotmail.com,DIRETORA PROVINCIAL DA UFMB,1ª IGREJA BAPTISTA DO ROCHA PINTO,,,,,,,,,,,,
+332,Lourença,Santos,Luanda,948492694,lourencadaconceicao17@gmail.com,Professora,IGreja Ebenezer da Sapu,,,,,,,,,,,,
+333,Lourenço,Zeferino,Luanda,923280393,luras81@hotmail.com,Director da união masculina,2 Igreja Baptista de Luanda,,,,,,,,,,,,
+334,Lourenço,da Silva,Bengo,929809051,macacxi.firmino@gmail.com,Secretário de Património e Construção da igreja local,Igreja Baptista Nova Vida,,,,,,,,,,,,
+335,Lourenço,da Silva,Luanda,929809051,macacxi.firmino77@gmail.com,Secretário de Património e Construção da igreja local,Igreja Baptista Nova Vida,,,,,,,,,,,,
+336,Lucas Pascual Gonga,Gonga,Luanda,925532821,kisesadomingossebastiaod@gmail.com,Diácono,Igreja Batista do Bairro 15 de Fevereiro,,,,,,,,,,,,
+337,Lúcia,Silva,Luanda,923391176,luciaclaudina2@gmail.com,Professora,Segunda Igreja Baptista de Luanda,,,,,,,,,,,,
+338,Luciano,Paulo,Luanda,932332186,codilson@gmail.com,Membro do departamento,2ª de Viana,,,,,,,,,,,,
+339,Ludmila,Mussofi,Luanda,943240179,mussotiludmila@gmail.com,Direitora das moças,Igreja Batista de canaã,,,,,,,,,,,,
+340,LUDMILA,SANTIAGO,Luanda,926152250,panguila@yahoo.com.br,PROFESSORA DE CRIANÇAS,IGREJA BAPTISTA DO PRENDA,,,,,,,,,,,,
+341,Luis,Panzo,Luanda,927967121,igrejabaptistaboavista@hotmail.com,Diacono,igreja Baptista de Boavista,,,,,,,,,,,,
+342,Luis,Alberto,Luanda,923738150,lambaalberto763@gmail.com,Líder de Missões,Boas Novas do Golf,,,,,,,,,,,,
+343,Luís,Vicente,Luanda,923922321,luysvicente@gmail.com,Membro,Igreja Batista Nova aliança,,,,,,,,,,,,
+344,Luisa,Nvika,Cuanza Sul,923617325,nvikaluisa@gmail.com,Dra. UFMB e Prof EBD,Igreja Batista da Londa-2 Sumbe,,,,,,,,,,,,
+345,Madalena,Adelino,Luanda,929080797,madalenavunge@gmail.com,Líder da sociedade de senhoras local,Primeiro igreja do Talatona,,,,,,,,,,,,
+346,Malaquias,Molo,Luanda,924309949,malaquiasmolo1984@gmail.com,Secretário de Missões,Boa Esperança,,,,,,,,,,,,
+347,Mampaxi Helena,Van-Dúnem,Luanda,934027951,varilsonfernandes.vf@gmail.com,Directora da união feminina local,Primeira Igreja Evangélica Baptista de Cacuaco,,,,,,,,,,,,
+348,Manuel,João,Luanda,925262406,manuelagostinhobaptistajoao94@gmail.com,Lider de missões,Segunda igreja Baptista do rocha Pinto,,,,,,,,,,,,
+349,Manuel,Costa,Luanda,923968898,manuelsivacole@gmail.com,Pastor,Igreja Baptista de Belém,,,,,,,,,,,,
+350,Manuel,Zagi,Luanda,924510096,fernandozangui@gmail.com,Missionário,Igreja Baptista Vinda de Cristo,,,,,,,,,,,,
+351,Manuel,Clemente,Malanje,925096828,pastormanuelclemente1975@gmail.com,Pastor,Segunda Igreja Baptista de Malanje,,,,,,,,,,,,
+352,Manuel,Cardoso dos santos,Luanda,929370020,manuelcardoso2205@gmail.com,Missionário,3ª igreja Baptista de viana,,,,,,,,,,,,
+353,Manuel Cassule,Miguel,Luanda,923554061,manuelcassule@gimail.com,Pastor,Igreja Batista do Bairro 15 de fevereiro,,,,,,,,,,,,
+354,Manuel Silva Gomes da Costa,Costa,Luanda,923968898,pedropanzo31@gmail.com,Pastor,Igreja Evangelica Baptista de Belém,,,,,,,,,,,,
+355,Manuela,Malanga,Luanda,926719971,pauloantonionzuzi@gmail.com,Professora da EBD,Igreja Baptista Ebenézer da Sapú,,,,,,,,,,,,
+356,Marcelina,António,Luanda,923515032,fmarcelinafernandes@yahoo.com,Diaconisa -Missionária,Segunda do morro bento,,,,,,,,,,,,
+357,Marcelina,Antnio,Luanda,923515032,fmarcelinafernandes@yahoo.com,Diaconisa,2•.°,,,,,,,,,,,,
+358,Maria,Neto,Bengo,939309677,mariagostinho.neto95@gmail.com,Técnica de enfermagem,Segunda igreja Baptista do Zango,,,,,,,,,,,,
+359,MARIA,QUIBELO,Luanda,941574710,pascoal.felix@hotmail.com,SECRETARIA DA IGREJA,1ª IGREJA BAPTISTA DO ROCHA PINTO,,,,,,,,,,,,
+360,Maria,Chilumbo,Cuanza Sul,934645782,mariachilumbo75@gmail.com,Missionária,Baptista da Londa2,,,,,,,,,,,,
+361,Maria,Marcolino,Luanda,927038642,mariribeirinha@gmail.com,Directora DEC,Igreja Baptista da Paz,,,,,,,,,,,,
+362,Maria,Savissenga,Luanda,929869984,apoloniafernando1995@gmail.com,Secretária da Igreja,Primeira Igreja Baptista do Zango,,,,,,,,,,,,
+363,Maria,Da Cruz,Luanda,923423022,marinasiladacruz@gmail.com,Secretaria do DEM,Boa Esperança,,,,,,,,,,,,
+364,Maria,Dos Santos,Luanda,928597125,apolinariotuca@hotmail.com,Membro Departamento de Missões,Igreja Baptista Boas Novas,,,,,,,,,,,,
+365,Maria,Natividade,Luanda,924255758,njovolinice@yahoo.com.br,Vice Presidente da Igreja/Diaconisia,Primeira Igreja Batista do Benfica,,,,,,,,,,,,
+366,Maria,Daniel,Luanda,937903045,manuelcanguanda5@gmail.com,Membro do departamento de missões,Igreja Evangélica Baptista Luz Divina,,,,,,,,,,,,
+367,Maria,Panzo,Luanda,931685076,pauloantonionzuzi@gmail.com,Ministra de Louvor,Igreja Baptista Ebenézer da Sapú,,,,,,,,,,,,
+368,Maria,Reis,Luanda,2,449400000000000,maritondinha@icloud.com,Funcionária Publica,Igreja Baptista Ebenezer da Sapu,,,,,,,,,,,
+369,Maria,Benedito,Luanda,922241820,marhell.malandila2008@gmail.com,Diaconisa,Igreja dos irmãos,,,,,,,,,,,,
+370,Maria,Gaspar,Luanda,923434967,rosamadinga@gmail.com,Membro,Segunda Igreja Baptista de Luanda,,,,,,,,,,,,
+371,Mariana,Solia,Luanda,937539360,marsolcool97@gmail.com,Secretária da Igreja,Igreja Baptista Nova Vida,,,,,,,,,,,,
+372,Mariana,Solia,Luanda,937539360,marsolcool97@gmail.com,Secretária da Igreja,Igreja Baptista Nova Vida,,,,,,,,,,,,
+373,Mariano,Mulenza,Luanda,921321814,marianomulenza91@gmail.com,Líder do DEM local,Igreja Baptista da Trindade,,,,,,,,,,,,
+374,Marieth,Bila,Luanda,948048573,mariethbila@gmail.com,Missionária,Protestante,,,,,,,,,,,,
+375,Marinesa,Cavila,Luanda,929809051,macacxi.firmino@gmail.com,secretaria de evangelismo e missões locais,Igreja Baptista Nova Vida,,,,,,,,,,,,
+376,MÁRIO,JEREMIAS,Luanda,927773503,mariojeremiasmbaialambimba43@gmail.com,Diácono,Segunda Igreja Baptista do Zango,,,,,,,,,,,,
+377,Mário,Henriques,Luanda,924322759,mario.liana7@gmail.com,Professor de Escola Dominical,Ebrnezer da Sapú,,,,,,,,,,,,
+378,Mariquinha,João,Luanda,926725952,muenhoatok@gmail.com,Adjuntora do coral,Memorial da fé,,,,,,,,,,,,
+379,Mariquinha,Lopes,Luanda,934027951,varilsonfernandes.vf@gmail.com,Presidente das moças,Primeira Igreja Evangélica Baptista de Cacuaco,,,,,,,,,,,,
+380,Marlene,Camuege,Luanda,945838573,alcinoramoscamuege@gmail.com,Missionária,Iª Igreja Evangélica Baptista de Sapú II,,,,,,,,,,,,
+381,Marta,João,Luanda,948511679,pauloantonionzuzi@gmail.com,Corista,Igreja Baptista Ebenézer da Sapú,,,,,,,,,,,,
+382,Martins João Gonçalves,Goncalves,Luanda,923898722,Martinsgoncalves@35gmail.com,Missionario,Boas Novas do Golf.,,,,,,,,,,,,
+383,Mateus,Gaspar,Cuanza Sul,946016503,mateuspaulogaspar@gmail.com,Pastor,Igreja Baptista de Cabezo - Quibala,,,,,,,,,,,,
+384,Mavambu,Kia,Luanda,922022716,augustomavambukia@gmail.co,Director de Missões,3ª igreja Baptista de viana,,,,,,,,,,,,
+385,Mavanguidi,Afonso,Luanda,938748429,mavatuela@gmail.com,LIDER DA JUVENTUDE,SIBZ,,,,,,,,,,,,
+386,Mbuku,Ditutala,Luanda,935162638,ditutala@hotmail.com,Membro,Terceira Igreja Baptista de Luanda,,,,,,,,,,,,
+387,Mendes,Bernardo,Luanda,922763554,cardosohumbajeronimo972@gmail.com,Director de Diáconos,Igreja Baptista Paixão de Cristo,,,,,,,,,,,,
+388,Mendes,Caiadi,Luanda,926277947,mendescaiadi@gmail.com,Tesoreiro,Segunda Igreja Baptista de Luanda,,,,,,,,,,,,
+389,Mendes Raul Bernardo,Bernardo,Luanda,926296540,mendesbernardo582@gmail.com,Diácono,Igreja Baptista Paixão Cristo,,,,,,,,,,,,
+390,Micaela,Miguel,Luanda,921668506,micaelamiguel095@gmail.com,Intercessora,Segunda Igreja Baptista do Zango,,,,,,,,,,,,
+391,Miguel,Quizambi,Luanda,943888805,miguelquizambi@gmail.com,Membro,Igreja Baptista da Trindade,,,,,,,,,,,,
+392,Miguel,Cazacala,Luanda,923470206,Josealfredopedro851@gmail.com,Tesoureiro,Igreja Baptista de Camadeira,,,,,,,,,,,,
+393,Miguel Capitão,Almeida,Luanda,923746474,miguelcapitaoalmeidacapitao@gmail.com,Moderador de Missões( Missionário),Igreja Baptista de Redenção,,,,,,,,,,,,
+394,Mimosa Joaquim,Joaquim,Luanda,923676080,mimosajiaquimk@gmail.com,Nenhuma,Segunda igreja Baptista de Luanda,,,,,,,,,,,,
+395,Moisés Domingos,Hucui,Bie,921569909,moisesprofeta2019@gmail.com,Evangelista,1ª Igreja Baptista do Cuito,,,,,,,,,,,,
+396,Mulaza Neto Jaime,Jaime,Luanda,2,4495200000000000,pedropanzo31@gmail.com,Missionário,Igreja Evangelica Baptista de Belém,,,,,,,,,,,
+397,Muyuca,Victor,Moxico,925928604,elsarubenruben@gmail.com,Diácono, Missionário e Director Provincial da União Masculina Missionária Baptista do Moxico,Primeira Igreja Evangélica Baptista do Luena,,,,,,,,,,,
+398,Narciso,Macaxi,Luanda,924509404,narcisomaccaxi@gmail.com,Missionário,Igreja Batista Camadeira,,,,,,,,,,,,
+399,Narciso,Macaxi,Luanda,924509404,narcisomaccaxi@gmail.com,Missionário,Igreja Batista de Camadeira,,,,,,,,,,,,
+400,Nelson,João,Luanda,924229695,grupo.domingosalberto2017@gamil.con,Diacono,Igreja Baptista Vinda de Cristo.,,,,,,,,,,,,
+401,NELSON,GOMES,Luanda,926152250,panguila@yahoo.com.br,PRESIDENTE DOS DIÁCONOS,IGREJA BAPTISTA DO PRENDA,,,,,,,,,,,,
+402,Nelson,Pedro,Luanda,933072149,gelsonmendes19@gmail.com,Tesoureiro da Juventude,Segunda igreja Baptista de Luanda,,,,,,,,,,,,
+403,Nelson,Gombo,Luanda,938460064,manuelcanguanda5@gmail.com,Líder dos homens,Igreja Evangélica Baptista Luz Divina,,,,,,,,,,,,
+404,Nelson,Diogo,Luanda,923302433,elpereirao010@gmail.com,Diacono,Igreja Batista Da Samba,,,,,,,,,,,,
+405,Neulma,Simão,Luanda,945192901,neulmasimao123@gmail.com,Lider da Juventude,Igreja Baptista Nova Jerusalém,,,,,,,,,,,,
+406,Nsimba,Daniel,Luanda,932342054,nsimbadnl@gmail.com,Diretor da Juventude,Missão evangélica Baptista Caminho da vida (Igreja Baptista de Canaã),,,,,,,,,,,,
+407,NSOQUI,QUIBELO,Luanda,952914128,pascoal.felix@hotmail.com,DIRETOR PATRIMONIO E FINANÇAS,1ª IGREJA BAPTISTA DO ROCHA PINTO,,,,,,,,,,,,
+408,Nuno Vicente,Paulino,Luanda,943929901,sobapaulino33@gmail.com,Pastor,Primeira Igreja Baptista do Belo Horizonte,,,,,,,,,,,,
+409,Núria,Miguel,Luanda,936695743,miguelnuria6@gmail.com,Missionária,Segunda Igreja Baptista do Zango,,,,,,,,,,,,
+410,Núria,Miguel,Luanda,936695743,miguelnuria6@gmail.com,Missionária,Segunda Igreja Baptista do Zango,,,,,,,,,,,,
+411,Odete,Chissingui,Luanda,944421328,primeiraigrejabaptistadozango1@gmail.com,Tesoureira da Juventude Provincial,1ª Igreja Baptista do Zango,,,,,,,,,,,,
+412,Oliveira,Balo,Luanda,925597936,Oliveira.carga24@gmail.com,Professor,1ª Evangélica Baptista de Luanda,,,,,,,,,,,,
+413,Oliveira,Catangui,Luanda,923258668,muenhoatok@gmail.com,Pastor titular,Memorial da fé,,,,,,,,,,,,
+414,Oliveira,Gonga,Luanda,923523739,oliveirapascoalgonga9@gmail.com,Pastor,Primeira Igreja Batista do Cassequel,,,,,,,,,,,,
+415,Oliveira,Catangui,Luanda,923258668,oliveirapanzo@yahoo.combr,Past3,Igreja Baptista Memorial da Fé,,,,,,,,,,,,
+416,Oliveira,Francisco,Luanda,922132675,oliverfranciscpaulo@gmail.com,Director da juventude,Igreja Baptista do Simione,,,,,,,,,,,,
+417,OLÍVIA,GONÇALVES,Luanda,993134703,pascoal.felix@hotmail.com,MEMBRO,1ª IGREJA BAPTISTA DO ROCHA PINTO,,,,,,,,,,,,
+418,Oliviano,Dionísio,Lunda Sul,929769346,olivianodionisiodionildo@gmail.com,Director do Departamento de Missões Locais,Segunda Igreja Baptista de Saurimo,,,,,,,,,,,,
+419,Olívio Alberto,Gombo,Luanda,939347535,Jeremiassembe1992@gmail.com,Membro,Igreja Baptista Sal da Terra,,,,,,,,,,,,
+420,Orivaldo,Cassucussuco,Benguela,933808237,piblobito@gmail.com,Dirigente de louvor,Primeira Igreja Baptista do Lobito,,,,,,,,,,,,
+421,Orlando,Mateus,Luanda,923273024,mariojeremiasmbaialambimba43@gmail.com,Diácono,Segunda Igreja Baptista do Zango,,,,,,,,,,,,
+422,Osvaldo,Bumba,Luanda,939563273,bumbaosvaldo@gmail.com,Líder do departamento de missões e evangelismo,I.B do Bairro 15 de Fevereiro,,,,,,,,,,,,
+423,Osvaldo,Pedro,Luanda,936401264,osvaldoalfredopedro@gmail.com,Secretário,Baptista,,,,,,,,,,,,
+424,Osvaldo,Bumba,Luanda,923554061,manuelcassule@gimail.com,Diretor de missões local,Igreja Batista do Bairro 15 de fevereiro,,,,,,,,,,,,
+425,Osvaldo,Pedro,Luanda,936401264,Osvaldoalfredopedro@gmail.com,Secretário,Igreja Baptista,,,,,,,,,,,,
+426,Paiva,Narciso,Luanda,923576054,tiagomacaba13@gmail.com,Pastor,Primeira igreja evangelica Baptista de Viana,,,,,,,,,,,,
+427,Pascoal,Kimbalambi,Luanda,925069146,codilson@gmail.com,Missionário,2ª de Viana,,,,,,,,,,,,
+428,Pascoal,Dinis,Luanda,2,4492600000000000,pascoalfelixdinis@gmail.com,Diretor de Missões,Primeira Igreja Baptista do Rocha Pinto,,,,,,,,,,,
+429,Paulo,Nvika,Cuanza Sul,924865815,paulosergiovieiranvika@gmail.com,Pastor e membro do depart missões CBA,Igreja Batista da londa 2 - Sumbe,,,,,,,,,,,,
+430,Paulo,Salomão,Luanda,931662063,mcsacatengo@gmail.com,Comunicação e imagem coordenador,segunda igreja Baptista do zango,,,,,,,,,,,,
+431,Paulo,Chilingutila,Luanda,934362008,paulochilingutila9@gmail.com,Vice-diretor do departamento da juventude,1°Igreja Baptista do Zango,,,,,,,,,,,,
+432,Paulo,Manuel,Cabinda,927340474,manuelpaulo916@gmail.com,Pastor,Primeira Igreja Baptista de Cabinda,,,,,,,,,,,,
+433,Paulo,Nzuzi,Luanda,931093402,pauloantonionzuzi@gmail.com,Ministro de Louvor,Igreja Baptista Ebenézer da Sapú,,,,,,,,,,,,
+434,Pedro,André,Luanda,938136323,pedrokiriauandre@gmail.com,Vice-diretor de missões,Segunda Igreja Baptista De Luanda,,,,,,,,,,,,
+435,Pedro,André,Luanda,930975325,tchiteculo@gmail.com,MODERADOR DE MISSÕES,1ª IGREJA BAPTISTA DO ROCHA PINTO (Missão Misericórdia de Deus),,,,,,,,,,,,
+436,Pedro,Calombe,Luanda,948575796,pedroantoniocalombe09@gmail.com,Membro,Primeira igreja Baptista do Rocha Pinto,,,,,,,,,,,,
+437,Pedro,Zua,Luanda,928907331,guricogizua90@gmail.com,Membro,Igreja Baptista Boa Esperança,,,,,,,,,,,,
+438,Pedro,Samando,Luanda,925652288,psamandocefa@gmail.com,Missionário,Igreja Batista de Boa Vista,,,,,,,,,,,,
+439,Pedro,Simões,Luanda,923459745,pedro.dilangue06@gmail.com,Membro,Primeira Igreja Baptista de Cacuaco,,,,,,,,,,,,
+440,Pedro,Quimuengue,Luanda,927686851,distinto.ma@gmail.com,Líder de acção Social,2ª IGREJA BAPTISTA DA SAPÚ 1,,,,,,,,,,,,
+441,Pedro,Caiadi,Luanda,941231493,pedrocaiadi@hotmail.com,Responsavel Ministério com Familia,2 Igreja Baptista de Luanda,,,,,,,,,,,,
+442,Pedro Caxita Panzo,Panzo,Luanda,923650690,pedropanzo31@gmail.com,Diretor de missões provincial de Luanda,Igreja Evangelica Baptista de Belém,,,,,,,,,,,,
+443,Pembele,João,Luanda,923947123,pembejoao@gmail.com,Professor,1ª Evangélica Baptista de Sapú 2,,,,,,,,,,,,
+444,Pinto,Camuango,Luanda,927983716,pintojosebalantaiiny@gmail.com,Missionário,Igreja Baptista Fonte de Água Viva,,,,,,,,,,,,
+445,Pinto,Camuango,Luanda,955513699,pintojosebalantaiiny@gmail.com,Líder de Missões,Igreja Baptista Fonte de Água Viva,,,,,,,,,,,,
+446,Pinto,Camuango,Luanda,955513699,pintojosebalantaiiny@gmail.com,Missionário,Igreja Baptista Fonte de Água Viva,,,,,,,,,,,,
+447,Pr Cardoso,Jerónimo,Luanda,922763554,cardosohumbajeronimo972@gmail.com,Pastor,Igreja Baptista Paixão de Cristo,,,,,,,,,,,,
+448,Pr Venâncio,Correia,Luanda,922763554,cardosohumbajeronimo972@gmail.com,Pastor,Igreja Baptista Paixão de Cristo,,,,,,,,,,,,
+449,PR. VENÂNCIO CORREIA,CORREIA,Luanda,926296540,mendesbernardo582@gmail.com,Pastor,Igreja Baptista Paixão Cristo,,,,,,,,,,,,
+450,Pr.Evaristo António B.Paulo,Paulo,Luanda,941684785,evaristopaulopaulo764@gmail.com,Pastor,Primeira Igreja Baptista da Boa Fé2,,,,,,,,,,,,
+451,Quintas,Muzala,Moxico,929127688,quintasa36@gmail.com,Missionário,1a igreja evangélica Baptista do Luau,,,,,,,,,,,,
+452,Raul,Emidio,Luanda,924738525,njovolinice@yahoo.com.br,Pastor,Primeira Igreja Batista do Benfica,,,,,,,,,,,,
+453,Reginaldo,João,Luanda,946777750,reginaldotarsis@gmail.com,Pregador,1. Igreja Evangélica Baptista de Luanda,,,,,,,,,,,,
+454,Renaldo Paiva,Esteves,Luanda,931492026,renaldopaiva1992@gmail.com,Secretário,Igreja Baptista Sal da Terra,,,,,,,,,,,,
+455,Ricardo,Santos,Luanda,937599592,malaquiasmolo1984@gmail.com,Pastor,Igreja Baptista Boa Esperança,,,,,,,,,,,,
+456,Ricardo,Noé,Luanda,924836938,Ricardodasilvanoe5@gmail.com,Missionario,Terceira igreja Baptista de Luanda,,,,,,,,,,,,
+457,Rolf,Costa,Luanda,939395601,rolfdinis07@gmail.com,Cooperador do Ministério da Juventude,Segunda Igreja Baptista do Zango,,,,,,,,,,,,
+458,Rosa,Silva,Luanda,923494202,rosamadinga@gmail.com,Professora da EBD,Segunda igreja Baptista de Luanda,,,,,,,,,,,,
+459,Rosa,Silva,Luanda,923494202,rosamadinga@gmail.co,Professora da EBD,Segunda igreja Baptista de Luanda,,,,,,,,,,,,
+460,Rosa,Da Silva,Luanda,923494202,rosamadinga@gmail.com,Prof da EBD,Segunda Igreja Baptista de Luanda,,,,,,,,,,,,
+461,Rosa,Quemba,Luanda,928103507,quembarosa04@gmail.com,Conselheira das Mensageiras do Rei,Igreja Baptista Ebenezer da Sapu,,,,,,,,,,,,
+462,Rosalina,Garcia,Luanda,923285977,franciscogarcia2050@gmail.com,Professora,1ª Evangélica Baptista de Luanda,,,,,,,,,,,,
+463,Rosário,Nkanga,Zaire,926285654,Rosarionkanga@gmail.com,Secretário,Primeira Igreja Baptista do Zaire/Soyo,,,,,,,,,,,,
+464,Rufino,Jorge,Luanda,934027951,varilsonfernandes.vf@gmail.com,Moderador da igreja,Primeira Igreja Evangélica Baptista de Cacuaco,,,,,,,,,,,,
+465,Saiombe,Sanjai,Luanda,929790206,saiombesanjai86@gmail.com,Professor,Primeira Igreja Baptista de Viana,,,,,,,,,,,,
+466,Salatiel,Coelho,Luanda,944748158,migucoelho1@hotmail.com,Líder ministério com surdos,Segunda Igreja Batista do Zango,,,,,,,,,,,,
+467,Samuel,Gimba,Luanda,924500872,savissenga1@gmail.com,Missionário,Primeira Igreja Baptista do Zango,,,,,,,,,,,,
+468,Samuel,Gomes,Luanda,934594238,samuel934594238gomes@gmail.com,Interprete de LGA,Segunda igreja batista do zango,,,,,,,,,,,,
+469,Santos,Lopes,Luanda,940088540,santoslopes4d@gmail.com,Director de missões,Primeira igreja evangelica Batista de Viana,,,,,,,,,,,,
+470,Sebastião,Soqui,Luanda,923607733,sebastiaosoki2011@gmail.com,Pastor,Igreja Batista do Simione,,,,,,,,,,,,
+471,Sebastião,Augusto,Luanda,956383490,sebastiaoaugusto14@hotmail.com,Coordenador da Juventude,Seguanda igreja Baptista do zango,,,,,,,,,,,,
+472,Sebastião,Macaba,Luanda,932251515,sebastiaomacaba1955@gmail.com,Pastor,3ª igreja Baptista de viana,,,,,,,,,,,,
+473,Sebastião,Matondo,Luanda,923331063,zindo2014@hotmail.com,Evangelista,Associação D.Cristianismo Ministério Missionário,,,,,,,,,,,,
+474,Sebastião,Ramos,Luanda,943724699,Ricardodasilvanoe5@gmail.com,Secretário da Missão,Terceira igreja Baptista de Luanda,,,,,,,,,,,,
+475,Sidonio,Zenha,Luanda,933902285,sinioprodu9@hotmail.com,Segundo líder Missão,Primeira Igreja Batista de Luanda Missão Maye Maye,,,,,,,,,,,,
+476,Sidónio,Zenha,Luanda,933902285,sinioprodu9@hotamil.com,Professor,1ª Evangélica Baptista de Luanda,,,,,,,,,,,,
+477,Simão,Tuavile,Luanda,935976040,simaotuaviletuavile20@gmail.com,Missionário,Baptista Amor de Deus,,,,,,,,,,,,
+478,Simão,Mansamo,Luanda,924175128,simaoferraz@gmail.com,Líder de Missões,2ª IGREJA BAPTISTA DA SAPÚ 1,,,,,,,,,,,,
+479,Simão,Bengui,Luanda,929809051,macacxi.firmino@gmail.com,Vice coordenador de Evangelismo e Missões da igreja local,Igreja Baptista Nova Vida,,,,,,,,,,,,
+480,Simon,Miguel,Luanda,922249575,simonmiguel1969@gmail.com,Líder do património,1ª Evangélica Baptista de Luanda,,,,,,,,,,,,
+481,Susana,Gamba,Luanda,939007627,suzanagamba22@gmail.com,DIM,Terceira Igreja Baptista de Luanda,,,,,,,,,,,,
+482,Tania,Clavell,Luanda,923892829,taniaclavell2369@gmail.com,Conselheira da UF e as mensageiras,Igreja Ebenezer da Sapu,,,,,,,,,,,,
+483,Tânia,Paulo,Luanda,943262710,tanyazendaya@gmail.com,Participar,3° igreja batista de Luanda,,,,,,,,,,,,
+484,Teresa,Mbulo,Luanda,935310984,filipejose535@gmail.com,Directora da E.B.D,Canaã,,,,,,,,,,,,
+485,Teresa,Mbulo,Luanda,935310984,teresamariambulo7@gmail.com,Diretora da EBD,Igreja Batista de Canaã,,,,,,,,,,,,
+486,Teresa,Mbulo,Luanda,935310984,josemacanda22@gmail.com,Secretaria do departamento da mocidade,Igreja Baptista de Canaã,,,,,,,,,,,,
+487,Teresa,Malanga,Luanda,942656651,pauloantonionzuzi@gmail.com,Ministra de Louvor,Igreja Baptista Ebenézer da Sapú,,,,,,,,,,,,
+488,Tomás,Monteiro,Luanda,926828701,codilson@gmail.com,Missionário,2ª de Viana,,,,,,,,,,,,
+489,Tusevo,Dikizeko,Luanda,934418162,alehandradosmoranyd@gmail.com,Secretaria do Evangelismo e Missões,Quinta igreja Batista de Cacuaco,,,,,,,,,,,,
+490,Tusevo,Dikizeko,Uige,934418162,maedosmory@gmeil.com,Secretaria do Evangelismo e Missões,Quinta igreja Batista de Cacuaco,,,,,,,,,,,,
+491,Varilson,Fernandes,Luanda,934027951,varilsonfernandes.vf@gmail.com,Secretário local do Departamento de Evangelismo e Missões,Primeira Igreja Evangélica Baptista de Cacuaco,,,,,,,,,,,,
+492,Varilson,Fernandes,Luanda,934027951,varilsonfernandes.vf@gmail.com,Secretário local do Departamento de Evangelismo e Missões,Primeira Igreja Evangélica Baptista de Cacuaco,,,,,,,,,,,,
+493,Venâncio,Raúl,Luanda,924988098,muenhoatok@gmail.com,Diácono,Memorial da fé,,,,,,,,,,,,
+494,Ventura,Sangandala,Luanda,927075416,manuelcanguanda5@gmail.com,Diacono,Igreja Evangélica Baptista Luz Divina,,,,,,,,,,,,
+495,Victor,Nanga,Luanda,923453419,visnanga92@gmail.com,Tesoureiro Nacional da Juventude da CBA,Terceira Igreja Baptista de Luanda,,,,,,,,,,,,
+496,VIEGAS,LOURENÇO,Luanda,951299951,cajatamassala@gml.com,VICE MODERADOR DE MISSÕES,1ª IGREJA BAPTISTA DO ROCHA PINTO,,,,,,,,,,,,
+497,Viegas,Macuntuala,Luanda,927199837,delmacris2020@gmail.com,Pasror,Segunda igreja Baptista do Zango,,,,,,,,,,,,
+498,Viegas,Santos,Luanda,932157099,viegassantos@gmai.com,Líder,Igreja Baptista Fonte de Água Viva,,,,,,,,,,,,
+499,Waldemar,Alexandre,Luanda,940920224,waldemaralexandre200@outlook.com,Líder da Juventude,3* Igreja Baptista de Luanda,,,,,,,,,,,,
+500,Walter,Bernardo,Luanda,922763554,cardosohumbajeronimo972@gmail.com,Regente,Igreja Baptista Paixão de Cristo,,,,,,,,,,,,
+501,Yola,Pinto,Luanda,936786423,pintoy125@gmail.com,Diaconisa/ Professora da EBD,Segunda Igreja Baptista de Luanda,,,,,,,,,,,,
+502,Zacarias,Inácio,Luanda,941014462,zacariasinacio253@gmail.com,Missionário,Baptista Sal da Terra,,,,,,,,,,,,
+503,ZELA SENGO,Sengo,Luanda,2,4494400000000000,pedropanzo31@gmail.com,Missionária,Igreja Evangelica Baptista de Belém,,,,,,,,,,,
+,Estevão,Loth,,,,,,,,,,,,,,,,,
+,Manuel,Chitende,,,,,,,,,,,,,,,,,
+,Adelino,Chilundulo,,,,,,,,,,,,,,,,,
+,Daniel,Correia,,,,,,,,,,,,,,,,,
+,Manuel,Milongo,,,,,,,,,,,,,,,,,
+,Garcia,Junior,,,,,,,,,,,,,,,,,
+,José,Martins,,,,,,,,,,,,,,,,,
+,Mário,Samanjata,,,,,,,,,,,,,,,,,
+,Tiago,Capessa,,,,,,,,,,,,,,,,,
+,João,César,,,,,,,,,,,,,,,,,
+,Fernando,Manuel,,,,,,,,,,,,,,,,,
+,Pacheco,Canangue,,,,,,,,,,,,,,,,,
+,Francisco,Zangui,,,,,,,,,,,,,,,,,
+,Augusto,Silva,,,,,,,,,,,,,,,,,
+,Domingos,Nguijilo,,,,,,,,,,,,,,,,,
+,Alexandre,Chilanda,,,,,,,,,,,,,,,,,
+,Aurélio,Japão,,,,,,,,,,,,,,,,,
+,Frederico,Supuleta,,,,,,,,,,,,,,,,,
+,Tito,Samba,,,,,,,,,,,,,,,,,
+,João,Silva,,,,,,,,,,,,,,,,,
+,David,Ferraz,,,,,,,,,,,,,,,,,
+,Henoch,Kiavauca,,,,,,,,,,,,,,,,,
+,José,Chama,,,,,,,,,,,,,,,,,
+,Mário,Vontade,,,,,,,,,,,,,,,,,
+,Paulino,Cativa,,,,,,,,,,,,,,,,,
+,Mateus,Chaves,,,,,,,,,,,,,,,,,
+,Marcolino,Soares,,,,,,,,,,,,,,,,,
+,Mateus,Silva,,,,,,,,,,,,,,,,,
+,Rosângela,Teck,,,,,,,,,,,,,,,,,
+,Joaquim,David,,,,,,,,,,,,,,,,,
+,Inácio,Chilanda,,,,,,,,,,,,,,,,,
+,Israel,Salomão,,,,,,,,,,,,,,,,,
+,Talhita,Rodrigues,,,,,,,,,,,,,,,,,
+,Mateus,Sili,,,,,,,,,,,,,,,,,
+,Dickson,Curtis,,,,,,,,,,,,,,,,,
+,Convensão,Portuguesa,,,,,,,,,,,,,,,,,
+,Junta,Mundiais,,,,,,,,,,,,,,,,,
+,Internacional,Board,,,,,,,,,,,,,,,,,
